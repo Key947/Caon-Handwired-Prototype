@@ -2491,7 +2491,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Caon65:D_SOD-123_1N4148W"
+		(property "Footprint" "Caon_Footprint:D_SOD-123_1N4148W"
 			(at 152.4 48.26 0)
 			(effects
 				(font
@@ -2643,7 +2643,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Caon65:D_SOD-123_1N4148W"
+		(property "Footprint" "Caon_Footprint:D_SOD-123_1N4148W"
 			(at 152.4 38.1 0)
 			(effects
 				(font
@@ -2730,7 +2730,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Caon65:D_SOD-123_1N4148W"
+		(property "Footprint" "Caon_Footprint:D_SOD-123_1N4148W"
 			(at 152.4 43.18 0)
 			(effects
 				(font
@@ -2882,7 +2882,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Caon65:D_SOD-123_1N4148W"
+		(property "Footprint" "Caon_Footprint:D_SOD-123_1N4148W"
 			(at 152.4 53.34 0)
 			(effects
 				(font
@@ -2970,7 +2970,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Caon65:74HC595A"
+		(property "Footprint" "Caon_Footprint:74HC595A"
 			(at 129.54 48.26 0)
 			(effects
 				(font
@@ -3081,7 +3081,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Caon65:D_SOD-123_1N4148W"
+		(property "Footprint" "Caon_Footprint:D_SOD-123_1N4148W"
 			(at 143.51 50.8 0)
 			(effects
 				(font
@@ -3233,7 +3233,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Caon65:D_SOD-123_1N4148W"
+		(property "Footprint" "Caon_Footprint:D_SOD-123_1N4148W"
 			(at 143.51 55.88 0)
 			(effects
 				(font
@@ -3318,7 +3318,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon65:Capacitor_0805"
+		(property "Footprint" "Caon_Footprint:Capacitor_0805"
 			(at 110.49 49.53 0)
 			(effects
 				(font
@@ -3387,7 +3387,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Caon65:D_SOD-123_1N4148W"
+		(property "Footprint" "Caon_Footprint:D_SOD-123_1N4148W"
 			(at 143.51 40.64 0)
 			(effects
 				(font
@@ -3474,7 +3474,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Caon65:D_SOD-123_1N4148W"
+		(property "Footprint" "Caon_Footprint:D_SOD-123_1N4148W"
 			(at 143.51 45.72 0)
 			(effects
 				(font
@@ -3625,7 +3625,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-xp-promicroish:SuperMini_nRF52840_AH_USBup"
+		(property "Footprint" "Caon_Footprint:SuperMini_NiceNano_USBdn"
 			(at 63.5 81.28 0)
 			(effects
 				(font
