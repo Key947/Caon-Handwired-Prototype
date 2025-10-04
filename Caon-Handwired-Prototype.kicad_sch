@@ -543,602 +543,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Caon65:SuperMini/NiceNano_nRF52840"
-			(exclude_from_sim no)
-			(in_bom no)
-			(on_board yes)
-			(property "Reference" "U"
-				(at 0 22.86 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Value" "SuperMini nRF52840"
-				(at 0 20.32 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" "Caon65:SuperMini_NiceNano_USBdn"
-				(at 0 -30.48 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "https://wiki.icbbuy.com/doku.php?id=developmentboard:nrf52840"
-				(at 1.27 -33.02 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Symbol for an nicekeyboards nice!nano"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet2" "https://nicekeyboards.com/docs/nice-nano/pinout-schematic"
-				(at 0.254 -35.306 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "SuperMini/NiceNano_nRF52840_1_0"
-				(pin power_out line
-					(at -19.05 16.51 0)
-					(length 2.54)
-					(name "BAT-"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "B-"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at -19.05 13.97 0)
-					(length 2.54)
-					(name "P0.06"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "006"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at -19.05 11.43 0)
-					(length 2.54)
-					(name "P0.08"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "008"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_out line
-					(at -19.05 8.89 0)
-					(length 2.54)
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "GD"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_out line
-					(at -19.05 6.35 0)
-					(length 2.54)
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "GD"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at -19.05 3.81 0)
-					(length 2.54)
-					(name "P0.17"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "017"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at -19.05 1.27 0)
-					(length 2.54)
-					(name "P0.20"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "020"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at -19.05 -1.27 0)
-					(length 2.54)
-					(name "P0.22"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "022"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at -19.05 -3.81 0)
-					(length 2.54)
-					(name "P0.24"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "024"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at -19.05 -6.35 0)
-					(length 2.54)
-					(name "P1.00"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "100"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at -19.05 -8.89 0)
-					(length 2.54)
-					(name "P0.11"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "011"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at -19.05 -11.43 0)
-					(length 2.54)
-					(name "P1.04-LF"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "104"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at -19.05 -13.97 0)
-					(length 2.54)
-					(name "P1.06-LF"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "106"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at -5.08 -19.05 90)
-					(length 2.54)
-					(name "P1.01-LF"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "101"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at -2.54 -19.05 90)
-					(length 2.54)
-					(name "P1.02-LF"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "102"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 0 -19.05 90)
-					(length 2.54)
-					(name "P1.07-LF"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "107"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_out line
-					(at 19.05 16.51 180)
-					(length 2.54)
-					(name "BAT+"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "B+"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_out line
-					(at 19.05 13.97 180)
-					(length 2.54)
-					(name "BAT+"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "B+"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_out line
-					(at 19.05 11.43 180)
-					(length 2.54)
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "GD"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 19.05 8.89 180)
-					(length 2.54)
-					(name "RST"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "RS"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_out line
-					(at 19.05 6.35 180)
-					(length 2.54)
-					(name "3V3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3V3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 19.05 3.81 180)
-					(length 2.54)
-					(name "P0.31-LF"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "031"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 19.05 1.27 180)
-					(length 2.54)
-					(name "P0.29-LF"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "029"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 19.05 -1.27 180)
-					(length 2.54)
-					(name "P0.02-LF"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "002"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 19.05 -3.81 180)
-					(length 2.54)
-					(name "P1.15-LF"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "115"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 19.05 -6.35 180)
-					(length 2.54)
-					(name "P1.13-LF"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "113"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 19.05 -8.89 180)
-					(length 2.54)
-					(name "P1.11-LF"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "111"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 19.05 -11.43 180)
-					(length 2.54)
-					(name "P0.10-LF"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "010"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 19.05 -13.97 180)
-					(length 2.54)
-					(name "P0.09-LF"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "009"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(symbol "SuperMini/NiceNano_nRF52840_1_1"
-				(rectangle
-					(start -16.51 19.05)
-					(end 16.51 -16.51)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Device:C_Small"
 			(pin_numbers
 				(hide yes)
@@ -1274,6 +678,594 @@
 								(size 1.27 1.27)
 							)
 						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "PCM_marbastlib-promicroish:SuperMini_nRF52840"
+			(exclude_from_sim no)
+			(in_bom no)
+			(on_board yes)
+			(property "Reference" "U"
+				(at 0 22.86 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "SuperMini nRF52840"
+				(at 0 20.32 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "PCM_marbastlib-xp-promicroish:SuperMini_nRF52840_AH_USBup"
+				(at 0 -30.48 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://wiki.icbbuy.com/doku.php?id=developmentboard:nrf52840"
+				(at 1.27 -33.02 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Symbol for an nicekeyboards nice!nano"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "SuperMini_nRF52840_0_0"
+				(pin bidirectional line
+					(at -19.05 13.97 0)
+					(length 2.54)
+					(name "P0.06"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -19.05 11.43 0)
+					(length 2.54)
+					(name "P0.08"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_out line
+					(at -19.05 8.89 0)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_out line
+					(at -19.05 6.35 0)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -19.05 3.81 0)
+					(length 2.54)
+					(name "P0.17"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -19.05 1.27 0)
+					(length 2.54)
+					(name "P0.20"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -19.05 -1.27 0)
+					(length 2.54)
+					(name "P0.22"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -19.05 -3.81 0)
+					(length 2.54)
+					(name "P0.24"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -19.05 -6.35 0)
+					(length 2.54)
+					(name "P1.00"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -19.05 -8.89 0)
+					(length 2.54)
+					(name "P0.11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -19.05 -11.43 0)
+					(length 2.54)
+					(name "P1.04-LF"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -19.05 -13.97 0)
+					(length 2.54)
+					(name "P1.06-LF"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_out line
+					(at 19.05 11.43 180)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 19.05 8.89 180)
+					(length 2.54)
+					(name "RST"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "15"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 19.05 3.81 180)
+					(length 2.54)
+					(name "P0.31-LF"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "17"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 19.05 1.27 180)
+					(length 2.54)
+					(name "P0.29-LF"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "18"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 19.05 -1.27 180)
+					(length 2.54)
+					(name "P0.02-LF"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "19"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 19.05 -3.81 180)
+					(length 2.54)
+					(name "P1.15-LF"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "20"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 19.05 -6.35 180)
+					(length 2.54)
+					(name "P1.13-LF"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "21"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 19.05 -8.89 180)
+					(length 2.54)
+					(name "P1.11-LF"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "22"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 19.05 -13.97 180)
+					(length 2.54)
+					(name "P0.09-LF"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "24"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "SuperMini_nRF52840_1_0"
+				(pin power_out line
+					(at -19.05 16.51 0)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "28"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -5.08 -19.05 90)
+					(length 2.54)
+					(name "P1.01-LF"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "25"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -2.54 -19.05 90)
+					(length 2.54)
+					(name "P1.02-LF"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "26"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 0 -19.05 90)
+					(length 2.54)
+					(name "P1.07-LF"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "27"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_out line
+					(at 19.05 16.51 180)
+					(length 2.54)
+					(name "BAT+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "29"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_out line
+					(at 19.05 13.97 180)
+					(length 2.54)
+					(name "BAT+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_out line
+					(at 19.05 6.35 180)
+					(length 2.54)
+					(name "3V3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "16"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 19.05 -11.43 180)
+					(length 2.54)
+					(name "P0.10-LF"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "23"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "SuperMini_nRF52840_1_1"
+				(rectangle
+					(start -16.51 19.05)
+					(end 16.51 -16.51)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
 					)
 				)
 			)
@@ -2799,165 +2791,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Caon65:SuperMini/NiceNano_nRF52840")
-		(at 63.5 50.8 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "67ae1629-c8d1-4f66-a56c-502edc9acccf")
-		(property "Reference" "U2"
-			(at 63.5 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "Nice!Nano/SuperMini nRF52840"
-			(at 63.5 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Caon65:SuperMini_NiceNano_USBdn"
-			(at 63.5 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://wiki.icbbuy.com/doku.php?id=developmentboard:nrf52840"
-			(at 64.77 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Symbol for an nicekeyboards nice!nano"
-			(at 63.5 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet2" "https://nicekeyboards.com/docs/nice-nano/pinout-schematic"
-			(at 63.754 86.106 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "006"
-			(uuid "8586720b-e9fc-4473-9d95-615d8c255c77")
-		)
-		(pin "102"
-			(uuid "7b28f457-b551-40d2-ac97-47e94bb19fa2")
-		)
-		(pin "106"
-			(uuid "2aea082e-4982-42ee-a2f8-40bca334d7be")
-		)
-		(pin "002"
-			(uuid "969158de-0669-4c7a-a9c2-b22ddee55770")
-		)
-		(pin "017"
-			(uuid "c872a5b7-8d9f-42d7-80a5-86d2e18854c6")
-		)
-		(pin "010"
-			(uuid "cf691755-ab04-4bdb-b092-4e3a4f034771")
-		)
-		(pin "GD"
-			(uuid "b45a2cd1-d74c-4930-b0e6-3b714015602c")
-		)
-		(pin "RS"
-			(uuid "f4b3cb62-fbfa-4abd-8c86-1be6b70ad820")
-		)
-		(pin "008"
-			(uuid "1d609418-b844-455d-aa57-eba8349a1aee")
-		)
-		(pin "029"
-			(uuid "f0f222a4-1414-4c22-869b-4cc3b3a47c44")
-		)
-		(pin "022"
-			(uuid "9ed7e92f-2dda-4269-83c8-4281b4672771")
-		)
-		(pin "107"
-			(uuid "00756738-ec26-4930-b68d-86c21ad9179a")
-		)
-		(pin "009"
-			(uuid "f309a0b1-ebab-4a16-ad16-8efb6e3445d0")
-		)
-		(pin "113"
-			(uuid "2ad9d53e-744a-4f03-90fe-4108f4cccf1b")
-		)
-		(pin "100"
-			(uuid "bb92598e-0c31-47e6-81e7-e919d83b0a33")
-		)
-		(pin "B+"
-			(uuid "8b020742-427a-4029-8e84-8b8bbe18f3cb")
-		)
-		(pin "020"
-			(uuid "9c415246-8d70-4df6-8ccd-58fb33fd605f")
-		)
-		(pin "104"
-			(uuid "3d58cb59-3a73-4c8e-a845-201e0d595f7b")
-		)
-		(pin "031"
-			(uuid "f297dfce-b172-439b-991e-68d30c5d997b")
-		)
-		(pin "101"
-			(uuid "59f3c89f-ae3f-4afb-8aee-0ef3ec9b3d5a")
-		)
-		(pin "3V3"
-			(uuid "6d164628-cb35-4681-8b87-7a55011746da")
-		)
-		(pin "024"
-			(uuid "5439dfea-2a55-4800-af67-ce09ab6f9a04")
-		)
-		(pin "111"
-			(uuid "0682b1a6-c375-4c28-8fda-bf515626a15a")
-		)
-		(pin "115"
-			(uuid "14c75d2a-b0e6-4580-8b9f-9e65875edd9a")
-		)
-		(pin "011"
-			(uuid "c66e0952-66b6-4c33-8abb-8aa6e60568b2")
-		)
-		(pin "B+"
-			(uuid "b75904c4-95ec-4cbb-9598-69efc640c5b0")
-		)
-		(pin "B-"
-			(uuid "1202879e-92ab-466e-be01-f8dd3e18c5c5")
-		)
-		(pin "GD"
-			(uuid "25a75075-c69e-4512-9c4c-26e6c2279704")
-		)
-		(pin "GD"
-			(uuid "e676e50d-ccde-4ee2-a8cb-f40db6a86ec5")
-		)
-		(instances
-			(project "Caon-Handwired-Prototype"
-				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "U2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 95.25 40.64 0)
 		(unit 1)
@@ -2966,7 +2799,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "67f78331-0413-4d5a-a29b-535a56a8da58")
-		(property "Reference" "#PWR03"
+		(property "Reference" "#PWR02"
 			(at 95.25 46.99 0)
 			(effects
 				(font
@@ -3016,7 +2849,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "#PWR03")
+					(reference "#PWR02")
 					(unit 1)
 				)
 			)
@@ -3317,7 +3150,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a8dd5ebc-88b2-41f3-85d3-f8e415951e66")
-		(property "Reference" "#PWR04"
+		(property "Reference" "#PWR03"
 			(at 34.29 49.53 0)
 			(effects
 				(font
@@ -3367,7 +3200,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "#PWR04")
+					(reference "#PWR03")
 					(unit 1)
 				)
 			)
@@ -3710,7 +3543,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f946dc5b-9d35-478d-94f5-d93cf3ecdcb0")
-		(property "Reference" "#PWR06"
+		(property "Reference" "#PWR04"
 			(at 129.54 74.93 0)
 			(effects
 				(font
@@ -3760,7 +3593,156 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "#PWR06")
+					(reference "#PWR04")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PCM_marbastlib-promicroish:SuperMini_nRF52840")
+		(at 63.5 50.8 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fff4629b-5fd7-40aa-89c7-f28c04d44637")
+		(property "Reference" "U2"
+			(at 63.5 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SuperMini nRF52840"
+			(at 63.5 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "PCM_marbastlib-xp-promicroish:SuperMini_nRF52840_AH_USBup"
+			(at 63.5 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://wiki.icbbuy.com/doku.php?id=developmentboard:nrf52840"
+			(at 64.77 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Symbol for an nicekeyboards nice!nano"
+			(at 63.5 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "3d85e1fb-0a78-40d5-a21c-dca06e0acddf")
+		)
+		(pin "11"
+			(uuid "e77a96a0-e68c-4d5e-9f9b-52b1a30eb43f")
+		)
+		(pin "15"
+			(uuid "dc03e5ca-f4b4-44cc-ac36-f5f179151b2f")
+		)
+		(pin "18"
+			(uuid "72307307-d8ab-4663-84f4-e35568ee5362")
+		)
+		(pin "19"
+			(uuid "20b11f41-a400-448b-9c61-1aa3ba343ca9")
+		)
+		(pin "1"
+			(uuid "25b8c981-3309-4194-af90-0b60e0f0c4b1")
+		)
+		(pin "2"
+			(uuid "6e5808d3-3239-4bbc-8210-cb4201c1f814")
+		)
+		(pin "6"
+			(uuid "ee344c9b-ae0d-4360-9665-c8f2685767d1")
+		)
+		(pin "5"
+			(uuid "db1e13bf-dc72-4685-a807-d010ddac7df8")
+		)
+		(pin "8"
+			(uuid "050aac80-8c42-4f5b-a432-3366259e51fa")
+		)
+		(pin "7"
+			(uuid "c9de02a0-bc0b-4f14-9c91-0c28b211a9c7")
+		)
+		(pin "14"
+			(uuid "66a89033-b332-4a9c-b5eb-9d04c4a57f62")
+		)
+		(pin "17"
+			(uuid "93283164-48eb-4e66-a542-8ed1ccbb26b1")
+		)
+		(pin "4"
+			(uuid "fec1b45f-fe0c-4c8a-ba25-2749a268ddf6")
+		)
+		(pin "9"
+			(uuid "82b0c0bc-208f-493d-9e4e-6f427dd577bf")
+		)
+		(pin "10"
+			(uuid "3e3ba026-1ded-411c-9af8-dc430803c259")
+		)
+		(pin "12"
+			(uuid "417b3ff5-afc4-4614-ac44-3ae3157f99c2")
+		)
+		(pin "24"
+			(uuid "12ffc386-69f9-4ada-adf5-c3281d56842c")
+		)
+		(pin "26"
+			(uuid "4aae20cd-363e-46c3-8706-d5c2bb41ac45")
+		)
+		(pin "22"
+			(uuid "5535e0b0-9dda-4d8b-a09f-930bb640518a")
+		)
+		(pin "20"
+			(uuid "57ebdff2-fdaf-43e9-a8d2-815afacd6832")
+		)
+		(pin "27"
+			(uuid "0cf1b9c9-a931-4aa4-819d-61743e009746")
+		)
+		(pin "13"
+			(uuid "5327c4bb-14fb-4118-84cd-a36a8a2e7ed8")
+		)
+		(pin "21"
+			(uuid "519b4556-9918-415d-9cd2-e925ee7199b9")
+		)
+		(pin "29"
+			(uuid "d5b45dea-bf4f-4063-a635-24f62be035c8")
+		)
+		(pin "16"
+			(uuid "cf3aa1c7-60a9-4256-ac52-838c5604cd23")
+		)
+		(pin "23"
+			(uuid "4408055e-3ef2-4c24-8fd6-8ae6bf182d81")
+		)
+		(pin "28"
+			(uuid "39380615-c4e8-49a6-a32b-65597396ef15")
+		)
+		(pin "25"
+			(uuid "7d440108-d97a-412a-83d5-4f56b4fca33b")
+		)
+		(instances
+			(project ""
+				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
+					(reference "U2")
 					(unit 1)
 				)
 			)
