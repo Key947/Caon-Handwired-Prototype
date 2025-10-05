@@ -1,4 +1,4 @@
-27349306050963077
+27351090200699627
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -2814,6 +2814,13 @@ capacitor handsolder
 2
 2
 Caon_Footprint
+D_DO-35_SOD27_P2.54mm_Caon65
+Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf
+Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm
+0
+2
+2
+Caon_Footprint
 D_SOD-123_1N4148W
 SOD-123
 SOD-123
@@ -2910,7 +2917,7 @@ Footprint for SuperMini And Nice Nano nRF52840 (nRF52850 pro-micro compatible co
 
 0
 32
-26
+29
 Capacitor_SMD
 CP_Elec_3x5.3
 SMT capacitor, aluminium electrolytic, 3x5.3, Cornell Dubilier Electronics 
