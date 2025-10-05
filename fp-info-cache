@@ -1,4 +1,4 @@
-27351090200841096
+27352849851306266
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -2911,6 +2911,13 @@ Footprint for Cherry Clip/Screw in type stabilizers, 2u
 0
 0
 0
+Caon_Footprint
+SW_PUSH_6mm
+Generic 6mm SW tactile push button
+tact sw push 6mm
+0
+2
+2
 Caon_Footprint
 SuperMini_NiceNano_USBdn
 Footprint for SuperMini And Nice Nano nRF52840 (nRF52850 pro-micro compatible controller), USB adn Chip facing PCB
