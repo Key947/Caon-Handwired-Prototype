@@ -543,146 +543,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Device:C_Small"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 0.254)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "C"
-				(at 0.254 1.778 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Value" "C_Small"
-				(at 0.254 -2.032 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Unpolarized capacitor, small symbol"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "capacitor cap"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "C_*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "C_Small_0_1"
-				(polyline
-					(pts
-						(xy -1.524 0.508) (xy 1.524 0.508)
-					)
-					(stroke
-						(width 0.3048)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.524 -0.508) (xy 1.524 -0.508)
-					)
-					(stroke
-						(width 0.3302)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "C_Small_1_1"
-				(pin passive line
-					(at 0 2.54 270)
-					(length 2.032)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -2.54 90)
-					(length 2.032)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "PCM_marbastlib-promicroish:SuperMini_nRF52840"
 			(exclude_from_sim no)
 			(in_bom no)
@@ -1557,22 +1417,10 @@
 		(uuid "83bd4cf1-59dd-4f0d-b782-094c7e1b4935")
 	)
 	(junction
-		(at 110.49 45.72)
+		(at 129.54 31.75)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "9f1ca5c3-4f78-4e07-964a-5221b9977e72")
-	)
-	(junction
-		(at 118.11 53.34)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e1037a8b-e86d-4764-9382-c63cedf78476")
-	)
-	(junction
-		(at 129.54 29.21)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ecc8d878-d23d-470a-a302-04e987fc8979")
+		(uuid "d8ae3197-5f08-4f2b-8b4d-f7ccc2659b8f")
 	)
 	(junction
 		(at 129.54 67.31)
@@ -1633,6 +1481,10 @@
 		(uuid "6ffe494a-8a14-4841-8866-9fdce340df13")
 	)
 	(no_connect
+		(at 139.7 60.96)
+		(uuid "808326c0-248a-42cb-be6f-e9d41c131fe3")
+	)
+	(no_connect
 		(at 82.55 57.15)
 		(uuid "86b6a8f0-32c2-469f-aa57-c534637e7606")
 	)
@@ -1676,6 +1528,26 @@
 	)
 	(wire
 		(pts
+			(xy 110.49 45.72) (xy 119.38 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "047b7abc-e455-465d-afbc-101f61cb13af")
+	)
+	(wire
+		(pts
+			(xy 129.54 31.75) (xy 129.54 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "05d85c92-b2dc-4f13-a06e-34bcc616adc3")
+	)
+	(wire
+		(pts
 			(xy 95.25 40.64) (xy 95.25 39.37)
 		)
 		(stroke
@@ -1693,16 +1565,6 @@
 			(type default)
 		)
 		(uuid "1c92e111-0e48-4076-b56a-0e55f58cff29")
-	)
-	(wire
-		(pts
-			(xy 129.54 29.21) (xy 129.54 33.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1ca59167-5600-4c23-bc6d-7c96ead123f6")
 	)
 	(wire
 		(pts
@@ -1726,23 +1588,13 @@
 	)
 	(wire
 		(pts
-			(xy 129.54 26.67) (xy 129.54 29.21)
+			(xy 129.54 30.48) (xy 129.54 31.75)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "4c36fdd0-8eec-4800-b1e5-0c517d94e4e3")
-	)
-	(wire
-		(pts
-			(xy 110.49 53.34) (xy 110.49 52.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5106c781-af0c-45ff-af5e-53b1d2228276")
+		(uuid "42932117-6632-4535-953a-92d9833ae6a9")
 	)
 	(wire
 		(pts
@@ -1766,7 +1618,7 @@
 	)
 	(wire
 		(pts
-			(xy 110.49 29.21) (xy 129.54 29.21)
+			(xy 110.49 31.75) (xy 129.54 31.75)
 		)
 		(stroke
 			(width 0)
@@ -1803,16 +1655,6 @@
 			(type default)
 		)
 		(uuid "8576ff2b-5836-4e93-81f3-800a0bb09600")
-	)
-	(wire
-		(pts
-			(xy 110.49 46.99) (xy 110.49 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9075e871-de32-4c8f-be48-40bda52796bf")
 	)
 	(wire
 		(pts
@@ -1856,16 +1698,6 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 53.34) (xy 110.49 53.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bc483571-5b94-4805-8945-125dcd544388")
-	)
-	(wire
-		(pts
 			(xy 44.45 41.91) (xy 43.18 41.91)
 		)
 		(stroke
@@ -1886,23 +1718,13 @@
 	)
 	(wire
 		(pts
-			(xy 110.49 45.72) (xy 119.38 45.72)
+			(xy 110.49 31.75) (xy 110.49 45.72)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "e0fa79d4-b9aa-47b9-8649-c2ade2582969")
-	)
-	(wire
-		(pts
-			(xy 110.49 45.72) (xy 110.49 29.21)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ef7cdf5d-defa-46a4-a42c-5d3ebb5a0eb6")
+		(uuid "da88699c-33e1-4195-ac62-1f3f9919e541")
 	)
 	(wire
 		(pts
@@ -1913,28 +1735,6 @@
 			(type default)
 		)
 		(uuid "f192e3be-3531-47be-9aef-6073113b4a32")
-	)
-	(global_label "QH'"
-		(shape output)
-		(at 139.7 60.96 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "02bd0422-edf4-4368-a8ee-426540791989")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 145.951 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
 	)
 	(global_label "Row 0"
 		(shape input)
@@ -2268,7 +2068,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 129.54 26.67 0)
+		(at 129.54 30.48 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2276,7 +2076,7 @@
 		(dnp no)
 		(uuid "32a2a13a-dd6f-453f-8d2d-137728605cc0")
 		(property "Reference" "#PWR01"
-			(at 129.54 30.48 0)
+			(at 129.54 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2285,7 +2085,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 129.54 22.86 0)
+			(at 129.54 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2293,7 +2093,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 129.54 26.67 0)
+			(at 129.54 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2302,7 +2102,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 129.54 26.67 0)
+			(at 129.54 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2311,7 +2111,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 129.54 26.67 0)
+			(at 129.54 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2511,7 +2311,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:74HC595A"
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
 			(at 129.54 48.26 0)
 			(effects
 				(font
@@ -2742,73 +2542,6 @@
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
 					(reference "S_D2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 110.49 49.53 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "cdfd1cc0-285d-42eb-9b8c-56afda644b0c")
-		(property "Reference" "S_C1"
-			(at 104.14 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "0.1uF"
-			(at 105.41 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Caon_Footprint:Capacitor_0805"
-			(at 110.49 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 110.49 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 110.49 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "ea00faf5-1434-4120-982b-9e25b797406b")
-		)
-		(pin "1"
-			(uuid "c77b47b0-74cd-4cf6-a048-721223935aa4")
-		)
-		(instances
-			(project "Caon-Handwired-Prototype"
-				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "S_C1")
 					(unit 1)
 				)
 			)
