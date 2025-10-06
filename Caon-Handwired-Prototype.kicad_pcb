@@ -107,53 +107,52 @@
 	(net 26 "C1")
 	(net 27 "C2")
 	(net 28 "C3")
-	(net 29 "C4")
-	(net 30 "unconnected-(U2-QD-Pad3)")
-	(net 31 "unconnected-(U2-QH&apos;-Pad9)")
-	(net 32 "unconnected-(U2-QA-Pad15)")
-	(net 33 "unconnected-(U2-QE-Pad4)")
-	(net 34 "unconnected-(U2-QF-Pad5)")
-	(net 35 "unconnected-(U3-P1.07-LF-Pad27)")
-	(net 36 "unconnected-(U3-P0.20-Pad6)")
-	(net 37 "unconnected-(U3-P1.00-Pad9)")
-	(net 38 "unconnected-(U3-P1.01-LF-Pad25)")
-	(net 39 "unconnected-(U3-P0.02-LF-Pad19)")
-	(net 40 "unconnected-(U3-P1.02-LF-Pad26)")
-	(net 41 "unconnected-(U3-P0.11-Pad10)")
-	(net 42 "unconnected-(U3-P1.01-LF-Pad25)_1")
-	(net 43 "unconnected-(U3-P1.13-LF-Pad21)")
-	(net 44 "unconnected-(U3-P1.02-LF-Pad26)_1")
-	(net 45 "unconnected-(U3-P0.22-Pad7)")
-	(net 46 "unconnected-(U3-RST-Pad15)")
-	(net 47 "unconnected-(U3-P1.07-LF-Pad27)_1")
-	(net 48 "unconnected-(U3-BAT+-Pad29)")
-	(net 49 "unconnected-(U3-P1.11-LF-Pad22)")
-	(net 50 "unconnected-(U3-P1.15-LF-Pad20)")
-	(net 51 "unconnected-(U3-P0.24-Pad8)")
-	(net 52 "unconnected-(U3-BAT+-Pad13)")
-	(net 53 "Net-(D1-A)")
-	(net 54 "C0")
-	(net 55 "Net-(D2-A)")
-	(net 56 "Net-(D3-A)")
-	(net 57 "Net-(D5-A)")
-	(net 58 "Net-(D6-A)")
-	(net 59 "Net-(D7-A)")
-	(net 60 "R0")
-	(net 61 "R1")
-	(net 62 "unconnected-(SW4-PadMP)")
-	(net 63 "unconnected-(SW4-PadMP)_1")
-	(net 64 "unconnected-(SW8-PadMP)")
-	(net 65 "unconnected-(SW8-PadMP)_1")
+	(net 29 "unconnected-(U2-QD-Pad3)")
+	(net 30 "unconnected-(U2-QH&apos;-Pad9)")
+	(net 31 "unconnected-(U2-QA-Pad15)")
+	(net 32 "unconnected-(U2-QE-Pad4)")
+	(net 33 "unconnected-(U2-QF-Pad5)")
+	(net 34 "unconnected-(U3-P1.07-LF-Pad27)")
+	(net 35 "unconnected-(U3-P0.20-Pad6)")
+	(net 36 "unconnected-(U3-P1.00-Pad9)")
+	(net 37 "unconnected-(U3-P1.01-LF-Pad25)")
+	(net 38 "unconnected-(U3-P0.02-LF-Pad19)")
+	(net 39 "unconnected-(U3-P1.02-LF-Pad26)")
+	(net 40 "unconnected-(U3-P0.11-Pad10)")
+	(net 41 "unconnected-(U3-P1.01-LF-Pad25)_1")
+	(net 42 "unconnected-(U3-P1.13-LF-Pad21)")
+	(net 43 "unconnected-(U3-P1.02-LF-Pad26)_1")
+	(net 44 "unconnected-(U3-P0.22-Pad7)")
+	(net 45 "unconnected-(U3-RST-Pad15)")
+	(net 46 "unconnected-(U3-P1.07-LF-Pad27)_1")
+	(net 47 "unconnected-(U3-BAT+-Pad29)")
+	(net 48 "unconnected-(U3-P1.11-LF-Pad22)")
+	(net 49 "unconnected-(U3-P1.15-LF-Pad20)")
+	(net 50 "unconnected-(U3-P0.24-Pad8)")
+	(net 51 "unconnected-(U3-BAT+-Pad13)")
+	(net 52 "Net-(D1-A)")
+	(net 53 "C0")
+	(net 54 "Net-(D2-A)")
+	(net 55 "Net-(D3-A)")
+	(net 56 "Net-(D5-A)")
+	(net 57 "Net-(D6-A)")
+	(net 58 "Net-(D7-A)")
+	(net 59 "R0")
+	(net 60 "R1")
+	(net 61 "unconnected-(SW4-PadMP)")
+	(net 62 "unconnected-(SW4-PadMP)_1")
+	(net 63 "unconnected-(SW8-PadMP)")
+	(net 64 "unconnected-(SW8-PadMP)_1")
 	(footprint "Caon_Footprint:SW_PUSH_6mm"
 		(layer "F.Cu")
 		(uuid "17494a4f-4eb7-4464-bbc3-4eb51366bfdf")
-		(at 27.94 144.255564 -90)
+		(at 35.56 146.795564 -90)
 		(descr "Generic 6mm SW tactile push button")
 		(tags "tact sw push 6mm")
 		(property "Reference" "SW2"
-			(at 0 -5.08 180)
+			(at -5.08 0 180)
 			(layer "F.SilkS")
-			(uuid "aef4ed61-b277-4ef2-9e14-db3ae0f94d12")
+			(uuid "4264ecf1-838f-4db0-8ceb-de3aa0b000ab")
 			(effects
 				(font
 					(size 1 1)
@@ -164,7 +163,7 @@
 		(property "Value" "~"
 			(at 0 3.25 90)
 			(layer "F.Fab")
-			(uuid "dd016ee5-c260-4ac0-abdb-39aa214943a8")
+			(uuid "5c99f3fa-ffb1-4392-9d75-1a7324401032")
 			(effects
 				(font
 					(size 1 1)
@@ -177,7 +176,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f1694d9a-d27c-4197-8848-63c43f034ec3")
+			(uuid "52f27c21-0a35-453d-a193-882fddcde158")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -190,7 +189,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0edb68a6-fd2c-49bc-a582-9d1d45c6ad23")
+			(uuid "0ab7ba52-b236-441e-b51c-5007dfabee07")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -294,7 +293,7 @@
 			(uuid "83239d97-4fab-4e04-80ca-af3ff37a4121")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 90)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(uuid "4f65faf8-731b-4d3e-a602-c8db7232517f")
 			(effects
@@ -321,7 +320,7 @@
 			(drill 1.1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 55 "Net-(D2-A)")
+			(net 54 "Net-(D2-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "953483a5-4425-4b64-854f-4b78ac86c076")
@@ -342,13 +341,13 @@
 	(footprint "Caon_Footprint:SW_PUSH_6mm"
 		(layer "F.Cu")
 		(uuid "196b99d3-750b-463a-8906-06a3f3f9dbac")
-		(at 50.8 136.635564 -90)
+		(at 43.18 146.795564 -90)
 		(descr "Generic 6mm SW tactile push button")
 		(tags "tact sw push 6mm")
 		(property "Reference" "SW6"
-			(at 0 -5.08 180)
+			(at -5.08 0 0)
 			(layer "F.SilkS")
-			(uuid "94b8ecc9-196c-4d23-8dfd-ace778c5aeb5")
+			(uuid "2cea4e43-5b2b-484f-beb4-c8d5affc3a64")
 			(effects
 				(font
 					(size 1 1)
@@ -359,7 +358,7 @@
 		(property "Value" "~"
 			(at 0 3.25 90)
 			(layer "F.Fab")
-			(uuid "1cc765b7-6ced-40e7-9714-2299dbafef11")
+			(uuid "469d041c-1a26-4d13-bb9f-2a181d65b25a")
 			(effects
 				(font
 					(size 1 1)
@@ -372,7 +371,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "03daf451-4d24-47b5-b94f-d48065603005")
+			(uuid "87c241a1-53e3-4de9-b966-2cc426039b49")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -385,7 +384,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2f958468-12db-4efb-9247-8553f3518ec1")
+			(uuid "13da7979-cd99-404f-a7a0-af31ed20caa9")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -489,7 +488,7 @@
 			(uuid "f1ab7aa0-e73b-4b73-9cd6-825e10c11533")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 90)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(uuid "4c4e1c93-f491-4798-9706-749ac6ed9e09")
 			(effects
@@ -516,7 +515,7 @@
 			(drill 1.1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 58 "Net-(D6-A)")
+			(net 57 "Net-(D6-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "025c83d1-035f-43ae-8fd8-4039aa545f19")
@@ -537,13 +536,13 @@
 	(footprint "Caon_Footprint:D_DO-35_SOD27_P2.54mm_Caon65"
 		(layer "F.Cu")
 		(uuid "2bb4c2a3-238d-4b52-9842-63a0f27795eb")
-		(at 170.18 72.650806)
+		(at 30.48 136.635564 -90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
 		(property "Reference" "D1"
-			(at 1.27 -2.326371 0)
+			(at 0 2.54 180)
 			(layer "F.SilkS")
-			(uuid "63e044c1-4bc7-454b-ac2d-40a12fcf1363")
+			(uuid "55342e40-61b1-4751-8917-d6eff3b5cfe9")
 			(effects
 				(font
 					(size 1 1)
@@ -552,9 +551,9 @@
 			)
 		)
 		(property "Value" "~"
-			(at 1.27 3.215371 0)
+			(at 1.27 3.215371 90)
 			(layer "F.Fab")
-			(uuid "f7b7f4cb-3c50-4ea5-b658-e1ee6774cac9")
+			(uuid "54dc2641-f32d-427f-a27c-34ca943d867b")
 			(effects
 				(font
 					(size 1 1)
@@ -563,10 +562,10 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "18dd00fb-f982-4c9e-abf7-0405546d842f")
+			(uuid "0bf82f82-679d-4951-88e6-52d5301f02ac")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -575,10 +574,10 @@
 			)
 		)
 		(property "Description" "100V 0.15A standard switching diode, DO-35"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5f86e7cb-abef-453b-b30e-2bdeb6be7eb3")
+			(uuid "b665686d-df4e-4cf0-aba3-852428bca931")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -587,7 +586,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -600,7 +599,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -671,7 +670,7 @@
 			(uuid "cfbbe89a-ca72-4813-9781-c809c9a2a34d")
 		)
 		(fp_text user "A"
-			(at 4.34 0 0)
+			(at -2.54 0 90)
 			(layer "F.SilkS")
 			(uuid "e8dd23d6-ab9b-49a2-9c1c-9e96c354a1cd")
 			(effects
@@ -682,7 +681,7 @@
 			)
 		)
 		(fp_text user "A"
-			(at 4.34 0 0)
+			(at -2.54 0 90)
 			(layer "F.Fab")
 			(uuid "0df7a365-114f-4687-b1fa-1f59e5479640")
 			(effects
@@ -693,7 +692,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 -2.326371 0)
+			(at 0 2.54 180)
 			(layer "F.Fab")
 			(uuid "7973e8b1-9744-4409-86dc-3c93ad40405e")
 			(effects
@@ -704,24 +703,24 @@
 			)
 		)
 		(pad "1" thru_hole roundrect
-			(at 0 0)
+			(at 0 0 270)
 			(size 1.6 1.6)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(roundrect_rratio 0.15625)
-			(net 60 "R0")
+			(net 59 "R0")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "37966de9-0e6e-4932-8d1d-bfa8be71f736")
 		)
 		(pad "2" thru_hole circle
-			(at 2.54 0)
+			(at 2.54 0 270)
 			(size 1.6 1.6)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 53 "Net-(D1-A)")
+			(net 52 "Net-(D1-A)")
 			(pinfunction "A")
 			(pintype "passive")
 			(uuid "7b6a9ce5-5571-4986-95ef-6b2d5268f149")
@@ -742,13 +741,13 @@
 	(footprint "Caon_Footprint:D_DO-35_SOD27_P2.54mm_Caon65"
 		(layer "F.Cu")
 		(uuid "335c27d4-b527-4d75-8a85-47e76e90b7e6")
-		(at 170.18 80.19629)
+		(at 30.48 156.955564 -90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
 		(property "Reference" "D3"
-			(at 1.27 -2.326371 0)
+			(at 0 2.54 180)
 			(layer "F.SilkS")
-			(uuid "65663d7f-483e-42c7-acab-ce503c57e230")
+			(uuid "9c2556b3-2718-4c58-b4b2-a7934210ddce")
 			(effects
 				(font
 					(size 1 1)
@@ -757,9 +756,9 @@
 			)
 		)
 		(property "Value" "~"
-			(at 1.27 3.215371 0)
+			(at 1.27 3.215371 90)
 			(layer "F.Fab")
-			(uuid "da7d3a82-aa8d-4e74-8c12-87809b4022ac")
+			(uuid "b3f76cac-2cf7-4e81-8055-42d5f9596622")
 			(effects
 				(font
 					(size 1 1)
@@ -768,10 +767,10 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5b1fea94-f9ea-429d-9070-ef309f576f47")
+			(uuid "67e9816e-60ae-4bff-aae1-78ba62f08f81")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -780,10 +779,10 @@
 			)
 		)
 		(property "Description" "100V 0.15A standard switching diode, DO-35"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e935c292-efa0-404a-a6db-7aa4609a8ecc")
+			(uuid "39c5273b-05a3-4b21-b95e-ec9d4581c333")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -792,7 +791,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -805,7 +804,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -876,7 +875,7 @@
 			(uuid "a7ebc571-276a-4f41-ab15-e3dedefd54b6")
 		)
 		(fp_text user "A"
-			(at 4.34 0 0)
+			(at -2.54 0 90)
 			(layer "F.SilkS")
 			(uuid "6a7a8f5b-11bf-47db-9017-fc2bcebb8566")
 			(effects
@@ -887,7 +886,7 @@
 			)
 		)
 		(fp_text user "A"
-			(at 4.34 0 0)
+			(at -2.54 0 90)
 			(layer "F.Fab")
 			(uuid "2515f6de-b0ac-4810-9b91-71316d8f4d9a")
 			(effects
@@ -898,7 +897,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 -2.326371 0)
+			(at 0 2.54 180)
 			(layer "F.Fab")
 			(uuid "9b9f9330-c7ef-4c2c-91a9-b68dd3c5f715")
 			(effects
@@ -909,24 +908,24 @@
 			)
 		)
 		(pad "1" thru_hole roundrect
-			(at 0 0)
+			(at 0 0 270)
 			(size 1.6 1.6)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(roundrect_rratio 0.15625)
-			(net 60 "R0")
+			(net 59 "R0")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "bbc620d7-8274-4656-900f-56ad84f3b631")
 		)
 		(pad "2" thru_hole circle
-			(at 2.54 0)
+			(at 2.54 0 270)
 			(size 1.6 1.6)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 56 "Net-(D3-A)")
+			(net 55 "Net-(D3-A)")
 			(pinfunction "A")
 			(pintype "passive")
 			(uuid "ada4ff15-7702-4a1a-b910-d64af3da8f02")
@@ -947,7 +946,7 @@
 	(footprint "PCM_marbastlib-various:ROT_Alps_EC11E-Switch"
 		(layer "F.Cu")
 		(uuid "38b1535a-5162-46f8-8531-d36a1710c29d")
-		(at 37.98 184.855564 -90)
+		(at 37.98 189.455564 -90)
 		(descr "Alps rotary encoder, EC11E/EC11N with switch, vertical shaft")
 		(tags "rotary encoder")
 		(property "Reference" "SW8"
@@ -1248,7 +1247,7 @@
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
 			(roundrect_rratio 0.25)
-			(net 65 "unconnected-(SW8-PadMP)_1")
+			(net 64 "unconnected-(SW8-PadMP)_1")
 			(pinfunction "MP")
 			(pintype "passive+no_connect")
 			(uuid "7f81c72a-fe92-4b4b-b722-c0b9a4e9846d")
@@ -1260,7 +1259,7 @@
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
 			(roundrect_rratio 0.25)
-			(net 64 "unconnected-(SW8-PadMP)")
+			(net 63 "unconnected-(SW8-PadMP)")
 			(pinfunction "MP")
 			(pintype "passive+no_connect")
 			(uuid "0958b265-ea60-436d-8372-43d3a1b5d046")
@@ -1303,13 +1302,13 @@
 	(footprint "Caon_Footprint:SW_PUSH_6mm"
 		(layer "F.Cu")
 		(uuid "3e03761e-6594-4daa-a26f-6628333e8b7d")
-		(at 50.8 151.875564 -90)
+		(at 43.18 156.955564 -90)
 		(descr "Generic 6mm SW tactile push button")
 		(tags "tact sw push 6mm")
 		(property "Reference" "SW7"
-			(at 0 -5.08 180)
+			(at -5.08 0 0)
 			(layer "F.SilkS")
-			(uuid "9a36ffaa-2b41-44e2-8caa-be869e5c08d9")
+			(uuid "614be69f-9c03-4a19-a67b-6f39d2962fc3")
 			(effects
 				(font
 					(size 1 1)
@@ -1320,7 +1319,7 @@
 		(property "Value" "~"
 			(at 0 3.25 90)
 			(layer "F.Fab")
-			(uuid "50eda916-b8f7-4073-a4a4-4bb1a95730a0")
+			(uuid "f9550f51-caeb-4865-9245-aef19472486c")
 			(effects
 				(font
 					(size 1 1)
@@ -1333,7 +1332,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "83e1e07f-b159-4a95-8622-e09aea598326")
+			(uuid "db87038c-1686-4283-bb1c-9065028a325c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1346,7 +1345,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0d24509d-237e-49e2-9420-edee64e6b3b1")
+			(uuid "5d7d6374-0a1c-455f-988c-a4b281ecc5df")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1450,7 +1449,7 @@
 			(uuid "fc241cab-39ce-473d-80b9-d8fc191149be")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 90)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(uuid "ad91e66c-cb2b-4db0-aa80-6650f6e0ef6c")
 			(effects
@@ -1477,7 +1476,7 @@
 			(drill 1.1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 59 "Net-(D7-A)")
+			(net 58 "Net-(D7-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "7e64929d-3954-4950-8c34-399561ffe3c8")
@@ -1498,13 +1497,13 @@
 	(footprint "Caon_Footprint:SW_PUSH_6mm"
 		(layer "F.Cu")
 		(uuid "3f2d1fa1-2f5b-45ca-adaf-4f6490ea84cd")
-		(at 27.94 136.635564 -90)
+		(at 35.56 136.635564 -90)
 		(descr "Generic 6mm SW tactile push button")
 		(tags "tact sw push 6mm")
 		(property "Reference" "SW1"
-			(at 0 -5.08 180)
+			(at -5.08 0 180)
 			(layer "F.SilkS")
-			(uuid "f783ac37-49e2-4fef-9b5c-5b9cc8737862")
+			(uuid "80b32743-393c-43d4-aa11-2f6c898f4a23")
 			(effects
 				(font
 					(size 1 1)
@@ -1515,7 +1514,7 @@
 		(property "Value" "~"
 			(at 0 3.25 90)
 			(layer "F.Fab")
-			(uuid "34773e93-00d2-4822-bf8b-e4e2591652ee")
+			(uuid "57398152-5288-49a3-9aa8-5cb700f17a4c")
 			(effects
 				(font
 					(size 1 1)
@@ -1528,7 +1527,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d5db0cf3-6a81-4246-9856-81fa07fcca47")
+			(uuid "0e416947-c454-43e3-bff3-6f7201bfaedc")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1541,7 +1540,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9f5548f0-111d-4035-8cea-a022fd83416e")
+			(uuid "bb806f85-18c3-4dc1-a6f3-5197b547f310")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1645,7 +1644,7 @@
 			(uuid "fe1b3608-d70a-4123-b115-923dcf35b122")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 90)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(uuid "9d319786-61b1-41df-a40b-62f0247cf86c")
 			(effects
@@ -1661,7 +1660,7 @@
 			(drill 1.1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 54 "C0")
+			(net 53 "C0")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "859896f1-46c7-4fd5-a4ec-043a34676ffd")
@@ -1672,7 +1671,7 @@
 			(drill 1.1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 53 "Net-(D1-A)")
+			(net 52 "Net-(D1-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "e1c2faf3-4846-43b8-8d03-849cfc7d5020")
@@ -1693,7 +1692,7 @@
 	(footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "45e384b1-f16b-4b24-b1d4-6edaf493c835")
-		(at 127 85.65)
+		(at 81.28 107.985564)
 		(descr "Resistor, Axial_DIN0204 series, Axial, Vertical, pin pitch=2.54mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0204 series Axial Vertical pin pitch 2.54mm 0.167W length 3.6mm diameter 1.6mm")
 		(property "Reference" "ENC_R4"
@@ -1847,13 +1846,13 @@
 	(footprint "Caon_Footprint:SW_PUSH_6mm"
 		(layer "F.Cu")
 		(uuid "49ce8bb3-3750-4a5e-96fd-5ca4679bab2b")
-		(at 27.94 151.875564 -90)
+		(at 35.56 156.955564 -90)
 		(descr "Generic 6mm SW tactile push button")
 		(tags "tact sw push 6mm")
 		(property "Reference" "SW3"
-			(at 0 -5.08 180)
+			(at -5.08 0 180)
 			(layer "F.SilkS")
-			(uuid "17229fbe-3473-4677-8269-f6de77d749e0")
+			(uuid "a149b3e4-2cef-48d8-8c7f-a7df98ebe5cc")
 			(effects
 				(font
 					(size 1 1)
@@ -1864,7 +1863,7 @@
 		(property "Value" "~"
 			(at 0 3.25 90)
 			(layer "F.Fab")
-			(uuid "742e3db9-94de-4aed-abaf-76b2fdd9202f")
+			(uuid "ba289bf7-3e34-4cc0-a413-77133ba4edf3")
 			(effects
 				(font
 					(size 1 1)
@@ -1877,7 +1876,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "00ab149e-a660-4d7b-bccf-d34705dc786d")
+			(uuid "5c2418fd-1b58-4adc-b9ae-04e8623e9c32")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1890,7 +1889,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "dfb1bcc3-41d9-4056-8a84-a394349602f6")
+			(uuid "3660462c-4ec7-4eb5-8f89-a6f9e0856763")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1994,7 +1993,7 @@
 			(uuid "f205414e-cb4c-4565-8b21-abe72061f5e0")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 90)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(uuid "ede5c0ba-d5b5-4d52-8503-0eb315d41717")
 			(effects
@@ -2021,7 +2020,7 @@
 			(drill 1.1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 56 "Net-(D3-A)")
+			(net 55 "Net-(D3-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "d4404dfd-d4f8-4ba4-83cf-5aa35196f6cc")
@@ -2042,7 +2041,7 @@
 	(footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "4f8922cf-6f19-4b70-bc1c-98e44a084660")
-		(at 127 82.5)
+		(at 81.28 104.835564)
 		(descr "Resistor, Axial_DIN0204 series, Axial, Vertical, pin pitch=2.54mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0204 series Axial Vertical pin pitch 2.54mm 0.167W length 3.6mm diameter 1.6mm")
 		(property "Reference" "ENC_R3"
@@ -2735,7 +2734,7 @@
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 36 "unconnected-(U3-P0.20-Pad6)")
+			(net 35 "unconnected-(U3-P0.20-Pad6)")
 			(pinfunction "P0.20")
 			(pintype "bidirectional+no_connect")
 			(uuid "0b6a0d00-6265-458a-b860-fc39373af647")
@@ -2746,7 +2745,7 @@
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 45 "unconnected-(U3-P0.22-Pad7)")
+			(net 44 "unconnected-(U3-P0.22-Pad7)")
 			(pinfunction "P0.22")
 			(pintype "bidirectional+no_connect")
 			(uuid "80768461-6783-4cf8-a059-ae82839d3b41")
@@ -2757,7 +2756,7 @@
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 51 "unconnected-(U3-P0.24-Pad8)")
+			(net 50 "unconnected-(U3-P0.24-Pad8)")
 			(pinfunction "P0.24")
 			(pintype "bidirectional+no_connect")
 			(uuid "cd48ac8b-3c72-40a8-a465-281225bcf713")
@@ -2768,7 +2767,7 @@
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 37 "unconnected-(U3-P1.00-Pad9)")
+			(net 36 "unconnected-(U3-P1.00-Pad9)")
 			(pinfunction "P1.00")
 			(pintype "bidirectional+no_connect")
 			(uuid "1473ebf6-2063-44dd-a5b0-eed97465d8fc")
@@ -2779,7 +2778,7 @@
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 41 "unconnected-(U3-P0.11-Pad10)")
+			(net 40 "unconnected-(U3-P0.11-Pad10)")
 			(pinfunction "P0.11")
 			(pintype "bidirectional+no_connect")
 			(uuid "48ec6e67-2adc-4707-a4d2-05b3b8a3c3b4")
@@ -2814,7 +2813,7 @@
 			)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 52 "unconnected-(U3-BAT+-Pad13)")
+			(net 51 "unconnected-(U3-BAT+-Pad13)")
 			(pinfunction "BAT+")
 			(pintype "power_out+no_connect")
 			(uuid "f94e6ef2-74b7-4f73-b5f0-74210bdf38e7")
@@ -2837,7 +2836,7 @@
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 46 "unconnected-(U3-RST-Pad15)")
+			(net 45 "unconnected-(U3-RST-Pad15)")
 			(pinfunction "RST")
 			(pintype "bidirectional+no_connect")
 			(uuid "9a126528-4cbe-44bb-a331-0970eb68bcab")
@@ -2881,7 +2880,7 @@
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 39 "unconnected-(U3-P0.02-LF-Pad19)")
+			(net 38 "unconnected-(U3-P0.02-LF-Pad19)")
 			(pinfunction "P0.02-LF")
 			(pintype "bidirectional+no_connect")
 			(uuid "2795851b-5b4e-415c-a3d4-869fef3ab17c")
@@ -2892,7 +2891,7 @@
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 50 "unconnected-(U3-P1.15-LF-Pad20)")
+			(net 49 "unconnected-(U3-P1.15-LF-Pad20)")
 			(pinfunction "P1.15-LF")
 			(pintype "bidirectional+no_connect")
 			(uuid "ccf0b618-94d7-4d25-9742-28893d872af5")
@@ -2903,7 +2902,7 @@
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 43 "unconnected-(U3-P1.13-LF-Pad21)")
+			(net 42 "unconnected-(U3-P1.13-LF-Pad21)")
 			(pinfunction "P1.13-LF")
 			(pintype "bidirectional+no_connect")
 			(uuid "71d85fe5-87aa-4565-b68f-bae683b0bf03")
@@ -2914,7 +2913,7 @@
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 49 "unconnected-(U3-P1.11-LF-Pad22)")
+			(net 48 "unconnected-(U3-P1.11-LF-Pad22)")
 			(pinfunction "P1.11-LF")
 			(pintype "bidirectional+no_connect")
 			(uuid "b34d5d58-94f2-483e-aab6-53083fae1a22")
@@ -2949,7 +2948,7 @@
 			)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 42 "unconnected-(U3-P1.01-LF-Pad25)_1")
+			(net 41 "unconnected-(U3-P1.01-LF-Pad25)_1")
 			(pinfunction "P1.01-LF")
 			(pintype "bidirectional+no_connect")
 			(uuid "6b288c5c-97e2-4107-ac3d-ff96f7de7490")
@@ -2960,7 +2959,7 @@
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 38 "unconnected-(U3-P1.01-LF-Pad25)")
+			(net 37 "unconnected-(U3-P1.01-LF-Pad25)")
 			(pinfunction "P1.01-LF")
 			(pintype "bidirectional+no_connect")
 			(uuid "1f1c44d3-f89d-4eea-a4a7-ef4a017454a6")
@@ -2973,7 +2972,7 @@
 			)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 40 "unconnected-(U3-P1.02-LF-Pad26)")
+			(net 39 "unconnected-(U3-P1.02-LF-Pad26)")
 			(pinfunction "P1.02-LF")
 			(pintype "bidirectional+no_connect")
 			(uuid "41481d13-ab06-4808-9979-205d03eb149e")
@@ -2984,7 +2983,7 @@
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 44 "unconnected-(U3-P1.02-LF-Pad26)_1")
+			(net 43 "unconnected-(U3-P1.02-LF-Pad26)_1")
 			(pinfunction "P1.02-LF")
 			(pintype "bidirectional+no_connect")
 			(uuid "78130cc2-3d2a-4c5f-8052-94dd9f9aa122")
@@ -2997,7 +2996,7 @@
 			)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 47 "unconnected-(U3-P1.07-LF-Pad27)_1")
+			(net 46 "unconnected-(U3-P1.07-LF-Pad27)_1")
 			(pinfunction "P1.07-LF")
 			(pintype "bidirectional+no_connect")
 			(uuid "9c2f9310-c8db-405a-b143-ea4aa21443a9")
@@ -3008,7 +3007,7 @@
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 35 "unconnected-(U3-P1.07-LF-Pad27)")
+			(net 34 "unconnected-(U3-P1.07-LF-Pad27)")
 			(pinfunction "P1.07-LF")
 			(pintype "bidirectional+no_connect")
 			(uuid "06bce4a8-92df-432a-b22a-d7468b3b4f48")
@@ -3031,7 +3030,7 @@
 			(drill 1)
 			(layers "*.Cu" "*.Mask" "B.Adhes")
 			(remove_unused_layers no)
-			(net 48 "unconnected-(U3-BAT+-Pad29)")
+			(net 47 "unconnected-(U3-BAT+-Pad29)")
 			(pinfunction "BAT+")
 			(pintype "power_out+no_connect")
 			(uuid "ad52488e-7be9-4eb6-b05e-8d04cbd06cc6")
@@ -3067,7 +3066,7 @@
 			)
 		)
 		(property "Value" "74HC595"
-			(at 3.81 20.11 0)
+			(at 3.81 10.16 0)
 			(layer "F.Fab")
 			(uuid "4c622762-60cc-4123-bda5-24c78b0c229e")
 			(effects
@@ -3268,7 +3267,7 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 30 "unconnected-(U2-QD-Pad3)")
+			(net 29 "unconnected-(U2-QD-Pad3)")
 			(pinfunction "QD")
 			(pintype "tri_state+no_connect")
 			(uuid "6662f1b0-362a-4f6a-baeb-16b3c22f0a85")
@@ -3279,7 +3278,7 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 33 "unconnected-(U2-QE-Pad4)")
+			(net 32 "unconnected-(U2-QE-Pad4)")
 			(pinfunction "QE")
 			(pintype "tri_state+no_connect")
 			(uuid "aac29993-52f8-402f-8a9d-55ce7330fa23")
@@ -3290,7 +3289,7 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 34 "unconnected-(U2-QF-Pad5)")
+			(net 33 "unconnected-(U2-QF-Pad5)")
 			(pinfunction "QF")
 			(pintype "tri_state+no_connect")
 			(uuid "fae3fce3-9341-4271-8aaa-3a91a71c98c8")
@@ -3334,7 +3333,7 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 31 "unconnected-(U2-QH&apos;-Pad9)")
+			(net 30 "unconnected-(U2-QH&apos;-Pad9)")
 			(pinfunction "QH'")
 			(pintype "output+no_connect")
 			(uuid "8d1a4a0f-9035-4abb-b291-0884ace587d8")
@@ -3400,7 +3399,7 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 32 "unconnected-(U2-QA-Pad15)")
+			(net 31 "unconnected-(U2-QA-Pad15)")
 			(pinfunction "QA")
 			(pintype "tri_state+no_connect")
 			(uuid "9bfd3831-9db5-4270-8b9b-a70ab3e8e854")
@@ -3432,7 +3431,7 @@
 	(footprint "Caon_Footprint:D_DO-35_SOD27_P2.54mm_Caon65"
 		(layer "F.Cu")
 		(uuid "73d9ea79-a5a6-4fc8-a5de-8d2d50e47edd")
-		(at 99.06 50.874516)
+		(at 27.94 118.855564)
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
 		(property "Reference" "S_D2"
@@ -3652,7 +3651,7 @@
 			)
 		)
 		(property "Value" "74HC595"
-			(at 3.81 20.11 0)
+			(at 3.81 10.16 0)
 			(layer "F.Fab")
 			(uuid "5ce9e61d-62eb-4b55-99a0-b72a95dd7417")
 			(effects
@@ -4017,7 +4016,7 @@
 	(footprint "Caon_Footprint:D_DO-35_SOD27_P2.54mm_Caon65"
 		(layer "F.Cu")
 		(uuid "8e820602-76b8-4583-b609-98b3bbc6a70d")
-		(at 99.06 47.101774)
+		(at 25.4 98.535564)
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
 		(property "Reference" "S_D1"
@@ -4222,13 +4221,13 @@
 	(footprint "Caon_Footprint:SW_PUSH_6mm"
 		(layer "F.Cu")
 		(uuid "91491075-8712-4217-88b4-96d2626ebb67")
-		(at 50.8 144.255564 90)
+		(at 43.18 136.635564 -90)
 		(descr "Generic 6mm SW tactile push button")
 		(tags "tact sw push 6mm")
 		(property "Reference" "SW5"
-			(at 0 5.08 0)
+			(at -5.08 0 0)
 			(layer "F.SilkS")
-			(uuid "ff168abb-bc9e-4329-a7a7-0939073a91d8")
+			(uuid "7695333a-1458-4b67-83a5-9dc20ff00e65")
 			(effects
 				(font
 					(size 1 1)
@@ -4239,7 +4238,7 @@
 		(property "Value" "~"
 			(at 0 3.25 90)
 			(layer "F.Fab")
-			(uuid "6c1578cb-d142-4422-9530-335554b5bae5")
+			(uuid "ffd4d75d-c600-4ce3-9a89-ecf0f582b031")
 			(effects
 				(font
 					(size 1 1)
@@ -4248,11 +4247,11 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "65c56fd1-ba09-41f2-a369-9a1baf905fe2")
+			(uuid "dba14828-66b5-4306-8133-49b7fb09b805")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4261,11 +4260,11 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "85364383-849b-4949-b72f-7273a0b924e9")
+			(uuid "825628c5-08a3-46ce-9946-a7dee4898aae")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4278,24 +4277,14 @@
 		(sheetfile "Caon-Handwired-Prototype.kicad_sch")
 		(attr through_hole)
 		(fp_line
-			(start 2.25 -3.25)
-			(end -2.25 -3.25)
+			(start -2.25 3.25)
+			(end 2.25 3.25)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "79051338-c85a-4e33-89a2-57bda594328c")
-		)
-		(fp_line
-			(start -3.5 -0.75)
-			(end -3.5 0.75)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "e072f6ef-a3db-428f-b1ec-c273e17f193c")
+			(uuid "a739325f-4db6-440e-b32f-0f97aa524718")
 		)
 		(fp_line
 			(start 3.5 0.75)
@@ -4308,34 +4297,34 @@
 			(uuid "906afeb4-2f5a-42a2-9790-6280905bdc1f")
 		)
 		(fp_line
-			(start -2.25 3.25)
-			(end 2.25 3.25)
+			(start -3.5 -0.75)
+			(end -3.5 0.75)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "a739325f-4db6-440e-b32f-0f97aa524718")
+			(uuid "e072f6ef-a3db-428f-b1ec-c273e17f193c")
 		)
 		(fp_line
-			(start 3 -3)
-			(end 3 3)
+			(start 2.25 -3.25)
+			(end -2.25 -3.25)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "79051338-c85a-4e33-89a2-57bda594328c")
+		)
+		(fp_line
+			(start -3 3)
+			(end -3 -3)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "c9133b56-9f79-41bf-9d0f-c9cb7aefeb71")
-		)
-		(fp_line
-			(start -3 -3)
-			(end 3 -3)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "d53281d6-c65b-4d5b-af5f-82ca654b3549")
+			(uuid "25ee78f3-c9b0-4a04-9622-8f7abbc3551e")
 		)
 		(fp_line
 			(start 3 3)
@@ -4348,14 +4337,24 @@
 			(uuid "91a04829-fd17-4164-91ed-dee605ed0a7e")
 		)
 		(fp_line
-			(start -3 3)
-			(end -3 -3)
+			(start -3 -3)
+			(end 3 -3)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "25ee78f3-c9b0-4a04-9622-8f7abbc3551e")
+			(uuid "d53281d6-c65b-4d5b-af5f-82ca654b3549")
+		)
+		(fp_line
+			(start 3 -3)
+			(end 3 3)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "c9133b56-9f79-41bf-9d0f-c9cb7aefeb71")
 		)
 		(fp_circle
 			(center 0 0)
@@ -4369,7 +4368,7 @@
 			(uuid "7d0b84c1-60f6-4191-b314-10b10a3cb64b")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 90)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(uuid "8c8ffa2b-fa28-4e1e-8db7-bf4723b03ee5")
 			(effects
@@ -4380,23 +4379,23 @@
 			)
 		)
 		(pad "1" thru_hole circle
-			(at -2.54 0 180)
+			(at -2.54 0)
 			(size 2 2)
 			(drill 1.1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 54 "C0")
+			(net 53 "C0")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "9348690d-3a34-48f2-b379-451b15df5601")
 		)
 		(pad "2" thru_hole circle
-			(at 2.54 0 180)
+			(at 2.54 0)
 			(size 2 2)
 			(drill 1.1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 57 "Net-(D5-A)")
+			(net 56 "Net-(D5-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "dd95c149-f957-4444-a720-01bf33107721")
@@ -4417,13 +4416,13 @@
 	(footprint "Caon_Footprint:D_DO-35_SOD27_P2.54mm_Caon65"
 		(layer "F.Cu")
 		(uuid "9b80ee9f-b789-4a0d-a43d-c96809041ba7")
-		(at 170.18 95.287258)
+		(at 48.26 156.955564 -90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
 		(property "Reference" "D7"
-			(at 1.27 -2.326371 0)
+			(at 0.213629 -2.54 180)
 			(layer "F.SilkS")
-			(uuid "ac83951a-fbec-4825-9a68-179ba2de6d8a")
+			(uuid "88a93482-81e7-47b4-bcca-a2b90a7e91a3")
 			(effects
 				(font
 					(size 1 1)
@@ -4432,9 +4431,9 @@
 			)
 		)
 		(property "Value" "~"
-			(at 1.27 3.215371 0)
+			(at 1.27 3.215371 90)
 			(layer "F.Fab")
-			(uuid "27ec7c1c-8749-4254-acdd-3af66d205467")
+			(uuid "7935d18e-fea2-48ab-8480-4b2841e15342")
 			(effects
 				(font
 					(size 1 1)
@@ -4443,10 +4442,10 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "cd6731f7-90e9-4c47-9cfe-09b52969082a")
+			(uuid "34d8d65b-e6a4-4432-8788-84a328a8211e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4455,10 +4454,10 @@
 			)
 		)
 		(property "Description" "100V 0.15A standard switching diode, DO-35"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "350ff78f-b3f7-4892-aac9-ec30fc0b7d85")
+			(uuid "a2c6a1a0-aa22-490a-9d13-ad551cf6fe62")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4467,7 +4466,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -4480,7 +4479,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -4551,7 +4550,7 @@
 			(uuid "d4fb36a3-70b5-477c-ab89-63810f0a0ca8")
 		)
 		(fp_text user "A"
-			(at 4.34 0 0)
+			(at 4.34 0 90)
 			(layer "F.SilkS")
 			(uuid "d6b2f56c-4ef0-40af-b701-45bf3d9077c5")
 			(effects
@@ -4562,7 +4561,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 -2.326371 0)
+			(at 0.213629 -2.54 180)
 			(layer "F.Fab")
 			(uuid "5c09a5cb-fad5-4e4b-a787-ca7ed1a8cb4e")
 			(effects
@@ -4573,7 +4572,7 @@
 			)
 		)
 		(fp_text user "A"
-			(at 4.34 0 0)
+			(at 4.34 0 90)
 			(layer "F.Fab")
 			(uuid "c482d839-aefc-4ce4-88ad-40e1308f20b9")
 			(effects
@@ -4584,24 +4583,24 @@
 			)
 		)
 		(pad "1" thru_hole roundrect
-			(at 0 0)
+			(at 0 0 270)
 			(size 1.6 1.6)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(roundrect_rratio 0.15625)
-			(net 61 "R1")
+			(net 60 "R1")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "28579114-14fe-456c-a65e-ea9109552387")
 		)
 		(pad "2" thru_hole circle
-			(at 2.54 0)
+			(at 2.54 0 270)
 			(size 1.6 1.6)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 59 "Net-(D7-A)")
+			(net 58 "Net-(D7-A)")
 			(pinfunction "A")
 			(pintype "passive")
 			(uuid "86e45772-fb6b-4994-a152-07a7978b34ef")
@@ -4622,11 +4621,11 @@
 	(footprint "Caon_Footprint:D_DO-35_SOD27_P2.54mm_Caon65"
 		(layer "F.Cu")
 		(uuid "abf6e876-f021-477f-b048-1e16a87d024c")
-		(at 170.18 83.969032)
+		(at 48.26 171.715564 -90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
 		(property "Reference" "D4"
-			(at 1.27 -2.326371 0)
+			(at 1.27 -2.326371 90)
 			(layer "F.SilkS")
 			(uuid "5f1c2297-45d8-4159-b439-50ef7885f72a")
 			(effects
@@ -4637,7 +4636,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 1.27 3.215371 0)
+			(at 1.27 3.215371 90)
 			(layer "F.Fab")
 			(uuid "987dc6fa-fb57-4570-a340-d6c1b503aec6")
 			(effects
@@ -4648,7 +4647,7 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "688a679c-1a3d-486f-ba11-d1911b03fa35")
@@ -4660,7 +4659,7 @@
 			)
 		)
 		(property "Description" "100V 0.15A standard switching diode, DO-35"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "6e18d146-985d-4665-ac24-a90634dea865")
@@ -4672,7 +4671,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -4685,7 +4684,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -4756,7 +4755,7 @@
 			(uuid "50879609-4cf6-493a-a098-5cfd672c52c8")
 		)
 		(fp_text user "A"
-			(at 4.34 0 0)
+			(at 4.34 0 90)
 			(layer "F.SilkS")
 			(uuid "2c3922c9-1725-43b5-a742-b5d167014638")
 			(effects
@@ -4767,7 +4766,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 -2.326371 0)
+			(at 1.27 -2.326371 90)
 			(layer "F.Fab")
 			(uuid "9a51241a-62d5-4c1b-9ccd-70a6400a5cc7")
 			(effects
@@ -4778,7 +4777,7 @@
 			)
 		)
 		(fp_text user "A"
-			(at 4.34 0 0)
+			(at 4.34 0 90)
 			(layer "F.Fab")
 			(uuid "a33dcc4e-c320-4723-a6ed-844b63668416")
 			(effects
@@ -4789,19 +4788,19 @@
 			)
 		)
 		(pad "1" thru_hole roundrect
-			(at 0 0)
+			(at 0 0 270)
 			(size 1.6 1.6)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(roundrect_rratio 0.15625)
-			(net 60 "R0")
+			(net 59 "R0")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "551f8d0f-c641-4a76-bfc1-772dafdda3b3")
 		)
 		(pad "2" thru_hole circle
-			(at 2.54 0)
+			(at 2.54 0 270)
 			(size 1.6 1.6)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
@@ -4827,13 +4826,13 @@
 	(footprint "Caon_Footprint:D_DO-35_SOD27_P2.54mm_Caon65"
 		(layer "F.Cu")
 		(uuid "ae71d621-5df6-48cc-adc3-11b0ce7f81d2")
-		(at 170.18 99.06)
+		(at 48.26 189.495564 -90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
 		(property "Reference" "D8"
-			(at 1.27 -2.326371 0)
+			(at 1.27 -2.326371 90)
 			(layer "F.SilkS")
-			(uuid "ff3ab54d-45e1-4829-add6-18ad37601e78")
+			(uuid "69745e7f-35cc-4b3e-a29b-12c9560768ea")
 			(effects
 				(font
 					(size 1 1)
@@ -4842,9 +4841,9 @@
 			)
 		)
 		(property "Value" "~"
-			(at 1.27 3.215371 0)
+			(at 1.27 3.215371 90)
 			(layer "F.Fab")
-			(uuid "3b9e99a4-7e59-4d14-86b2-83ed787b7776")
+			(uuid "24aae003-13a1-4625-b1f6-1d493cb3e2b5")
 			(effects
 				(font
 					(size 1 1)
@@ -4853,10 +4852,10 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e2622a6a-ee71-49e4-9320-f63c57783e70")
+			(uuid "cc17b4cc-ad02-4505-8c6c-089ed565d269")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4865,10 +4864,10 @@
 			)
 		)
 		(property "Description" "100V 0.15A standard switching diode, DO-35"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e9dad642-1a5a-4531-9490-afaa4a9dfb50")
+			(uuid "d272c81e-584c-4ff4-bc73-f9d3dc4a4b9f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4877,7 +4876,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -4890,7 +4889,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -4961,7 +4960,7 @@
 			(uuid "3280121d-3ae2-42b2-b3fe-c5d5c76a35f5")
 		)
 		(fp_text user "A"
-			(at 4.34 0 0)
+			(at 4.34 0 90)
 			(layer "F.SilkS")
 			(uuid "64099c1a-ca01-4ea6-a1ea-cceb8081199e")
 			(effects
@@ -4972,7 +4971,7 @@
 			)
 		)
 		(fp_text user "A"
-			(at 4.34 0 0)
+			(at 4.34 0 90)
 			(layer "F.Fab")
 			(uuid "22d8e7e0-c329-4337-86aa-893b1f97574f")
 			(effects
@@ -4983,7 +4982,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 -2.326371 0)
+			(at 1.27 -2.326371 90)
 			(layer "F.Fab")
 			(uuid "753fd97e-b675-4ac7-b95c-2714cf909c13")
 			(effects
@@ -4994,19 +4993,19 @@
 			)
 		)
 		(pad "1" thru_hole roundrect
-			(at 0 0)
+			(at 0 0 270)
 			(size 1.6 1.6)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(roundrect_rratio 0.15625)
-			(net 61 "R1")
+			(net 60 "R1")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "b3dfa983-d2b6-474c-90dc-b0df83833d6d")
 		)
 		(pad "2" thru_hole circle
-			(at 2.54 0)
+			(at 2.54 0 270)
 			(size 1.6 1.6)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
@@ -5032,13 +5031,13 @@
 	(footprint "Caon_Footprint:D_DO-35_SOD27_P2.54mm_Caon65"
 		(layer "F.Cu")
 		(uuid "cc2b80ed-bc45-4011-8995-7a1044961051")
-		(at 170.18 76.423548)
+		(at 30.48 146.795564 -90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
 		(property "Reference" "D2"
-			(at 1.27 -2.326371 0)
+			(at 0 2.54 180)
 			(layer "F.SilkS")
-			(uuid "47c48dd5-5eac-403e-8ef5-ab10968b9b45")
+			(uuid "4e6f3f78-444e-4cae-96aa-5afaca541da1")
 			(effects
 				(font
 					(size 1 1)
@@ -5047,9 +5046,9 @@
 			)
 		)
 		(property "Value" "~"
-			(at 1.27 3.215371 0)
+			(at 1.27 3.215371 90)
 			(layer "F.Fab")
-			(uuid "44761cf9-2242-4780-aa82-e5c9db7c7c98")
+			(uuid "5285b8f1-4913-447b-badf-0aeb45e77bfb")
 			(effects
 				(font
 					(size 1 1)
@@ -5058,10 +5057,10 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1d5f85d4-ba36-4552-9022-161f285eea4e")
+			(uuid "da28999d-26b0-450a-9be6-2a565bda4c8f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5070,10 +5069,10 @@
 			)
 		)
 		(property "Description" "100V 0.15A standard switching diode, DO-35"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ddbc6a75-af16-47f2-b851-3c676ca571be")
+			(uuid "64148856-a7c2-486c-b8fd-da62255e6ebe")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5082,7 +5081,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -5095,7 +5094,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -5166,7 +5165,7 @@
 			(uuid "2add4ae0-bb7e-4fc6-b671-d44c65a022ea")
 		)
 		(fp_text user "A"
-			(at 4.34 0 0)
+			(at -2.54 0 90)
 			(layer "F.SilkS")
 			(uuid "ae1f81bc-862f-4d0b-b601-2e6480596f8d")
 			(effects
@@ -5177,7 +5176,7 @@
 			)
 		)
 		(fp_text user "A"
-			(at 4.34 0 0)
+			(at -2.54 0 90)
 			(layer "F.Fab")
 			(uuid "524b88de-f2d4-410f-acd3-6468c7bb36f7")
 			(effects
@@ -5188,7 +5187,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 -2.326371 0)
+			(at 0 2.54 180)
 			(layer "F.Fab")
 			(uuid "87fdf734-fa83-45f6-8a00-4fcffa9a4d05")
 			(effects
@@ -5199,24 +5198,24 @@
 			)
 		)
 		(pad "1" thru_hole roundrect
-			(at 0 0)
+			(at 0 0 270)
 			(size 1.6 1.6)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(roundrect_rratio 0.15625)
-			(net 60 "R0")
+			(net 59 "R0")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "a985b7ae-a433-4a7b-927e-6cf002c5e898")
 		)
 		(pad "2" thru_hole circle
-			(at 2.54 0)
+			(at 2.54 0 270)
 			(size 1.6 1.6)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 55 "Net-(D2-A)")
+			(net 54 "Net-(D2-A)")
 			(pinfunction "A")
 			(pintype "passive")
 			(uuid "e40aaac1-e6d9-4af5-96c8-9b6450a53dee")
@@ -5237,7 +5236,7 @@
 	(footprint "Caon_Footprint:D_DO-35_SOD27_P2.54mm_Caon65"
 		(layer "F.Cu")
 		(uuid "d1979267-4166-4f46-8835-d3f7a2b96e84")
-		(at 99.06 58.42)
+		(at 27.94 121.395564)
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
 		(property "Reference" "S_D4"
@@ -5410,7 +5409,7 @@
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(roundrect_rratio 0.15625)
-			(net 29 "C4")
+			(net 27 "C2")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "3c068259-7bbc-443e-b41c-90c2cc970a04")
@@ -5442,13 +5441,13 @@
 	(footprint "Caon_Footprint:D_DO-35_SOD27_P2.54mm_Caon65"
 		(layer "F.Cu")
 		(uuid "d2ee81e5-a60f-469c-a17a-092607d1565a")
-		(at 170.18 87.741774)
+		(at 48.26 136.635564 -90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
 		(property "Reference" "D5"
-			(at 1.27 -2.326371 0)
+			(at 0.213629 -2.54 180)
 			(layer "F.SilkS")
-			(uuid "89fb2422-2aba-492f-a6d5-db46003f7de0")
+			(uuid "55181e60-296b-480d-b4dd-5c60132b4417")
 			(effects
 				(font
 					(size 1 1)
@@ -5457,9 +5456,9 @@
 			)
 		)
 		(property "Value" "~"
-			(at 1.27 3.215371 0)
+			(at 1.27 3.215371 90)
 			(layer "F.Fab")
-			(uuid "f381d041-8ab8-4fbe-8d22-316cf02ad482")
+			(uuid "3fd235f5-b140-4e63-b7e6-bb966d90bae1")
 			(effects
 				(font
 					(size 1 1)
@@ -5468,10 +5467,10 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "dc0b33f2-ac89-45bf-b383-67371fa9b6c6")
+			(uuid "003e77f4-6cf4-401b-b87d-5c64a6894ce5")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5480,10 +5479,10 @@
 			)
 		)
 		(property "Description" "100V 0.15A standard switching diode, DO-35"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1ab5aa82-2256-4bce-a6a8-9f8c62594a26")
+			(uuid "15ff0f29-cb11-4839-95d8-c39c8532acf9")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5492,7 +5491,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -5505,7 +5504,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -5576,7 +5575,7 @@
 			(uuid "39166a87-1b25-4c89-ac27-62f5fa41d912")
 		)
 		(fp_text user "A"
-			(at 4.34 0 0)
+			(at 6.88 0 90)
 			(layer "F.SilkS")
 			(uuid "a7651614-61e3-456b-b275-8df134d89b2e")
 			(effects
@@ -5587,7 +5586,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 -2.326371 0)
+			(at 0.213629 -2.54 180)
 			(layer "F.Fab")
 			(uuid "954c216a-ac85-42d9-9c08-1b0b2d94db14")
 			(effects
@@ -5598,7 +5597,7 @@
 			)
 		)
 		(fp_text user "A"
-			(at 4.34 0 0)
+			(at 6.88 0 90)
 			(layer "F.Fab")
 			(uuid "ba8ca42d-6059-4c1c-815f-837ebe921262")
 			(effects
@@ -5609,24 +5608,24 @@
 			)
 		)
 		(pad "1" thru_hole roundrect
-			(at 0 0)
+			(at 0 0 270)
 			(size 1.6 1.6)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(roundrect_rratio 0.15625)
-			(net 61 "R1")
+			(net 60 "R1")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "21351ed6-cdcb-4e8c-9f6f-8f8b9884797f")
 		)
 		(pad "2" thru_hole circle
-			(at 2.54 0)
+			(at 2.54 0 270)
 			(size 1.6 1.6)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 57 "Net-(D5-A)")
+			(net 56 "Net-(D5-A)")
 			(pinfunction "A")
 			(pintype "passive")
 			(uuid "5b7a9b63-888f-45f2-8006-72881c875ed3")
@@ -5647,7 +5646,7 @@
 	(footprint "Caon_Footprint:D_DO-35_SOD27_P2.54mm_Caon65"
 		(layer "F.Cu")
 		(uuid "e25aa25d-ebb9-40fa-8501-8d2780a45a9a")
-		(at 99.06 54.647258)
+		(at 25.4 101.075564)
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
 		(property "Reference" "S_D3"
@@ -5820,7 +5819,7 @@
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(roundrect_rratio 0.15625)
-			(net 27 "C2")
+			(net 53 "C0")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "e27ea94d-07b0-4241-868d-965519553cda")
@@ -5852,11 +5851,11 @@
 	(footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "e393d27a-d8b7-4f72-8429-145e82be8a28")
-		(at 127 76.2)
+		(at 78.74 113.775564 90)
 		(descr "Resistor, Axial_DIN0204 series, Axial, Vertical, pin pitch=2.54mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0204 series Axial Vertical pin pitch 2.54mm 0.167W length 3.6mm diameter 1.6mm")
 		(property "Reference" "ENC_R1"
-			(at 1.27 -1.92 0)
+			(at 1.27 -1.92 90)
 			(layer "F.SilkS")
 			(uuid "64a979ae-6629-4d8c-a0ca-3ded35a587c1")
 			(effects
@@ -5867,7 +5866,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 1.27 1.92 0)
+			(at 1.27 1.92 90)
 			(layer "F.Fab")
 			(uuid "097ea7fe-2748-49fe-ac24-8a4553270eb1")
 			(effects
@@ -5878,7 +5877,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "271eaafe-648e-49e5-8ae6-3f9b33f06edd")
@@ -5890,7 +5889,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "65c2a2fb-f01b-4b86-a4f1-d0e338730a53")
@@ -5960,7 +5959,7 @@
 			(uuid "91c7c3db-d6fa-4d6e-85ba-8dbd36be7442")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 -1.92 0)
+			(at 1.27 -1.92 90)
 			(layer "F.Fab")
 			(uuid "272eea13-52ba-4839-b9de-77c8811efd2d")
 			(effects
@@ -5971,7 +5970,7 @@
 			)
 		)
 		(pad "1" thru_hole circle
-			(at 0 0)
+			(at 0 0 90)
 			(size 1.4 1.4)
 			(drill 0.7)
 			(layers "*.Cu" "*.Mask")
@@ -5981,7 +5980,7 @@
 			(uuid "e7b6b14f-1e8d-443c-a774-27af57f0ddb7")
 		)
 		(pad "2" thru_hole circle
-			(at 2.54 0)
+			(at 2.54 0 90)
 			(size 1.4 1.4)
 			(drill 0.7)
 			(layers "*.Cu" "*.Mask")
@@ -6006,13 +6005,13 @@
 	(footprint "Caon_Footprint:D_DO-35_SOD27_P2.54mm_Caon65"
 		(layer "F.Cu")
 		(uuid "ec417f79-8e68-47ab-b247-92e70deb5b6b")
-		(at 170.18 91.514516)
+		(at 48.26 146.795564 -90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
 		(property "Reference" "D6"
-			(at 1.27 -2.326371 0)
+			(at 0.213629 -2.54 180)
 			(layer "F.SilkS")
-			(uuid "a4fd24f3-12d8-414c-aa5d-8e9671e7844a")
+			(uuid "f8855db1-e078-4ee7-82bc-38b9826da492")
 			(effects
 				(font
 					(size 1 1)
@@ -6021,9 +6020,9 @@
 			)
 		)
 		(property "Value" "~"
-			(at 1.27 3.215371 0)
+			(at 1.27 3.215371 90)
 			(layer "F.Fab")
-			(uuid "dce194ae-c93e-4d84-a628-b65dd46ea9bf")
+			(uuid "d55dddcb-7547-49fb-96e8-e28a01778cf9")
 			(effects
 				(font
 					(size 1 1)
@@ -6032,10 +6031,10 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7a02940e-8822-4936-9a25-86ddd239aaf1")
+			(uuid "87a0ae31-c3cf-4a36-8e87-0a2a39fd1fe6")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6044,10 +6043,10 @@
 			)
 		)
 		(property "Description" "100V 0.15A standard switching diode, DO-35"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "96484ad4-9df0-4fd2-ae05-1879af966859")
+			(uuid "f61f5633-dfad-45be-a8e7-22ef8c0fe62d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6056,7 +6055,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -6069,7 +6068,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -6140,7 +6139,7 @@
 			(uuid "d1aef228-a9a0-4263-91c0-b0b88aa02e9e")
 		)
 		(fp_text user "A"
-			(at 4.34 0 0)
+			(at 6.88 0 90)
 			(layer "F.SilkS")
 			(uuid "78822603-fbb1-4b3d-ae9e-d604f70e6d39")
 			(effects
@@ -6151,7 +6150,7 @@
 			)
 		)
 		(fp_text user "A"
-			(at 4.34 0 0)
+			(at 6.88 0 90)
 			(layer "F.Fab")
 			(uuid "1e5db870-30f2-4a9f-86a7-23572048f9c9")
 			(effects
@@ -6162,7 +6161,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 -2.326371 0)
+			(at 0.213629 -2.54 180)
 			(layer "F.Fab")
 			(uuid "e41092b5-4384-47fa-81eb-8812366befad")
 			(effects
@@ -6173,24 +6172,24 @@
 			)
 		)
 		(pad "1" thru_hole roundrect
-			(at 0 0)
+			(at 0 0 270)
 			(size 1.6 1.6)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(roundrect_rratio 0.15625)
-			(net 61 "R1")
+			(net 60 "R1")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "6bb5eba4-8673-48c0-b832-3847a3641d1b")
 		)
 		(pad "2" thru_hole circle
-			(at 2.54 0)
+			(at 2.54 0 270)
 			(size 1.6 1.6)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 58 "Net-(D6-A)")
+			(net 57 "Net-(D6-A)")
 			(pinfunction "A")
 			(pintype "passive")
 			(uuid "cec6a660-a78a-4992-ac0f-218acd9bb191")
@@ -6211,13 +6210,13 @@
 	(footprint "PCM_marbastlib-various:ROT_Alps_EC11E-Switch"
 		(layer "F.Cu")
 		(uuid "f1f7e6d9-32b0-4296-a4e6-2bcdd23c2452")
-		(at 37.98 167.075564 -90)
+		(at 37.98 171.675564 -90)
 		(descr "Alps rotary encoder, EC11E/EC11N with switch, vertical shaft")
 		(tags "rotary encoder")
 		(property "Reference" "SW4"
 			(at 5.75 -7 90)
 			(layer "F.SilkS")
-			(uuid "426d5b13-757d-4684-8828-a3c8a650a84f")
+			(uuid "b7de6fd3-6be1-42c7-8d43-18d33c83960b")
 			(effects
 				(font
 					(size 1 1)
@@ -6228,7 +6227,7 @@
 		(property "Value" "EC11 ENCODER 1"
 			(at 8.25 0 0)
 			(layer "F.Fab")
-			(uuid "5199b1f7-0942-48f7-8f05-f3dbb9cba62a")
+			(uuid "23c2f6b9-a9f3-4894-8d6c-4ede2352a897")
 			(effects
 				(font
 					(size 1 1)
@@ -6241,7 +6240,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "fdd1ebab-0673-4d0b-87f9-1e417272fc73")
+			(uuid "2f410727-ce4b-4510-81cc-5e74da04c88f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6254,7 +6253,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5a7b9232-9e45-4bb9-a67b-52ba43e4770b")
+			(uuid "ba80d9ef-7cae-4556-bfcc-111113bd112f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6512,7 +6511,7 @@
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
 			(roundrect_rratio 0.25)
-			(net 62 "unconnected-(SW4-PadMP)")
+			(net 61 "unconnected-(SW4-PadMP)")
 			(pinfunction "MP")
 			(pintype "passive+no_connect")
 			(uuid "7b120dc6-96da-446d-a460-65f0547b7ef9")
@@ -6524,7 +6523,7 @@
 			(layers "*.Cu" "B.Mask")
 			(remove_unused_layers no)
 			(roundrect_rratio 0.25)
-			(net 63 "unconnected-(SW4-PadMP)_1")
+			(net 62 "unconnected-(SW4-PadMP)_1")
 			(pinfunction "MP")
 			(pintype "passive+no_connect")
 			(uuid "f6d0f1cc-bf0a-4a6c-9e22-37c4b329b6be")
@@ -6567,7 +6566,7 @@
 	(footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "f63a8e98-4d0e-4e84-a529-705debe6568b")
-		(at 127 79.35)
+		(at 81.28 101.685564)
 		(descr "Resistor, Axial_DIN0204 series, Axial, Vertical, pin pitch=2.54mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0204 series Axial Vertical pin pitch 2.54mm 0.167W length 3.6mm diameter 1.6mm")
 		(property "Reference" "ENC_R2"
@@ -7199,6 +7198,22 @@
 		(uuid "e55c957b-7de0-4d20-ab6b-0db841f810c3")
 	)
 	(segment
+		(start 44.98 174.175564)
+		(end 48.18 174.175564)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 15)
+		(uuid "9ce3b267-3e52-4d3d-8f65-98355b83b525")
+	)
+	(segment
+		(start 48.18 174.175564)
+		(end 48.26 174.255564)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 15)
+		(uuid "cc2889c4-532f-4cc7-a84d-3d067dba3774")
+	)
+	(segment
 		(start 35.56 106.155564)
 		(end 38.1 103.615564)
 		(width 0.2)
@@ -7413,6 +7428,70 @@
 		(layer "B.Cu")
 		(net 16)
 		(uuid "bdbdd545-5274-4b61-aae3-694561e90fcf")
+	)
+	(segment
+		(start 35.56 139.175564)
+		(end 30.48 139.175564)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 52)
+		(uuid "54da78a7-ff66-4a71-81e0-6b269b821d52")
+	)
+	(segment
+		(start 30.48 149.335564)
+		(end 35.56 149.335564)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 54)
+		(uuid "0f9e78aa-900b-4e8b-acf5-63b5214b3cce")
+	)
+	(segment
+		(start 35.56 159.495564)
+		(end 30.48 159.495564)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 55)
+		(uuid "d3d27120-72d6-4ee0-b4f8-7bee534657b3")
+	)
+	(segment
+		(start 48.26 139.175564)
+		(end 43.18 139.175564)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 56)
+		(uuid "d2945e7d-308c-4d6f-8906-65a631b2570a")
+	)
+	(segment
+		(start 43.18 149.335564)
+		(end 48.26 149.335564)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 57)
+		(uuid "3f64661e-5a5d-4e72-996c-610f3b45f1dc")
+	)
+	(segment
+		(start 43.18 159.495564)
+		(end 48.26 159.495564)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 58)
+		(uuid "ecbba772-778a-4fb4-8a8f-303b4fb946fe")
+	)
+	(segment
+		(start 48.18 189.895564)
+		(end 48.26 189.975564)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 60)
+		(uuid "6ef1a4bb-a557-470a-8cb6-47fae1241149")
+	)
+	(segment
+		(start 44.98 189.895564)
+		(end 48.18 189.895564)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 60)
+		(uuid "abb5f09c-0817-486a-97b8-b279810b215a")
 	)
 	(embedded_fonts no)
 )
