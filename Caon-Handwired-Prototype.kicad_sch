@@ -2280,6 +2280,17 @@
 		)
 		(uuid "43176aee-6117-4d73-b63a-701de4f3c16d")
 	)
+	(text "*107 Unused MISO"
+		(exclude_from_sim no)
+		(at 78.74 85.09 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "48077d32-91d5-4a03-9b21-a9c408dd5c6d")
+	)
 	(text "*Shifter 6"
 		(exclude_from_sim no)
 		(at 176.53 64.77 0)
