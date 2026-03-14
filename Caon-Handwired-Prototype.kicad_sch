@@ -3540,6 +3540,12 @@
 		(uuid "0c7b7e43-8bfc-4c15-8a52-6cfd362d6471")
 	)
 	(junction
+		(at 280.67 68.58)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0fd0cdfa-9348-4c7f-bcba-28c0a574b663")
+	)
+	(junction
 		(at 157.48 189.23)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5983,7 +5989,7 @@
 	)
 	(wire
 		(pts
-			(xy 269.24 68.58) (xy 303.53 68.58)
+			(xy 269.24 68.58) (xy 280.67 68.58)
 		)
 		(stroke
 			(width 0)
@@ -6833,6 +6839,16 @@
 	)
 	(wire
 		(pts
+			(xy 280.67 68.58) (xy 303.53 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a82996ff-9f97-4d60-b76a-3d0cad4aea94")
+	)
+	(wire
+		(pts
 			(xy 125.73 143.51) (xy 138.43 143.51)
 		)
 		(stroke
@@ -7550,6 +7566,16 @@
 			(type default)
 		)
 		(uuid "d2a2b1bb-e7e8-4fbe-a5eb-2ef21ae1df8a")
+	)
+	(wire
+		(pts
+			(xy 280.67 68.58) (xy 280.67 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d2b10eeb-1087-4890-90f8-3fabaa6dbde5")
 	)
 	(wire
 		(pts
@@ -11194,6 +11220,75 @@
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
 					(reference "D16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 280.67 72.39 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "19bdd60d-ba97-4e44-a1bd-18ee7df9c335")
+		(property "Reference" "C1"
+			(at 283.21 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0.1uf"
+			(at 283.21 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 280.67 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 280.67 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 280.67 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1acd7b59-7e8b-42d9-8f39-4dbb1e5195e3")
+		)
+		(pin "2"
+			(uuid "67a8cd5d-d002-4619-b713-7e9dbdcc9ad0")
+		)
+		(instances
+			(project "Caon-Handwired-Prototype"
+				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
+					(reference "C1")
 					(unit 1)
 				)
 			)
@@ -21146,6 +21241,71 @@
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
 					(reference "SW55")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 280.67 74.93 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "cb5c7913-5d0c-4621-9a87-697536e161f9")
+		(property "Reference" "#PWR016"
+			(at 280.67 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 280.67 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 280.67 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 280.67 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 280.67 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "794a45fc-53f3-4055-936d-13a38e8d0e60")
+		)
+		(instances
+			(project "Caon-Handwired-Prototype"
+				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
+					(reference "#PWR016")
 					(unit 1)
 				)
 			)
