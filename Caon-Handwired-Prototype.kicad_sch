@@ -375,6 +375,146 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Device:C_Small"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0.254)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at 0.254 1.778 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "C_Small"
+				(at 0.254 -2.032 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Unpolarized capacitor, small symbol"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "capacitor cap"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "C_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "C_Small_0_1"
+				(polyline
+					(pts
+						(xy -1.524 0.508) (xy 1.524 0.508)
+					)
+					(stroke
+						(width 0.3048)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.524 -0.508) (xy 1.524 -0.508)
+					)
+					(stroke
+						(width 0.3302)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "C_Small_1_1"
+				(pin passive line
+					(at 0 2.54 270)
+					(length 2.032)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -2.54 90)
+					(length 2.032)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Device:R"
 			(pin_numbers
 				(hide yes)
@@ -3388,18 +3528,6 @@
 		(uuid "04dd395c-de91-4ce0-8155-63c8257490a8")
 	)
 	(junction
-		(at 288.29 69.85)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "05177ff7-e694-4985-8ceb-2a8e817001fb")
-	)
-	(junction
-		(at 275.59 54.61)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "075f23a1-bbe7-45a8-90d7-baa2f5bfc6cb")
-	)
-	(junction
 		(at 92.71 189.23)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3472,12 +3600,6 @@
 		(uuid "2929e5a0-8b00-428d-8ea2-661d6b60a732")
 	)
 	(junction
-		(at 290.83 67.31)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2a7bc920-0e50-4805-bfad-3634edc38e04")
-	)
-	(junction
 		(at 215.9 233.68)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3488,6 +3610,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2d348d0b-265e-438a-963b-7a4ed2b435ae")
+	)
+	(junction
+		(at 269.24 68.58)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2f2cf058-6a78-42bf-8b20-6fd50f65e3e0")
 	)
 	(junction
 		(at 113.03 262.89)
@@ -3512,6 +3640,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "35ec1168-00f3-41b5-8d7e-f6165910b6d7")
+	)
+	(junction
+		(at 269.24 55.88)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "370058ac-eabc-4058-a2e8-5e47409911e0")
 	)
 	(junction
 		(at 261.62 199.39)
@@ -3626,6 +3760,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5aea3d7b-8a88-42cd-8bfa-52b2fb6a894c")
+	)
+	(junction
+		(at 269.24 49.53)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5e425379-9350-42ca-965a-1bc059f032a1")
 	)
 	(junction
 		(at 190.5 143.51)
@@ -3892,6 +4032,12 @@
 		(uuid "937a0037-c1d3-4244-b6ec-fa8b146201c7")
 	)
 	(junction
+		(at 299.72 66.04)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "950df898-b838-4fc5-8c73-7ad132fbdbbd")
+	)
+	(junction
 		(at 86.36 143.51)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3902,6 +4048,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "96034a44-beb9-4af1-82e4-758da4ef447b")
+	)
+	(junction
+		(at 302.26 63.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9791644b-1356-4e56-963c-85f38c3447fc")
 	)
 	(junction
 		(at 241.3 173.99)
@@ -4174,12 +4326,6 @@
 		(uuid "e83aa3bb-39ce-484b-92fc-f60d21c33036")
 	)
 	(junction
-		(at 275.59 63.5)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e85d9905-22d1-4e76-bf3c-015771c25a07")
-	)
-	(junction
 		(at 190.5 173.99)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4427,16 +4573,6 @@
 	)
 	(wire
 		(pts
-			(xy 288.29 69.85) (xy 293.37 69.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0eee6b90-d1f4-46a1-93fc-71bb5ab81fcd")
-	)
-	(wire
-		(pts
 			(xy 222.25 220.98) (xy 222.25 248.92)
 		)
 		(stroke
@@ -4457,7 +4593,7 @@
 	)
 	(wire
 		(pts
-			(xy 287.02 63.5) (xy 288.29 63.5)
+			(xy 298.45 55.88) (xy 299.72 55.88)
 		)
 		(stroke
 			(width 0)
@@ -4474,6 +4610,16 @@
 			(type default)
 		)
 		(uuid "12b11efe-971b-466c-975d-c88544e0819e")
+	)
+	(wire
+		(pts
+			(xy 290.83 55.88) (xy 269.24 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "12f3c0e1-a7d2-4a39-8bdb-e58b8d6fa860")
 	)
 	(wire
 		(pts
@@ -4617,16 +4763,6 @@
 	)
 	(wire
 		(pts
-			(xy 285.75 69.85) (xy 288.29 69.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1bc2c773-2492-485a-b558-cfa5503d8a4e")
-	)
-	(wire
-		(pts
 			(xy 234.95 189.23) (xy 234.95 220.98)
 		)
 		(stroke
@@ -4664,6 +4800,16 @@
 			(type default)
 		)
 		(uuid "1d5f6cdf-30ac-47d7-acfc-6a6ff8493b79")
+	)
+	(wire
+		(pts
+			(xy 269.24 55.88) (xy 269.24 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1e5830dd-fe28-4b24-b4a7-02ea197e3f28")
 	)
 	(wire
 		(pts
@@ -4714,6 +4860,16 @@
 			(type default)
 		)
 		(uuid "205ecf3d-3115-49c0-86ce-bb495c80b58b")
+	)
+	(wire
+		(pts
+			(xy 302.26 71.12) (xy 302.26 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "20b69385-84b7-4a0b-b6fb-bac51ef0f511")
 	)
 	(wire
 		(pts
@@ -4827,7 +4983,7 @@
 	)
 	(wire
 		(pts
-			(xy 290.83 54.61) (xy 290.83 67.31)
+			(xy 302.26 49.53) (xy 302.26 63.5)
 		)
 		(stroke
 			(width 0)
@@ -4894,16 +5050,6 @@
 			(type default)
 		)
 		(uuid "2d4c96ee-42fe-4046-b93c-5b0a6443f8cd")
-	)
-	(wire
-		(pts
-			(xy 290.83 67.31) (xy 293.37 67.31)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2dc20c5a-09f0-49ec-8d83-90436261e447")
 	)
 	(wire
 		(pts
@@ -5067,16 +5213,6 @@
 	)
 	(wire
 		(pts
-			(xy 275.59 63.5) (xy 275.59 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "38aff8d9-f914-4d6e-96ab-44d7fb795443")
-	)
-	(wire
-		(pts
 			(xy 125.73 201.93) (xy 125.73 204.47)
 		)
 		(stroke
@@ -5124,16 +5260,6 @@
 			(type default)
 		)
 		(uuid "3b57294b-1dad-45c5-b382-e37443302ed5")
-	)
-	(wire
-		(pts
-			(xy 275.59 54.61) (xy 279.4 54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3b9d3e3e-dc20-4da6-8d58-ac44f6f88221")
 	)
 	(wire
 		(pts
@@ -5337,13 +5463,23 @@
 	)
 	(wire
 		(pts
-			(xy 287.02 54.61) (xy 290.83 54.61)
+			(xy 289.56 49.53) (xy 302.26 49.53)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "46e335e2-36e0-4f25-9f85-81a89a783ef5")
+	)
+	(wire
+		(pts
+			(xy 279.4 66.04) (xy 289.56 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "47155f25-377e-4e6e-a585-7f0eeca320d2")
 	)
 	(wire
 		(pts
@@ -5447,6 +5583,16 @@
 	)
 	(wire
 		(pts
+			(xy 279.4 63.5) (xy 281.94 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4fa47689-94cf-4713-b66e-04635a96444c")
+	)
+	(wire
+		(pts
 			(xy 254 172.72) (xy 254 173.99)
 		)
 		(stroke
@@ -5504,6 +5650,16 @@
 			(type default)
 		)
 		(uuid "5271a3d9-4a9b-4355-88de-8784bcdea030")
+	)
+	(wire
+		(pts
+			(xy 302.26 71.12) (xy 303.53 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "52a93996-d753-4911-b717-91e7dd82e1a5")
 	)
 	(wire
 		(pts
@@ -5577,7 +5733,7 @@
 	)
 	(wire
 		(pts
-			(xy 288.29 63.5) (xy 288.29 69.85)
+			(xy 299.72 55.88) (xy 299.72 66.04)
 		)
 		(stroke
 			(width 0)
@@ -5594,16 +5750,6 @@
 			(type default)
 		)
 		(uuid "5b79a21e-7e6e-4dbb-8435-af2524b7871e")
-	)
-	(wire
-		(pts
-			(xy 275.59 49.53) (xy 275.59 54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5c0a4bd6-04b3-4ddb-baef-29960474731d")
 	)
 	(wire
 		(pts
@@ -5757,6 +5903,16 @@
 	)
 	(wire
 		(pts
+			(xy 297.18 66.04) (xy 299.72 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "67715e6d-06dd-444f-907d-fe5ff2ed3318")
+	)
+	(wire
+		(pts
 			(xy 144.78 129.54) (xy 144.78 160.02)
 		)
 		(stroke
@@ -5824,6 +5980,16 @@
 			(type default)
 		)
 		(uuid "6bcf3579-2969-4de6-a20d-ddcc25a418ca")
+	)
+	(wire
+		(pts
+			(xy 269.24 68.58) (xy 303.53 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6d077f0b-c0c5-48cc-8be8-742c4ea415fc")
 	)
 	(wire
 		(pts
@@ -6207,6 +6373,16 @@
 	)
 	(wire
 		(pts
+			(xy 269.24 46.99) (xy 269.24 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "89d9195f-830b-44d5-b3b4-e366730651b4")
+	)
+	(wire
+		(pts
 			(xy 203.2 172.72) (xy 203.2 173.99)
 		)
 		(stroke
@@ -6364,16 +6540,6 @@
 			(type default)
 		)
 		(uuid "97fd4a02-cb26-456b-9a7c-85b678d1030b")
-	)
-	(wire
-		(pts
-			(xy 293.37 72.39) (xy 275.59 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "986defb5-3a28-44d5-97e8-65943d4457a7")
 	)
 	(wire
 		(pts
@@ -6537,13 +6703,13 @@
 	)
 	(wire
 		(pts
-			(xy 275.59 54.61) (xy 275.59 63.5)
+			(xy 299.72 66.04) (xy 303.53 66.04)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "a24bb74a-81df-453a-b2e2-d4f91edec9c3")
+		(uuid "a160f4b5-5d47-4c83-89ec-45582579f17f")
 	)
 	(wire
 		(pts
@@ -6617,6 +6783,26 @@
 	)
 	(wire
 		(pts
+			(xy 289.56 63.5) (xy 302.26 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a686d0c6-7d9d-48ba-8a59-22293da4a986")
+	)
+	(wire
+		(pts
+			(xy 269.24 49.53) (xy 281.94 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a770357c-0a04-4659-b724-8d5b3ba35873")
+	)
+	(wire
+		(pts
 			(xy 125.73 204.47) (xy 138.43 204.47)
 		)
 		(stroke
@@ -6654,16 +6840,6 @@
 			(type default)
 		)
 		(uuid "a82ba9fc-bf43-4090-a69a-a38c034d953f")
-	)
-	(wire
-		(pts
-			(xy 285.75 67.31) (xy 290.83 67.31)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a846c60e-8088-44e2-8c02-8ea057eb2115")
 	)
 	(wire
 		(pts
@@ -6734,16 +6910,6 @@
 			(type default)
 		)
 		(uuid "aa48da01-5b9b-4d68-842b-67742dd2728f")
-	)
-	(wire
-		(pts
-			(xy 275.59 63.5) (xy 279.4 63.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "abc9c27d-845c-470a-bb17-6a08787acc35")
 	)
 	(wire
 		(pts
@@ -7127,6 +7293,16 @@
 	)
 	(wire
 		(pts
+			(xy 302.26 63.5) (xy 303.53 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c37e9191-ad4c-4586-9ada-f5033a4aaaa8")
+	)
+	(wire
+		(pts
 			(xy 138.43 172.72) (xy 138.43 173.99)
 		)
 		(stroke
@@ -7304,6 +7480,16 @@
 			(type default)
 		)
 		(uuid "cda221bc-6650-4d1e-82ca-9f10432ff28a")
+	)
+	(wire
+		(pts
+			(xy 269.24 55.88) (xy 269.24 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ce539642-113f-4f94-93c0-2e9810068580")
 	)
 	(wire
 		(pts
@@ -7557,6 +7743,16 @@
 	)
 	(wire
 		(pts
+			(xy 269.24 69.85) (xy 269.24 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e172b394-4287-4171-9309-a43e9f4d3313")
+	)
+	(wire
+		(pts
 			(xy 113.03 262.89) (xy 125.73 262.89)
 		)
 		(stroke
@@ -7637,6 +7833,16 @@
 	)
 	(wire
 		(pts
+			(xy 269.24 66.04) (xy 269.24 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e59fa9a2-d0f7-47c9-9498-9311880a3f0f")
+	)
+	(wire
+		(pts
 			(xy 99.06 262.89) (xy 113.03 262.89)
 		)
 		(stroke
@@ -7674,16 +7880,6 @@
 			(type default)
 		)
 		(uuid "e8e67bfa-b863-4f07-ab3d-2c20200e9f76")
-	)
-	(wire
-		(pts
-			(xy 289.56 74.93) (xy 293.37 74.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e9c8f406-73f0-48d2-a0d6-286542a07101")
 	)
 	(wire
 		(pts
@@ -9292,7 +9488,7 @@
 	)
 	(global_label "SCL"
 		(shape bidirectional)
-		(at 285.75 69.85 180)
+		(at 279.4 66.04 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9302,7 +9498,7 @@
 		)
 		(uuid "a68db021-b29b-47de-b6a9-87a8bd25ef26")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 278.1459 69.85 0)
+			(at 271.7959 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9556,7 +9752,7 @@
 	)
 	(global_label "SDA"
 		(shape bidirectional)
-		(at 285.75 67.31 180)
+		(at 279.4 63.5 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9566,7 +9762,7 @@
 		)
 		(uuid "d2080a43-b64b-42d7-af50-5b24895db00a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 278.0854 67.31 0)
+			(at 271.7354 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10438,7 +10634,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 226.06 132.08 0)
 			(effects
 				(font
@@ -10572,7 +10768,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 123.19 251.46 0)
 			(effects
 				(font
@@ -10639,7 +10835,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 135.89 162.56 0)
 			(effects
 				(font
@@ -11177,7 +11373,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 135.89 223.52 0)
 			(effects
 				(font
@@ -11244,7 +11440,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 226.06 191.77 0)
 			(effects
 				(font
@@ -11481,7 +11677,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 187.96 132.08 0)
 			(effects
 				(font
@@ -11548,7 +11744,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 213.36 223.52 0)
 			(effects
 				(font
@@ -11700,7 +11896,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 135.89 132.08 0)
 			(effects
 				(font
@@ -11767,7 +11963,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 238.76 162.56 0)
 			(effects
 				(font
@@ -12174,7 +12370,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 265.43 251.46 0)
 			(effects
 				(font
@@ -12241,7 +12437,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 96.52 251.46 0)
 			(effects
 				(font
@@ -12308,7 +12504,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 200.66 132.08 0)
 			(effects
 				(font
@@ -12440,7 +12636,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 251.46 162.56 0)
 			(effects
 				(font
@@ -12507,7 +12703,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 187.96 162.56 0)
 			(effects
 				(font
@@ -12574,7 +12770,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 161.29 132.08 0)
 			(effects
 				(font
@@ -12896,7 +13092,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 265.43 132.08 0)
 			(effects
 				(font
@@ -13048,7 +13244,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 83.82 223.52 0)
 			(effects
 				(font
@@ -13176,6 +13372,75 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_Small")
+		(at 269.24 72.39 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "3cdffa6a-a5c1-450c-bf7c-999597867824")
+		(property "Reference" "C2"
+			(at 271.78 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10uf"
+			(at 271.78 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 269.24 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 269.24 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 269.24 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "dc41a3d8-1efa-4e3b-8e6f-5ee24e0928cf")
+		)
+		(pin "2"
+			(uuid "8256514e-57ec-4129-a78d-c0eb6dee57f7")
+		)
+		(instances
+			(project ""
+				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
+					(reference "C2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Switch:SW_Push_45deg")
 		(at 161.29 162.56 0)
 		(unit 1)
@@ -13200,7 +13465,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 161.29 162.56 0)
 			(effects
 				(font
@@ -13267,7 +13532,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 251.46 223.52 0)
 			(effects
 				(font
@@ -13504,7 +13769,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 200.66 251.46 0)
 			(effects
 				(font
@@ -13891,7 +14156,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 123.19 162.56 0)
 			(effects
 				(font
@@ -13958,7 +14223,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 83.82 162.56 0)
 			(effects
 				(font
@@ -14171,6 +14436,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 293.37 66.04 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "51ea1fce-de1d-470d-a2f2-bf3ae6325dd7")
+		(property "Reference" "OLD_R4"
+			(at 293.37 72.39 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "150Ω"
+			(at 293.37 69.85 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical"
+			(at 293.37 67.818 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 293.37 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 293.37 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "530f307c-c2c3-4ef5-a830-f4297651d11c")
+		)
+		(pin "2"
+			(uuid "2021b6a4-297a-4c42-af98-1c6d836f8524")
+		)
+		(instances
+			(project "Caon-Handwired-Prototype"
+				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
+					(reference "OLD_R4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Diode:1N4148")
 		(at 254 168.91 90)
 		(unit 1)
@@ -14280,7 +14612,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 238.76 251.46 0)
 			(effects
 				(font
@@ -14497,7 +14829,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 238.76 223.52 0)
 			(effects
 				(font
@@ -14564,7 +14896,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 161.29 251.46 0)
 			(effects
 				(font
@@ -14693,7 +15025,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 283.21 54.61 90)
+		(at 285.75 49.53 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14701,15 +15033,15 @@
 		(dnp no)
 		(uuid "5a48aa5b-6b5b-4f1a-8d16-566d8ccdcb29")
 		(property "Reference" "OLD_R1"
-			(at 283.21 49.53 90)
+			(at 285.75 44.45 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "10k"
-			(at 283.21 52.07 90)
+		(property "Value" "4.7k"
+			(at 285.75 46.99 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14717,7 +15049,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical"
-			(at 283.21 56.388 90)
+			(at 285.75 51.308 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14726,7 +15058,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 283.21 54.61 0)
+			(at 285.75 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14735,7 +15067,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 283.21 54.61 0)
+			(at 285.75 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14868,7 +15200,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 213.36 191.77 0)
 			(effects
 				(font
@@ -15258,7 +15590,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 110.49 223.52 0)
 			(effects
 				(font
@@ -15410,7 +15742,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 175.26 132.08 0)
 			(effects
 				(font
@@ -15542,7 +15874,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 96.52 191.77 0)
 			(effects
 				(font
@@ -15759,7 +16091,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 213.36 251.46 0)
 			(effects
 				(font
@@ -15826,7 +16158,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 148.59 191.77 0)
 			(effects
 				(font
@@ -16233,7 +16565,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 200.66 191.77 0)
 			(effects
 				(font
@@ -16385,7 +16717,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 238.76 191.77 0)
 			(effects
 				(font
@@ -16622,7 +16954,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 148.59 162.56 0)
 			(effects
 				(font
@@ -16689,7 +17021,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 110.49 162.56 0)
 			(effects
 				(font
@@ -16732,6 +17064,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 285.75 63.5 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "82d06812-0098-4133-8a86-253fc01aa708")
+		(property "Reference" "OLD_R3"
+			(at 285.75 58.42 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "150Ω"
+			(at 285.75 60.96 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical"
+			(at 285.75 65.278 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 285.75 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 285.75 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6121953d-27fb-4b96-9cfe-386063ca8dae")
+		)
+		(pin "2"
+			(uuid "10a68835-1e42-4893-9e6b-529fe8ce5d33")
+		)
+		(instances
+			(project "Caon-Handwired-Prototype"
+				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
+					(reference "OLD_R3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Switch:SW_Push_45deg")
 		(at 175.26 191.77 0)
 		(unit 1)
@@ -16756,7 +17155,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 175.26 191.77 0)
 			(effects
 				(font
@@ -16823,7 +17222,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 251.46 251.46 0)
 			(effects
 				(font
@@ -17145,7 +17544,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 238.76 132.08 0)
 			(effects
 				(font
@@ -17297,7 +17696,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 251.46 191.77 0)
 			(effects
 				(font
@@ -17364,7 +17763,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 96.52 132.08 0)
 			(effects
 				(font
@@ -17516,7 +17915,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 213.36 162.56 0)
 			(effects
 				(font
@@ -17730,16 +18129,15 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:OLED_128x32")
-		(at 295.91 71.12 0)
+		(at 306.07 67.31 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "92fde2c8-e889-4c16-9a28-b0048e86506a")
 		(property "Reference" "J1"
-			(at 312.42 69.8499 0)
+			(at 322.58 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17748,7 +18146,7 @@
 			)
 		)
 		(property "Value" "OLED_128x32"
-			(at 312.42 72.3899 0)
+			(at 322.58 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17757,7 +18155,7 @@
 			)
 		)
 		(property "Footprint" "ScottoKeebs_Components:OLED_128x32"
-			(at 295.91 62.23 0)
+			(at 306.07 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17766,7 +18164,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 295.91 69.85 0)
+			(at 306.07 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17775,7 +18173,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 295.91 71.12 0)
+			(at 306.07 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17829,7 +18227,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 123.19 132.08 0)
 			(effects
 				(font
@@ -17981,7 +18379,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 110.49 132.08 0)
 			(effects
 				(font
@@ -18110,7 +18508,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 283.21 63.5 90)
+		(at 294.64 55.88 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18118,15 +18516,15 @@
 		(dnp no)
 		(uuid "97427d36-0cfe-4e34-b95a-27dca1d1ba1a")
 		(property "Reference" "OLD_R2"
-			(at 283.21 58.42 90)
+			(at 294.64 50.8 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "10k"
-			(at 283.21 60.96 90)
+		(property "Value" "4.7k"
+			(at 294.64 53.34 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18134,7 +18532,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical"
-			(at 283.21 65.278 90)
+			(at 294.64 57.658 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18143,7 +18541,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 283.21 63.5 0)
+			(at 294.64 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18152,7 +18550,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 283.21 63.5 0)
+			(at 294.64 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18567,7 +18965,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 83.82 191.77 0)
 			(effects
 				(font
@@ -18634,7 +19032,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 96.52 162.56 0)
 			(effects
 				(font
@@ -19115,7 +19513,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 135.89 191.77 0)
 			(effects
 				(font
@@ -19420,7 +19818,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 123.19 191.77 0)
 			(effects
 				(font
@@ -19457,6 +19855,71 @@
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
 					(reference "SW34")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 269.24 74.93 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b3124a1a-81d5-477a-9794-cb06b1fdd010")
+		(property "Reference" "#PWR015"
+			(at 269.24 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 269.24 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 269.24 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 269.24 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 269.24 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ce253b8b-9a41-44b7-a6b7-06d9d6c8e410")
+		)
+		(instances
+			(project "Caon-Handwired-Prototype"
+				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
+					(reference "#PWR015")
 					(unit 1)
 				)
 			)
@@ -19657,7 +20120,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 96.52 223.52 0)
 			(effects
 				(font
@@ -19809,7 +20272,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 175.26 162.56 0)
 			(effects
 				(font
@@ -19876,7 +20339,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 148.59 132.08 0)
 			(effects
 				(font
@@ -20028,7 +20491,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 161.29 223.52 0)
 			(effects
 				(font
@@ -20494,7 +20957,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 83.82 251.46 0)
 			(effects
 				(font
@@ -20646,7 +21109,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 200.66 223.52 0)
 			(effects
 				(font
@@ -20798,7 +21261,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 148.59 223.52 0)
 			(effects
 				(font
@@ -20930,7 +21393,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 175.26 251.46 0)
 			(effects
 				(font
@@ -21167,7 +21630,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 175.26 223.52 0)
 			(effects
 				(font
@@ -21234,7 +21697,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 187.96 191.77 0)
 			(effects
 				(font
@@ -21301,7 +21764,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 187.96 223.52 0)
 			(effects
 				(font
@@ -21538,7 +22001,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 148.59 251.46 0)
 			(effects
 				(font
@@ -21981,7 +22444,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 289.56 74.93 0)
+		(at 302.26 74.93 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -21989,7 +22452,7 @@
 		(dnp no)
 		(uuid "e0d226d4-e560-481d-a354-2776af46d07d")
 		(property "Reference" "#PWR07"
-			(at 289.56 81.28 0)
+			(at 302.26 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21998,7 +22461,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 289.56 78.74 0)
+			(at 302.26 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22006,7 +22469,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 289.56 74.93 0)
+			(at 302.26 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22015,7 +22478,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 289.56 74.93 0)
+			(at 302.26 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22024,7 +22487,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 289.56 74.93 0)
+			(at 302.26 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22069,7 +22532,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 135.89 251.46 0)
 			(effects
 				(font
@@ -22306,7 +22769,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 213.36 132.08 0)
 			(effects
 				(font
@@ -22373,7 +22836,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 83.82 132.08 0)
 			(effects
 				(font
@@ -22417,7 +22880,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 275.59 49.53 0)
+		(at 269.24 46.99 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22425,7 +22888,7 @@
 		(dnp no)
 		(uuid "e90afad4-aaf2-41b9-a932-dec5fb017826")
 		(property "Reference" "#PWR04"
-			(at 275.59 53.34 0)
+			(at 269.24 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22434,7 +22897,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 275.59 44.45 0)
+			(at 269.24 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22442,7 +22905,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 275.59 49.53 0)
+			(at 269.24 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22451,7 +22914,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 275.59 49.53 0)
+			(at 269.24 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22460,7 +22923,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 275.59 49.53 0)
+			(at 269.24 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22570,7 +23033,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 251.46 132.08 0)
 			(effects
 				(font
@@ -22872,7 +23335,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 200.66 162.56 0)
 			(effects
 				(font
@@ -23194,7 +23657,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 226.06 162.56 0)
 			(effects
 				(font
@@ -23261,7 +23724,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 226.06 251.46 0)
 			(effects
 				(font
@@ -23498,7 +23961,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 226.06 223.52 0)
 			(effects
 				(font
@@ -23650,7 +24113,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 187.96 251.46 0)
 			(effects
 				(font
@@ -23717,7 +24180,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 110.49 251.46 0)
 			(effects
 				(font
@@ -23784,7 +24247,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 110.49 191.77 0)
 			(effects
 				(font
@@ -23851,7 +24314,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 161.29 191.77 0)
 			(effects
 				(font
@@ -24129,6 +24592,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 269.24 62.23 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "fe04eeb2-da5f-46b6-b812-42a20880f770")
+		(property "Reference" "OLD_R5"
+			(at 264.16 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10Ω"
+			(at 264.16 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical"
+			(at 271.018 62.23 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 269.24 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 269.24 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "83814efb-3f5f-4e01-82df-47b1cf3dcbf8")
+		)
+		(pin "2"
+			(uuid "1670f805-09ba-49ad-a0fc-2738808e50a0")
+		)
+		(instances
+			(project "Caon-Handwired-Prototype"
+				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
+					(reference "OLD_R5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Switch:SW_Push_45deg")
 		(at 123.19 223.52 0)
 		(unit 1)
@@ -24153,7 +24683,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 123.19 223.52 0)
 			(effects
 				(font
