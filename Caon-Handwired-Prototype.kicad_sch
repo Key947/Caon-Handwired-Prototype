@@ -4889,16 +4889,6 @@
 	)
 	(wire
 		(pts
-			(xy 264.16 53.34) (xy 264.16 58.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "220f6905-ced1-4566-a123-b518eaf70df5")
-	)
-	(wire
-		(pts
 			(xy 125.73 172.72) (xy 125.73 173.99)
 		)
 		(stroke
@@ -7859,7 +7849,7 @@
 	)
 	(wire
 		(pts
-			(xy 264.16 66.04) (xy 264.16 72.39)
+			(xy 264.16 53.34) (xy 264.16 72.39)
 		)
 		(stroke
 			(width 0)
@@ -8328,7 +8318,7 @@
 		(uuid "ffe3d20f-1301-4453-8e14-820cd2e7e4d0")
 	)
 	(image
-		(at 213.36 341.63)
+		(at 250.19 342.9)
 		(scale 4.87792)
 		(uuid "f0f23133-b8bb-40e3-b603-f4fc0b694084")
 		(data "iVBORw0KGgoAAAANSUhEUgAAA2oAAAEfCAIAAAC/OaIHAAAAA3NCSVQICAjb4U/gAAAgAElEQVR4"
@@ -14557,7 +14547,7 @@
 				)
 			)
 		)
-		(property "Value" "150Ω"
+		(property "Value" "100Ω"
 			(at 288.29 63.5 90)
 			(effects
 				(font
@@ -17185,7 +17175,7 @@
 				)
 			)
 		)
-		(property "Value" "150Ω"
+		(property "Value" "100Ω"
 			(at 307.34 58.42 90)
 			(effects
 				(font
@@ -24756,75 +24746,6 @@
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
 					(reference "D15")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 264.16 62.23 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "fe04eeb2-da5f-46b6-b812-42a20880f770")
-		(property "Reference" "OLD_R3"
-			(at 266.7 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "10Ω"
-			(at 266.7 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical"
-			(at 265.938 62.23 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 264.16 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 264.16 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "83814efb-3f5f-4e01-82df-47b1cf3dcbf8")
-		)
-		(pin "2"
-			(uuid "1670f805-09ba-49ad-a0fc-2738808e50a0")
-		)
-		(instances
-			(project "Caon-Handwired-Prototype"
-				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "OLD_R3")
 					(unit 1)
 				)
 			)
