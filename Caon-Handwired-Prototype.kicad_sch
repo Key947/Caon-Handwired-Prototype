@@ -3686,16 +3686,22 @@
 		(uuid "01564919-5f7e-4ef7-9a52-f078b09ccbb2")
 	)
 	(junction
-		(at 283.21 72.39)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "04092b00-d6bd-44ae-ae9f-8806455e92f6")
-	)
-	(junction
 		(at 234.95 220.98)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "04dd395c-de91-4ce0-8155-63c8257490a8")
+	)
+	(junction
+		(at 318.77 157.48)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0656eb82-f8ea-4e80-a6e7-cac1fc8c373f")
+	)
+	(junction
+		(at 318.77 204.47)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "09635a7e-8a54-4ef2-8625-3fb34b2cd9ca")
 	)
 	(junction
 		(at 92.71 189.23)
@@ -3794,6 +3800,12 @@
 		(uuid "2f48ddcd-b449-496d-9013-155135671646")
 	)
 	(junction
+		(at 175.26 81.28)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "33798418-f2db-49a4-8a86-760291ba790b")
+	)
+	(junction
 		(at 247.65 189.23)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3848,16 +3860,10 @@
 		(uuid "3b9f2338-380d-4e50-95de-4bce1fc5840a")
 	)
 	(junction
-		(at 300.99 168.91)
+		(at 331.47 80.01)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "3f7a6465-efe6-477b-b41a-82691de5e097")
-	)
-	(junction
-		(at 246.38 80.01)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4034a4c9-60c6-46e3-8b95-26a6acd95b14")
+		(uuid "3c8acdf9-f0ca-4a55-ba87-b15e1d4a5f3b")
 	)
 	(junction
 		(at 92.71 160.02)
@@ -3870,12 +3876,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4132590c-fc7a-4bec-bc82-60e61402c863")
-	)
-	(junction
-		(at 311.15 213.36)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "43b8498f-f98a-4937-a727-9d9863626f49")
 	)
 	(junction
 		(at 171.45 129.54)
@@ -3926,12 +3926,6 @@
 		(uuid "5ad796b4-52ff-4149-a8dc-2fb509b5f100")
 	)
 	(junction
-		(at 311.15 181.61)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5aea3d7b-8a88-42cd-8bfa-52b2fb6a894c")
-	)
-	(junction
 		(at 190.5 143.51)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3948,6 +3942,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "622139b5-deac-45a0-94a8-01195b4a6f29")
+	)
+	(junction
+		(at 233.68 73.66)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "624dac40-e8d0-4b01-93c4-a6fc8b6fb7fe")
 	)
 	(junction
 		(at 125.73 233.68)
@@ -3968,12 +3968,6 @@
 		(uuid "65a9a80f-6a84-41b6-9e42-764292a6c005")
 	)
 	(junction
-		(at 299.72 173.99)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "65f7339d-6c33-41ba-aa16-3e71c1622888")
-	)
-	(junction
 		(at 138.43 233.68)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3992,16 +3986,22 @@
 		(uuid "66ebd389-c7bd-49b9-95da-d1f883210488")
 	)
 	(junction
-		(at 317.5 60.96)
+		(at 293.37 53.34)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "67de8594-6be9-482a-9a91-68c7ee010cb2")
+		(uuid "67c16c6d-6ddf-46c6-9e16-0f5f63631d09")
 	)
 	(junction
 		(at 119.38 220.98)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "68256645-be81-4619-8d0b-18237d36e377")
+	)
+	(junction
+		(at 162.56 73.66)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "68256e6b-702d-498a-bedb-c01510b8c617")
 	)
 	(junction
 		(at 113.03 204.47)
@@ -4014,6 +4014,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "694f4558-ba26-47d8-a8db-f2373c341a53")
+	)
+	(junction
+		(at 307.34 168.91)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6985cfe7-5b8f-426c-b1c6-3f7e7baebf4f")
 	)
 	(junction
 		(at 177.8 143.51)
@@ -4074,12 +4080,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7a028c78-15c5-4d9e-8748-749ac4396d34")
-	)
-	(junction
-		(at 165.1 74.93)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7aa2dc7f-a09b-429e-b159-c41cc7a6c298")
 	)
 	(junction
 		(at 99.06 204.47)
@@ -4154,10 +4154,22 @@
 		(uuid "8735686b-3c2f-4fa4-9d37-7518eb4812f0")
 	)
 	(junction
+		(at 318.77 187.96)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "88a80d1d-75a2-4278-9a28-f426d9d297cb")
+	)
+	(junction
 		(at 144.78 189.23)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8ada1fee-9448-4b61-bc3b-a0f0f819265b")
+	)
+	(junction
+		(at 320.04 72.39)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8bc3ec36-af37-4046-b656-b208dd3fd0d0")
 	)
 	(junction
 		(at 209.55 160.02)
@@ -4214,12 +4226,6 @@
 		(uuid "9547bdc1-59fc-4e20-846b-1e6ae20fa93d")
 	)
 	(junction
-		(at 300.99 199.39)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "96034a44-beb9-4af1-82e4-758da4ef447b")
-	)
-	(junction
 		(at 241.3 173.99)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4250,6 +4256,12 @@
 		(uuid "9f861afd-d027-4265-a6d1-1780a7e3b893")
 	)
 	(junction
+		(at 304.8 55.88)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a106934e-b7eb-4e1f-a40f-23fab62fb50f")
+	)
+	(junction
 		(at 171.45 220.98)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4266,6 +4278,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a5503dd0-14a5-422d-b55a-ee1a85817897")
+	)
+	(junction
+		(at 304.8 43.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a56b9ad7-9a53-46fc-8b7d-0385f29af9b7")
 	)
 	(junction
 		(at 203.2 262.89)
@@ -4286,16 +4304,22 @@
 		(uuid "aaa87001-a97e-4048-a1df-266eaf8c0714")
 	)
 	(junction
-		(at 313.69 66.04)
+		(at 307.34 199.39)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "ad60f6ce-10dc-40c6-bbc7-9c377707e870")
+		(uuid "ac847792-04a7-4343-ad01-d11d0f757604")
 	)
 	(junction
 		(at 144.78 129.54)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ad9ff9cf-2c7c-4419-8f98-c9b874b4bc08")
+	)
+	(junction
+		(at 318.77 173.99)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ae456d74-cf98-47a1-b2b6-52b5da48d5b9")
 	)
 	(junction
 		(at 137.16 76.2)
@@ -4352,12 +4376,6 @@
 		(uuid "b3f73978-c8ea-4faa-801b-2808c12d1f13")
 	)
 	(junction
-		(at 269.24 53.34)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b4ac966b-6d40-4c9d-ba48-01523f5305c0")
-	)
-	(junction
 		(at 261.62 129.54)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4370,16 +4388,16 @@
 		(uuid "b60556cf-2dba-488b-9396-45eeaf3b43ab")
 	)
 	(junction
-		(at 299.72 204.47)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b76872e9-a915-4257-9191-fa37840633cb")
-	)
-	(junction
 		(at 151.13 204.47)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b8c00028-9333-487a-ae7e-8e4b75658bdf")
+	)
+	(junction
+		(at 246.38 81.28)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b8e7b07e-8652-484f-bf9f-36dd69ba0eca")
 	)
 	(junction
 		(at 138.43 204.47)
@@ -4398,12 +4416,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bbfade41-8468-424a-b071-15fff876ac23")
-	)
-	(junction
-		(at 294.64 72.39)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "bd500209-9bda-40df-be61-f1b72a0201b4")
 	)
 	(junction
 		(at 196.85 220.98)
@@ -4496,12 +4508,6 @@
 		(uuid "e152fe66-5c37-473b-a025-6e56d1e47083")
 	)
 	(junction
-		(at 175.26 80.01)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e30b9a38-728e-448a-a9d5-2ab780e3d804")
-	)
-	(junction
 		(at 138.43 262.89)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4536,18 +4542,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f60c5de3-c18b-422a-ae41-9e022676692d")
-	)
-	(junction
-		(at 236.22 74.93)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f7843288-79dd-4439-9489-dedd5df7ab7e")
-	)
-	(junction
-		(at 269.24 46.99)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f81db1c9-c34f-4c34-9024-3e17b70c84f3")
 	)
 	(junction
 		(at 222.25 160.02)
@@ -4625,16 +4619,6 @@
 	)
 	(wire
 		(pts
-			(xy 294.64 72.39) (xy 317.5 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "01540f75-9b6a-4ad2-8f64-c9bfcabc16b5")
-	)
-	(wire
-		(pts
 			(xy 119.38 220.98) (xy 120.65 220.98)
 		)
 		(stroke
@@ -4642,6 +4626,26 @@
 			(type default)
 		)
 		(uuid "027b79c5-0c46-451d-abfe-4ebc21b68a9b")
+	)
+	(wire
+		(pts
+			(xy 162.56 81.28) (xy 162.56 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "03133255-e4e0-40b3-9873-03c0b4c0ff8f")
+	)
+	(wire
+		(pts
+			(xy 304.8 55.88) (xy 309.88 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0331dbea-1a28-4c35-a6f4-fe0a9d266b82")
 	)
 	(wire
 		(pts
@@ -4705,6 +4709,16 @@
 	)
 	(wire
 		(pts
+			(xy 293.37 43.18) (xy 304.8 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "06837dfc-5347-4ccd-bd16-c8d4e42f1eec")
+	)
+	(wire
+		(pts
 			(xy 254 142.24) (xy 254 143.51)
 		)
 		(stroke
@@ -4755,6 +4769,16 @@
 	)
 	(wire
 		(pts
+			(xy 307.34 199.39) (xy 328.93 199.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0da5575f-c856-48dd-b781-814c07da2b07")
+	)
+	(wire
+		(pts
 			(xy 241.3 233.68) (xy 254 233.68)
 		)
 		(stroke
@@ -4762,6 +4786,16 @@
 			(type default)
 		)
 		(uuid "0dc60b64-a444-42ad-af53-3534cc2fef46")
+	)
+	(wire
+		(pts
+			(xy 320.04 71.12) (xy 320.04 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0df9d49f-162a-4a87-9a51-ffcd4fb69aaf")
 	)
 	(wire
 		(pts
@@ -4805,16 +4839,6 @@
 	)
 	(wire
 		(pts
-			(xy 302.26 53.34) (xy 313.69 53.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1228b415-dc9e-4d24-ac4c-97c7f51b2cdb")
-	)
-	(wire
-		(pts
 			(xy 254 204.47) (xy 270.51 204.47)
 		)
 		(stroke
@@ -4822,16 +4846,6 @@
 			(type default)
 		)
 		(uuid "12b11efe-971b-466c-975d-c88544e0819e")
-	)
-	(wire
-		(pts
-			(xy 294.64 53.34) (xy 269.24 53.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "12f3c0e1-a7d2-4a39-8bdb-e58b8d6fa860")
 	)
 	(wire
 		(pts
@@ -4872,16 +4886,6 @@
 			(type default)
 		)
 		(uuid "15a484dd-7b8f-45e9-a09e-973a1549e4bf")
-	)
-	(wire
-		(pts
-			(xy 299.72 220.98) (xy 299.72 204.47)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "15e37511-7346-4508-902b-a8ec5f119e38")
 	)
 	(wire
 		(pts
@@ -4932,6 +4936,26 @@
 			(type default)
 		)
 		(uuid "188b94e4-8290-4200-8e54-53dd29afefac")
+	)
+	(wire
+		(pts
+			(xy 162.56 73.66) (xy 162.56 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "18c1dad9-63cf-4062-8bea-0c3a2815cf6f")
+	)
+	(wire
+		(pts
+			(xy 175.26 73.66) (xy 175.26 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "18dc6dc2-a37e-4419-a353-2ee121a1756e")
 	)
 	(wire
 		(pts
@@ -5015,13 +5039,13 @@
 	)
 	(wire
 		(pts
-			(xy 300.99 181.61) (xy 300.99 168.91)
+			(xy 293.37 44.45) (xy 293.37 43.18)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "1e62f410-ee0c-47dd-9c86-5da458002d07")
+		(uuid "1f765979-ff0b-40f9-bebb-f0d91c22c8e3")
 	)
 	(wire
 		(pts
@@ -5062,6 +5086,16 @@
 			(type default)
 		)
 		(uuid "205ecf3d-3115-49c0-86ce-bb495c80b58b")
+	)
+	(wire
+		(pts
+			(xy 233.68 73.66) (xy 233.68 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "20b1cbd1-2a87-404b-ae3d-0c8648e0ac3b")
 	)
 	(wire
 		(pts
@@ -5145,16 +5179,6 @@
 	)
 	(wire
 		(pts
-			(xy 299.72 204.47) (xy 302.26 204.47)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "26b07587-ec17-4b17-8f2d-a19cffc47ca6")
-	)
-	(wire
-		(pts
 			(xy 86.36 262.89) (xy 86.36 261.62)
 		)
 		(stroke
@@ -5172,16 +5196,6 @@
 			(type default)
 		)
 		(uuid "2947fe10-7715-4027-97b4-9f0cffb78ea0")
-	)
-	(wire
-		(pts
-			(xy 317.5 46.99) (xy 317.5 60.96)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "294ce3b4-8709-41fc-a2b3-335decdede93")
 	)
 	(wire
 		(pts
@@ -5215,6 +5229,16 @@
 	)
 	(wire
 		(pts
+			(xy 318.77 167.64) (xy 318.77 173.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2b9edae2-5fa1-4134-83cf-2b67dfe20ffb")
+	)
+	(wire
+		(pts
 			(xy 92.71 248.92) (xy 93.98 248.92)
 		)
 		(stroke
@@ -5235,6 +5259,16 @@
 	)
 	(wire
 		(pts
+			(xy 318.77 204.47) (xy 328.93 204.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2d2bf46f-9040-4059-871d-55b444985e96")
+	)
+	(wire
+		(pts
 			(xy 184.15 160.02) (xy 185.42 160.02)
 		)
 		(stroke
@@ -5242,16 +5276,6 @@
 			(type default)
 		)
 		(uuid "2d4c96ee-42fe-4046-b93c-5b0a6443f8cd")
-	)
-	(wire
-		(pts
-			(xy 302.26 220.98) (xy 299.72 220.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2dca2e05-783f-4c72-b872-f3ee9ab5a9be")
 	)
 	(wire
 		(pts
@@ -5285,16 +5309,6 @@
 	)
 	(wire
 		(pts
-			(xy 269.24 46.99) (xy 269.24 53.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2fd779ee-4cce-4ff7-a3be-d43da14042b8")
-	)
-	(wire
-		(pts
 			(xy 234.95 220.98) (xy 236.22 220.98)
 		)
 		(stroke
@@ -5312,6 +5326,16 @@
 			(type default)
 		)
 		(uuid "3099f01e-f5fe-4765-931e-9baf9e7052aa")
+	)
+	(wire
+		(pts
+			(xy 320.04 72.39) (xy 331.47 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "30e2682b-f19b-4fc7-8860-9c524f28ae91")
 	)
 	(wire
 		(pts
@@ -5352,16 +5376,6 @@
 			(type default)
 		)
 		(uuid "33676142-4007-414e-a165-5edb834db678")
-	)
-	(wire
-		(pts
-			(xy 300.99 213.36) (xy 300.99 199.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "347b63d5-8086-4b50-8a9b-aae864be4832")
 	)
 	(wire
 		(pts
@@ -5475,16 +5489,6 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 80.01) (xy 246.38 81.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3c554685-8a97-4550-8d67-dd59ff8cfb8e")
-	)
-	(wire
-		(pts
 			(xy 184.15 189.23) (xy 185.42 189.23)
 		)
 		(stroke
@@ -5502,6 +5506,26 @@
 			(type default)
 		)
 		(uuid "3d520994-e126-41e9-8d29-3a1ab866ab62")
+	)
+	(wire
+		(pts
+			(xy 293.37 53.34) (xy 309.88 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3d826905-ef6a-41e5-ac6f-34942a5bebd6")
+	)
+	(wire
+		(pts
+			(xy 162.56 81.28) (xy 175.26 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3d915fe8-0318-4eb4-abab-c522350c264a")
 	)
 	(wire
 		(pts
@@ -5575,16 +5599,6 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 80.01) (xy 175.26 81.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "40225483-12d5-4c3a-9d7c-bf1d66bb3992")
-	)
-	(wire
-		(pts
 			(xy 144.78 116.84) (xy 144.78 129.54)
 		)
 		(stroke
@@ -5645,6 +5659,16 @@
 	)
 	(wire
 		(pts
+			(xy 246.38 73.66) (xy 246.38 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4402e7bb-1913-422b-8679-608af0416354")
+	)
+	(wire
+		(pts
 			(xy 247.65 129.54) (xy 247.65 160.02)
 		)
 		(stroke
@@ -5652,6 +5676,16 @@
 			(type default)
 		)
 		(uuid "4438c2ca-2857-44a6-8fe8-adb4431641bd")
+	)
+	(wire
+		(pts
+			(xy 306.07 63.5) (xy 302.26 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "446ce6dd-3072-4d74-9ae8-899d4f705551")
 	)
 	(wire
 		(pts
@@ -5685,17 +5719,7 @@
 	)
 	(wire
 		(pts
-			(xy 290.83 46.99) (xy 317.5 46.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "46e335e2-36e0-4f25-9f85-81a89a783ef5")
-	)
-	(wire
-		(pts
-			(xy 283.21 66.04) (xy 285.75 66.04)
+			(xy 266.7 55.88) (xy 267.97 55.88)
 		)
 		(stroke
 			(width 0)
@@ -5725,6 +5749,16 @@
 	)
 	(wire
 		(pts
+			(xy 304.8 43.18) (xy 304.8 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "498832d1-89fe-42d7-94d7-5581ba1fb5d9")
+	)
+	(wire
+		(pts
 			(xy 97.79 57.15) (xy 105.41 57.15)
 		)
 		(stroke
@@ -5732,6 +5766,16 @@
 			(type default)
 		)
 		(uuid "49bfab7e-b8b6-4743-9a7b-d4ec11d6e646")
+	)
+	(wire
+		(pts
+			(xy 308.61 60.96) (xy 309.88 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4a66a587-b55a-4baf-a674-2b7275c8323d")
 	)
 	(wire
 		(pts
@@ -5762,6 +5806,16 @@
 			(type default)
 		)
 		(uuid "4bcd6933-b257-46e5-af3c-bbb54f45b0fa")
+	)
+	(wire
+		(pts
+			(xy 307.34 160.02) (xy 307.34 157.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4bd053e1-a3b1-420c-af89-d258b3df4633")
 	)
 	(wire
 		(pts
@@ -5805,7 +5859,7 @@
 	)
 	(wire
 		(pts
-			(xy 283.21 60.96) (xy 299.72 60.96)
+			(xy 266.7 53.34) (xy 275.59 53.34)
 		)
 		(stroke
 			(width 0)
@@ -5945,16 +5999,6 @@
 	)
 	(wire
 		(pts
-			(xy 313.69 53.34) (xy 313.69 66.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5ab34b66-d4d7-480c-949a-a16211138355")
-	)
-	(wire
-		(pts
 			(xy 132.08 129.54) (xy 133.35 129.54)
 		)
 		(stroke
@@ -5982,6 +6026,16 @@
 			(type default)
 		)
 		(uuid "5dbe0452-8664-426d-af77-43072fc359d7")
+	)
+	(wire
+		(pts
+			(xy 307.34 167.64) (xy 307.34 168.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5f2725d4-9205-4b02-874d-f1057c39bc6a")
 	)
 	(wire
 		(pts
@@ -6115,7 +6169,7 @@
 	)
 	(wire
 		(pts
-			(xy 293.37 66.04) (xy 313.69 66.04)
+			(xy 275.59 55.88) (xy 304.8 55.88)
 		)
 		(stroke
 			(width 0)
@@ -6185,6 +6239,26 @@
 	)
 	(wire
 		(pts
+			(xy 318.77 157.48) (xy 318.77 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6932af92-676a-4b1a-ae77-31e75fe94a7e")
+	)
+	(wire
+		(pts
+			(xy 175.26 81.28) (xy 175.26 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6b8002ff-def0-48d4-91f7-1f8045aab478")
+	)
+	(wire
+		(pts
 			(xy 203.2 233.68) (xy 215.9 233.68)
 		)
 		(stroke
@@ -6192,16 +6266,6 @@
 			(type default)
 		)
 		(uuid "6bcf3579-2969-4de6-a20d-ddcc25a418ca")
-	)
-	(wire
-		(pts
-			(xy 269.24 72.39) (xy 283.21 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6d077f0b-c0c5-48cc-8be8-742c4ea415fc")
 	)
 	(wire
 		(pts
@@ -6215,13 +6279,13 @@
 	)
 	(wire
 		(pts
-			(xy 299.72 189.23) (xy 299.72 173.99)
+			(xy 293.37 53.34) (xy 293.37 52.07)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "6e2585c7-2d74-47ca-836c-47c73f8a4fcd")
+		(uuid "6e1c33b8-1f93-467a-9728-a86199d313ac")
 	)
 	(wire
 		(pts
@@ -6275,6 +6339,16 @@
 	)
 	(wire
 		(pts
+			(xy 304.8 41.91) (xy 304.8 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "73471a4a-e4c1-4c49-ae4a-8fac89d6ec3a")
+	)
+	(wire
+		(pts
 			(xy 228.6 142.24) (xy 228.6 143.51)
 		)
 		(stroke
@@ -6325,6 +6399,16 @@
 	)
 	(wire
 		(pts
+			(xy 246.38 81.28) (xy 246.38 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7495c26f-4cc5-4b1d-834f-5827a26fb672")
+	)
+	(wire
+		(pts
 			(xy 163.83 143.51) (xy 177.8 143.51)
 		)
 		(stroke
@@ -6335,6 +6419,16 @@
 	)
 	(wire
 		(pts
+			(xy 304.8 52.07) (xy 304.8 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "757255ed-5bb9-4ec7-acac-5052705ef71a")
+	)
+	(wire
+		(pts
 			(xy 49.53 54.61) (xy 58.42 54.61)
 		)
 		(stroke
@@ -6342,16 +6436,6 @@
 			(type default)
 		)
 		(uuid "7610ce45-6e44-4555-9b11-b7a761eea1ae")
-	)
-	(wire
-		(pts
-			(xy 313.69 69.85) (xy 317.5 69.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7721064f-6b6a-427b-a9b0-e57f47a259c1")
 	)
 	(wire
 		(pts
@@ -6385,7 +6469,7 @@
 	)
 	(wire
 		(pts
-			(xy 300.99 199.39) (xy 294.64 199.39)
+			(xy 294.64 199.39) (xy 307.34 199.39)
 		)
 		(stroke
 			(width 0)
@@ -6402,16 +6486,6 @@
 			(type default)
 		)
 		(uuid "79369c42-0139-491b-83a9-13d656b7b581")
-	)
-	(wire
-		(pts
-			(xy 302.26 181.61) (xy 300.99 181.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "79623b20-46c4-41d9-aac2-03f90d491465")
 	)
 	(wire
 		(pts
@@ -6475,6 +6549,16 @@
 	)
 	(wire
 		(pts
+			(xy 320.04 80.01) (xy 320.04 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "81db977a-fb82-4c1e-8269-dd2f1319d61f")
+	)
+	(wire
+		(pts
 			(xy 165.1 52.07) (xy 162.56 52.07)
 		)
 		(stroke
@@ -6502,6 +6586,16 @@
 			(type default)
 		)
 		(uuid "8428dad8-d23e-4b5c-ab77-18bffc298e2f")
+	)
+	(wire
+		(pts
+			(xy 318.77 173.99) (xy 328.93 173.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8433661a-74a2-4206-aebc-72a2102ca938")
 	)
 	(wire
 		(pts
@@ -6585,23 +6679,13 @@
 	)
 	(wire
 		(pts
-			(xy 300.99 168.91) (xy 302.26 168.91)
+			(xy 294.64 168.91) (xy 307.34 168.91)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "88b69368-e456-4b27-bea0-843e0eb258fd")
-	)
-	(wire
-		(pts
-			(xy 300.99 199.39) (xy 302.26 199.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "88bd7c9c-b415-454c-a878-d4d64e1c30ad")
 	)
 	(wire
 		(pts
@@ -6655,6 +6739,16 @@
 	)
 	(wire
 		(pts
+			(xy 307.34 168.91) (xy 328.93 168.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8b22cfa7-6ffc-4da8-a6d1-dca7df1ff2c2")
+	)
+	(wire
+		(pts
 			(xy 92.71 189.23) (xy 93.98 189.23)
 		)
 		(stroke
@@ -6675,16 +6769,6 @@
 	)
 	(wire
 		(pts
-			(xy 269.24 44.45) (xy 269.24 46.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8d87344b-b477-4c39-96ee-59bd161b3d90")
-	)
-	(wire
-		(pts
 			(xy 113.03 143.51) (xy 125.73 143.51)
 		)
 		(stroke
@@ -6695,7 +6779,17 @@
 	)
 	(wire
 		(pts
-			(xy 294.64 173.99) (xy 299.72 173.99)
+			(xy 233.68 81.28) (xy 233.68 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8ee177cf-4384-4cf6-93d2-c9a97b6a8948")
+	)
+	(wire
+		(pts
+			(xy 294.64 173.99) (xy 318.77 173.99)
 		)
 		(stroke
 			(width 0)
@@ -6725,17 +6819,7 @@
 	)
 	(wire
 		(pts
-			(xy 316.23 213.36) (xy 316.23 212.09)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "90b396a2-c632-4796-9d29-6533f155ecea")
-	)
-	(wire
-		(pts
-			(xy 317.5 78.74) (xy 317.5 74.93)
+			(xy 308.61 62.23) (xy 308.61 60.96)
 		)
 		(stroke
 			(width 0)
@@ -6775,6 +6859,16 @@
 	)
 	(wire
 		(pts
+			(xy 246.38 81.28) (xy 246.38 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "94939227-f489-40fe-97d4-b2ef7b1d7fec")
+	)
+	(wire
+		(pts
 			(xy 222.25 160.02) (xy 223.52 160.02)
 		)
 		(stroke
@@ -6782,6 +6876,16 @@
 			(type default)
 		)
 		(uuid "9606feb4-c55a-4854-9481-339829ee9612")
+	)
+	(wire
+		(pts
+			(xy 294.64 204.47) (xy 318.77 204.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "96600e1a-4761-4211-b9b4-24362bda5f08")
 	)
 	(wire
 		(pts
@@ -6815,13 +6919,13 @@
 	)
 	(wire
 		(pts
-			(xy 317.5 60.96) (xy 317.5 67.31)
+			(xy 307.34 190.5) (xy 307.34 187.96)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "999a8236-3c26-435d-9a30-1c492aab905a")
+		(uuid "99bffcf6-e700-4b67-b71a-f2f517ae3ad3")
 	)
 	(wire
 		(pts
@@ -6835,16 +6939,6 @@
 	)
 	(wire
 		(pts
-			(xy 311.15 181.61) (xy 316.23 181.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9a02bca6-014d-4a1c-9e59-2ad1ae98537b")
-	)
-	(wire
-		(pts
 			(xy 137.16 76.2) (xy 137.16 74.93)
 		)
 		(stroke
@@ -6852,16 +6946,6 @@
 			(type default)
 		)
 		(uuid "9a512c9d-f7c3-4078-9cdb-38df51adb98e")
-	)
-	(wire
-		(pts
-			(xy 311.15 220.98) (xy 311.15 213.36)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9b7aa459-7d22-4650-b157-44f06e37cbc1")
 	)
 	(wire
 		(pts
@@ -6932,16 +7016,6 @@
 			(type default)
 		)
 		(uuid "9ef27d35-de90-45af-a2ee-95ea5e003934")
-	)
-	(wire
-		(pts
-			(xy 311.15 213.36) (xy 316.23 213.36)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9f39cccc-a8d2-4827-9b34-cee9be6ce066")
 	)
 	(wire
 		(pts
@@ -7035,7 +7109,7 @@
 	)
 	(wire
 		(pts
-			(xy 307.34 60.96) (xy 317.5 60.96)
+			(xy 283.21 53.34) (xy 293.37 53.34)
 		)
 		(stroke
 			(width 0)
@@ -7082,16 +7156,6 @@
 			(type default)
 		)
 		(uuid "a82ba9fc-bf43-4090-a69a-a38c034d953f")
-	)
-	(wire
-		(pts
-			(xy 311.15 189.23) (xy 311.15 181.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a8a27fe4-f0a9-4065-8001-3b439be1a019")
 	)
 	(wire
 		(pts
@@ -7155,6 +7219,16 @@
 	)
 	(wire
 		(pts
+			(xy 233.68 72.39) (xy 233.68 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aa7ea46c-7208-416f-b0f7-72683ce59dc5")
+	)
+	(wire
+		(pts
 			(xy 247.65 248.92) (xy 248.92 248.92)
 		)
 		(stroke
@@ -7185,6 +7259,16 @@
 	)
 	(wire
 		(pts
+			(xy 318.77 154.94) (xy 318.77 157.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ad25290e-6225-4579-9cd5-2eb48b7e385a")
+	)
+	(wire
+		(pts
 			(xy 151.13 261.62) (xy 151.13 262.89)
 		)
 		(stroke
@@ -7192,6 +7276,16 @@
 			(type default)
 		)
 		(uuid "ad9026b1-a6b1-4236-832d-4503fb399bfc")
+	)
+	(wire
+		(pts
+			(xy 233.68 73.66) (xy 246.38 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ae02da66-1aca-44f4-a11b-1e65a33025c5")
 	)
 	(wire
 		(pts
@@ -7245,6 +7339,16 @@
 	)
 	(wire
 		(pts
+			(xy 331.47 80.01) (xy 331.47 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b19e39b0-3818-4b7f-bd4a-edd68a61db85")
+	)
+	(wire
+		(pts
 			(xy 234.95 129.54) (xy 236.22 129.54)
 		)
 		(stroke
@@ -7295,26 +7399,6 @@
 	)
 	(wire
 		(pts
-			(xy 299.72 173.99) (xy 302.26 173.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b36a35e4-f775-4636-aa7c-bd1ab191134c")
-	)
-	(wire
-		(pts
-			(xy 236.22 74.93) (xy 246.38 74.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b3d2b875-f1f9-43e6-8c86-fcdcdd7da4a8")
-	)
-	(wire
-		(pts
 			(xy 241.3 261.62) (xy 241.3 262.89)
 		)
 		(stroke
@@ -7355,26 +7439,6 @@
 	)
 	(wire
 		(pts
-			(xy 309.88 213.36) (xy 311.15 213.36)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b5cac841-9a1e-4361-b0f2-ceae761b05e6")
-	)
-	(wire
-		(pts
-			(xy 313.69 66.04) (xy 313.69 69.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b62bc79b-9dec-43dd-a9c0-20294572e726")
-	)
-	(wire
-		(pts
 			(xy 234.95 116.84) (xy 234.95 129.54)
 		)
 		(stroke
@@ -7382,6 +7446,16 @@
 			(type default)
 		)
 		(uuid "b7fcc453-0480-4daf-9e16-a6eb28b26e5b")
+	)
+	(wire
+		(pts
+			(xy 331.47 78.74) (xy 331.47 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b81f46aa-6dc4-48ab-977d-b0a450b0aa21")
 	)
 	(wire
 		(pts
@@ -7405,23 +7479,13 @@
 	)
 	(wire
 		(pts
-			(xy 302.26 189.23) (xy 299.72 189.23)
+			(xy 175.26 81.28) (xy 175.26 80.01)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "b8f78494-274c-4f99-a346-62754ff2aa22")
-	)
-	(wire
-		(pts
-			(xy 269.24 46.99) (xy 283.21 46.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b9dd90fd-ac53-4432-80c3-b70f195572e1")
+		(uuid "ba60e8dc-fb10-4636-b843-0a2010f51ed3")
 	)
 	(wire
 		(pts
@@ -7452,16 +7516,6 @@
 			(type default)
 		)
 		(uuid "bb16642a-9c66-4727-99c6-32ee80fa47be")
-	)
-	(wire
-		(pts
-			(xy 309.88 189.23) (xy 311.15 189.23)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bd2aa223-0511-45a5-b77f-41fd16c49e80")
 	)
 	(wire
 		(pts
@@ -7585,6 +7639,16 @@
 	)
 	(wire
 		(pts
+			(xy 318.77 198.12) (xy 318.77 204.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c3d1ce93-95bc-40f3-bacd-ac0081f10296")
+	)
+	(wire
+		(pts
 			(xy 80.01 220.98) (xy 80.01 248.92)
 		)
 		(stroke
@@ -7635,6 +7699,16 @@
 	)
 	(wire
 		(pts
+			(xy 309.88 58.42) (xy 306.07 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c51f3e24-5a11-458c-bff7-6d0b534d9b46")
+	)
+	(wire
+		(pts
 			(xy 184.15 220.98) (xy 185.42 220.98)
 		)
 		(stroke
@@ -7665,16 +7739,6 @@
 	)
 	(wire
 		(pts
-			(xy 309.88 181.61) (xy 311.15 181.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c7642505-0546-471b-a9bc-0a3b7c86a1b8")
-	)
-	(wire
-		(pts
 			(xy 184.15 248.92) (xy 185.42 248.92)
 		)
 		(stroke
@@ -7692,16 +7756,6 @@
 			(type default)
 		)
 		(uuid "c95a44e9-4919-44ae-b2b8-80d67b45798b")
-	)
-	(wire
-		(pts
-			(xy 165.1 80.01) (xy 175.26 80.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c95e4fee-b347-45b4-8c3d-7faaed6ac2e9")
 	)
 	(wire
 		(pts
@@ -7725,13 +7779,23 @@
 	)
 	(wire
 		(pts
-			(xy 236.22 80.01) (xy 246.38 80.01)
+			(xy 233.68 81.28) (xy 246.38 81.28)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "cc359202-5e72-47ec-ab41-0086f5dc8e7d")
+	)
+	(wire
+		(pts
+			(xy 318.77 185.42) (xy 318.77 187.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cc5feaec-5e79-465f-9d16-2fc3e1c5d8bc")
 	)
 	(wire
 		(pts
@@ -7742,6 +7806,16 @@
 			(type default)
 		)
 		(uuid "cc6512ed-ca9b-4cc3-a547-25a5f38e18b8")
+	)
+	(wire
+		(pts
+			(xy 307.34 198.12) (xy 307.34 199.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ccb1d319-39bf-4472-8576-c536c7bbb79c")
 	)
 	(wire
 		(pts
@@ -7795,16 +7869,6 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 74.93) (xy 175.26 74.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cf04ccba-23ac-4f22-be6d-8ad1f2106cf5")
-	)
-	(wire
-		(pts
 			(xy 203.2 142.24) (xy 203.2 143.51)
 		)
 		(stroke
@@ -7842,16 +7906,6 @@
 			(type default)
 		)
 		(uuid "d2a2b1bb-e7e8-4fbe-a5eb-2ef21ae1df8a")
-	)
-	(wire
-		(pts
-			(xy 294.64 72.39) (xy 294.64 73.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d2b10eeb-1087-4890-90f8-3fabaa6dbde5")
 	)
 	(wire
 		(pts
@@ -7955,16 +8009,6 @@
 	)
 	(wire
 		(pts
-			(xy 302.26 213.36) (xy 300.99 213.36)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d836980a-d454-4165-94b6-22672596c824")
-	)
-	(wire
-		(pts
 			(xy 118.11 40.64) (xy 118.11 54.61)
 		)
 		(stroke
@@ -8035,13 +8079,33 @@
 	)
 	(wire
 		(pts
-			(xy 299.72 204.47) (xy 294.64 204.47)
+			(xy 307.34 187.96) (xy 318.77 187.96)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "df447939-ded5-4232-9812-5b16ca1f8afd")
+		(uuid "de90f799-f4a5-40a4-87bf-4d8a3028946b")
+	)
+	(wire
+		(pts
+			(xy 331.47 72.39) (xy 331.47 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dfe88ffd-db7c-4987-9c5b-91a9d0af791f")
+	)
+	(wire
+		(pts
+			(xy 320.04 72.39) (xy 320.04 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dffcf6f5-7982-4ac8-89d2-e1ea26d93e01")
 	)
 	(wire
 		(pts
@@ -8052,16 +8116,6 @@
 			(type default)
 		)
 		(uuid "e115e18a-cacb-4c06-9e1f-fe77c4addd01")
-	)
-	(wire
-		(pts
-			(xy 283.21 73.66) (xy 283.21 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e172b394-4287-4171-9309-a43e9f4d3313")
 	)
 	(wire
 		(pts
@@ -8095,16 +8149,6 @@
 	)
 	(wire
 		(pts
-			(xy 294.64 168.91) (xy 300.99 168.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e31e8b35-cd3f-4e67-ba53-21fd9b15f841")
-	)
-	(wire
-		(pts
 			(xy 228.6 143.51) (xy 241.3 143.51)
 		)
 		(stroke
@@ -8112,6 +8156,16 @@
 			(type default)
 		)
 		(uuid "e363a035-cab3-46b9-9edd-6a1edbe4a53e")
+	)
+	(wire
+		(pts
+			(xy 307.34 157.48) (xy 318.77 157.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e3fbfa52-84c2-43a9-8f3e-03467f6bd280")
 	)
 	(wire
 		(pts
@@ -8145,16 +8199,6 @@
 	)
 	(wire
 		(pts
-			(xy 269.24 53.34) (xy 269.24 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e59fa9a2-d0f7-47c9-9498-9311880a3f0f")
-	)
-	(wire
-		(pts
 			(xy 99.06 262.89) (xy 113.03 262.89)
 		)
 		(stroke
@@ -8182,16 +8226,6 @@
 			(type default)
 		)
 		(uuid "e8df1a41-f2f2-4ec3-8d98-705c1baa9886")
-	)
-	(wire
-		(pts
-			(xy 309.88 220.98) (xy 311.15 220.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e8e67bfa-b863-4f07-ab3d-2c20200e9f76")
 	)
 	(wire
 		(pts
@@ -8245,6 +8279,16 @@
 	)
 	(wire
 		(pts
+			(xy 318.77 187.96) (xy 318.77 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ed35dfa3-8e20-4c49-9e88-184ea25ac84a")
+	)
+	(wire
+		(pts
 			(xy 154.94 46.99) (xy 147.32 46.99)
 		)
 		(stroke
@@ -8272,6 +8316,16 @@
 			(type default)
 		)
 		(uuid "ef903090-1b8c-487e-a72c-cf0997de46a0")
+	)
+	(wire
+		(pts
+			(xy 162.56 73.66) (xy 175.26 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ef98de47-03e9-4073-8e64-128a24c6b857")
 	)
 	(wire
 		(pts
@@ -8325,6 +8379,16 @@
 	)
 	(wire
 		(pts
+			(xy 306.07 58.42) (xy 306.07 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f031eedf-745f-448a-98ae-0bef99fa2038")
+	)
+	(wire
+		(pts
 			(xy 196.85 160.02) (xy 198.12 160.02)
 		)
 		(stroke
@@ -8352,6 +8416,16 @@
 			(type default)
 		)
 		(uuid "f192e3be-3531-47be-9aef-6073113b4a32")
+	)
+	(wire
+		(pts
+			(xy 162.56 72.39) (xy 162.56 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f1aec7e2-087e-4315-ad56-9af223e22c88")
 	)
 	(wire
 		(pts
@@ -8395,16 +8469,6 @@
 	)
 	(wire
 		(pts
-			(xy 283.21 72.39) (xy 294.64 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f3d05abf-cfe0-4b5f-9689-9db9ab827d7e")
-	)
-	(wire
-		(pts
 			(xy 113.03 173.99) (xy 125.73 173.99)
 		)
 		(stroke
@@ -8422,6 +8486,16 @@
 			(type default)
 		)
 		(uuid "f4c9facc-2304-4c44-b806-e836a719ce75")
+	)
+	(wire
+		(pts
+			(xy 320.04 80.01) (xy 331.47 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f50f4d26-b424-4e9b-9555-970872e4e71c")
 	)
 	(wire
 		(pts
@@ -9218,7 +9292,7 @@
 	)
 	(global_label "ENC1_A"
 		(shape output)
-		(at 302.26 173.99 0)
+		(at 328.93 173.99 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9228,7 +9302,7 @@
 		)
 		(uuid "2b05eec8-ae33-4f88-98cd-84c8c5abf209")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 312.2604 173.99 0)
+			(at 338.9304 173.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9458,7 +9532,7 @@
 	)
 	(global_label "ENC2_A"
 		(shape output)
-		(at 302.26 204.47 0)
+		(at 328.93 204.47 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9468,7 +9542,7 @@
 		)
 		(uuid "4ab2a539-ffc9-4f94-b2d4-6657621277f1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 312.2604 204.47 0)
+			(at 338.9304 204.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9818,7 +9892,7 @@
 	)
 	(global_label "ENC2_B"
 		(shape output)
-		(at 302.26 199.39 0)
+		(at 328.93 199.39 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9828,7 +9902,7 @@
 		)
 		(uuid "93433dbf-794c-4182-b3ef-3cdea557718b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 312.4418 199.39 0)
+			(at 339.1118 199.39 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9866,7 +9940,7 @@
 	)
 	(global_label "ENC1_B"
 		(shape output)
-		(at 302.26 168.91 0)
+		(at 328.93 168.91 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9876,7 +9950,7 @@
 		)
 		(uuid "a3131542-752e-45fe-af24-84c9113deb8c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 312.4418 168.91 0)
+			(at 339.1118 168.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9890,7 +9964,7 @@
 	)
 	(global_label "SCL"
 		(shape bidirectional)
-		(at 283.21 66.04 180)
+		(at 266.7 55.88 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9900,7 +9974,7 @@
 		)
 		(uuid "a68db021-b29b-47de-b6a9-87a8bd25ef26")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 275.6059 66.04 0)
+			(at 259.0959 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10178,7 +10252,7 @@
 	)
 	(global_label "SDA"
 		(shape bidirectional)
-		(at 283.21 60.96 180)
+		(at 266.7 53.34 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -10188,7 +10262,7 @@
 		)
 		(uuid "d2080a43-b64b-42d7-af50-5b24895db00a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 275.5454 60.96 0)
+			(at 259.0354 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10475,7 +10549,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "009ef575-d83f-4fdc-8d18-f0693f17e16d")
-		(property "Reference" "D37"
+		(property "Reference" "D33"
 			(at 161.29 200.66 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10559,7 +10633,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "D37")
+					(reference "D33")
 					(unit 1)
 				)
 			)
@@ -10576,7 +10650,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00d66805-2ae7-4dde-89a9-7faa08b1df52")
-		(property "Reference" "D50"
+		(property "Reference" "D24"
 			(at 135.89 232.41 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10660,7 +10734,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "D50")
+					(reference "D24")
 					(unit 1)
 				)
 			)
@@ -10677,7 +10751,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0381ef2c-f574-4feb-a295-0ac6ff04af73")
-		(property "Reference" "D19"
+		(property "Reference" "D17"
 			(at 123.19 171.45 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10761,7 +10835,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "D19")
+					(reference "D17")
 					(unit 1)
 				)
 			)
@@ -10778,7 +10852,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0431424a-6a7c-4098-9b3f-89cebedee53d")
-		(property "Reference" "D7"
+		(property "Reference" "D31"
 			(at 162.56 140.97 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10862,7 +10936,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "D7")
+					(reference "D31")
 					(unit 1)
 				)
 			)
@@ -10879,7 +10953,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0547d8db-de00-437d-9dcb-eef580414e27")
-		(property "Reference" "S_D5"
+		(property "Reference" "S_D6"
 			(at 162.56 53.34 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10963,7 +11037,169 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "S_D5")
+					(reference "S_D6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 162.56 77.47 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "070495c4-24d9-461e-a1f1-a25e264b110c")
+		(property "Reference" "C1"
+			(at 165.1 76.2 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10uf"
+			(at 165.1 78.74 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 162.56 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 162.56 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 162.56 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "40f1a084-a936-44da-80e4-093fab34735b")
+		)
+		(pin "2"
+			(uuid "8b03c7fc-4bdd-4ec0-8c3e-6c1e989d2102")
+		)
+		(instances
+			(project "Caon-Handwired-Prototype"
+				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
+					(reference "C1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 331.47 76.2 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "07658d6d-eeba-4798-9a12-6ece16c33c09")
+		(property "Reference" "C6"
+			(at 334.01 74.93 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0.1uf"
+			(at 334.01 77.47 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 331.47 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 331.47 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 331.47 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "b9281744-3dc2-4a7c-ab84-7f2a870dedca")
+		)
+		(pin "2"
+			(uuid "790163cb-1b67-4b1b-a66a-6720d8658c3e")
+		)
+		(instances
+			(project "Caon-Handwired-Prototype"
+				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
+					(reference "C6")
 					(unit 1)
 				)
 			)
@@ -10980,7 +11216,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "08070e9f-8aba-481a-8025-9a0ee5e7034a")
-		(property "Reference" "D53"
+		(property "Reference" "D39"
 			(at 175.26 232.41 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11064,7 +11300,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "D53")
+					(reference "D39")
 					(unit 1)
 				)
 			)
@@ -11081,7 +11317,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "081328db-76d9-4d57-86f7-36ecc0a5df57")
-		(property "Reference" "S_D7"
+		(property "Reference" "S_D2"
 			(at 154.94 55.88 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11165,7 +11401,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "S_D7")
+					(reference "S_D2")
 					(unit 1)
 				)
 			)
@@ -11182,7 +11418,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0c8c901d-e447-487f-9f73-3d8a7966be94")
-		(property "Reference" "SW12"
+		(property "Reference" "SW56"
 			(at 226.06 128.27 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11244,7 +11480,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "SW12")
+					(reference "SW56")
 					(unit 1)
 				)
 			)
@@ -11252,7 +11488,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 306.07 213.36 90)
+		(at 293.37 48.26 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -11260,9 +11496,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "0c968cdd-24b0-451c-8acb-ca06477b254a")
-		(property "Reference" "ENC_R3"
-			(at 306.07 208.28 90)
+		(uuid "0e55773f-4ea1-42be-ba3e-926ccb32965f")
+		(property "Reference" "R3"
+			(at 289.814 49.53 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11271,8 +11507,8 @@
 				)
 			)
 		)
-		(property "Value" "10k"
-			(at 306.07 210.82 90)
+		(property "Value" "4.7k"
+			(at 289.814 46.99 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11282,7 +11518,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical"
-			(at 306.07 215.138 90)
+			(at 295.148 48.26 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11293,7 +11529,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 306.07 213.36 0)
+			(at 293.37 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11304,7 +11540,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 306.07 213.36 0)
+			(at 293.37 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11315,15 +11551,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "6d0093f5-92a8-4011-a990-e9a0e8be3247")
+			(uuid "0df0bb28-e47b-4815-b5aa-c323de8a513c")
 		)
 		(pin "2"
-			(uuid "8fc78ca6-13e4-4e3a-96e2-b7bfaf86c985")
+			(uuid "04990f67-6654-4a84-b673-7bf2455f5721")
 		)
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "ENC_R3")
+					(reference "R3")
 					(unit 1)
 				)
 			)
@@ -11340,7 +11576,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0f9bd6e2-f4c4-4ff0-bde3-556de64cfb0a")
-		(property "Reference" "SW63"
+		(property "Reference" "SW20"
 			(at 123.19 247.65 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11402,7 +11638,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "SW63")
+					(reference "SW20")
 					(unit 1)
 				)
 			)
@@ -11419,7 +11655,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0fe725e0-055c-4815-84f4-6f6d86dff281")
-		(property "Reference" "SW20"
+		(property "Reference" "SW22"
 			(at 135.89 158.75 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11481,7 +11717,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "SW20")
+					(reference "SW22")
 					(unit 1)
 				)
 			)
@@ -11498,7 +11734,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "107801e2-2f74-4fdb-8bb7-43ee04fcf95c")
-		(property "Reference" "D73"
+		(property "Reference" "D70"
 			(at 251.46 260.35 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11582,7 +11818,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "D73")
+					(reference "D70")
 					(unit 1)
 				)
 			)
@@ -11599,7 +11835,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "14ba6ac8-eae2-486f-bf4f-105c7e2ea35a")
-		(property "Reference" "D57"
+		(property "Reference" "D59"
 			(at 226.06 232.41 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11683,167 +11919,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "D57")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 306.07 220.98 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "16103fff-86ce-41f8-96ef-a5876d4cd37e")
-		(property "Reference" "ENC_R4"
-			(at 306.07 215.9 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "10k"
-			(at 306.07 218.44 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical"
-			(at 306.07 222.758 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 306.07 220.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 306.07 220.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "2be5f1c6-1fff-4d50-9342-bd6e2d8b28d6")
-		)
-		(pin "2"
-			(uuid "6d20a188-d11e-471a-92d5-3a37cdaa70d5")
-		)
-		(instances
-			(project "Caon-Handwired-Prototype"
-				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "ENC_R4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 165.1 77.47 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "16f4173a-f874-45b4-b6ed-2fe69d4cdc52")
-		(property "Reference" "C3"
-			(at 167.64 76.2 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "10uf"
-			(at 167.64 78.74 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 165.1 77.47 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 165.1 77.47 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 165.1 77.47 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "4ca582ba-ec0b-4b83-8aa6-431b9fdd5a7f")
-		)
-		(pin "2"
-			(uuid "d668fd0a-aab4-429e-a386-33137e7b4a04")
-		)
-		(instances
-			(project "Caon-Handwired-Prototype"
-				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "C3")
+					(reference "D59")
 					(unit 1)
 				)
 			)
@@ -11860,7 +11936,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "196ddb42-be42-4406-beaa-7d9fbb83b547")
-		(property "Reference" "D16"
+		(property "Reference" "D2"
 			(at 83.82 171.45 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11944,88 +12020,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "D16")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 294.64 76.2 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "19bdd60d-ba97-4e44-a1bd-18ee7df9c335")
-		(property "Reference" "C2"
-			(at 297.18 74.93 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "0.1uf"
-			(at 297.18 77.47 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 294.64 76.2 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 294.64 76.2 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 294.64 76.2 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "1acd7b59-7e8b-42d9-8f39-4dbb1e5195e3")
-		)
-		(pin "2"
-			(uuid "67a8cd5d-d002-4619-b713-7e9dbdcc9ad0")
-		)
-		(instances
-			(project "Caon-Handwired-Prototype"
-				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "C2")
+					(reference "D2")
 					(unit 1)
 				)
 			)
@@ -12043,7 +12038,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1a147f9b-c242-42b1-8bfa-9e534156705d")
-		(property "Reference" "U3"
+		(property "Reference" "U1"
 			(at 78.74 39.37 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12186,7 +12181,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "U3")
+					(reference "U1")
 					(unit 1)
 				)
 			)
@@ -12203,7 +12198,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1a840bc0-6e47-43cf-a9a3-5cacb3781eda")
-		(property "Reference" "SW50"
+		(property "Reference" "SW24"
 			(at 135.89 219.71 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12265,7 +12260,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "SW50")
+					(reference "SW24")
 					(unit 1)
 				)
 			)
@@ -12282,7 +12277,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1a9482ff-e480-4084-8be8-ee2c03c03508")
-		(property "Reference" "SW42"
+		(property "Reference" "SW58"
 			(at 226.06 187.96 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12344,7 +12339,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "SW42")
+					(reference "SW58")
 					(unit 1)
 				)
 			)
@@ -12361,7 +12356,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1bd6ef6f-79a3-4f77-bf03-a42043e0da9f")
-		(property "Reference" "S_D6"
+		(property "Reference" "S_D10"
 			(at 224.79 53.34 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12445,7 +12440,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "S_D6")
+					(reference "S_D10")
 					(unit 1)
 				)
 			)
@@ -12462,7 +12457,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1c1e3a73-156b-4c98-b3f9-e494dda2b53a")
-		(property "Reference" "D4"
+		(property "Reference" "D16"
 			(at 124.46 140.97 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12546,7 +12541,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "D4")
+					(reference "D16")
 					(unit 1)
 				)
 			)
@@ -12554,7 +12549,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 236.22 77.47 0)
+		(at 233.68 77.47 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -12563,8 +12558,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1ca61eb7-37a4-40fe-9af2-af337633ff63")
-		(property "Reference" "C5"
-			(at 238.76 76.2 0)
+		(property "Reference" "C3"
+			(at 236.22 76.2 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12575,7 +12570,7 @@
 			)
 		)
 		(property "Value" "10uf"
-			(at 238.76 78.74 0)
+			(at 236.22 78.74 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12586,7 +12581,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 236.22 77.47 0)
+			(at 233.68 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12597,7 +12592,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 236.22 77.47 0)
+			(at 233.68 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12608,7 +12603,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 236.22 77.47 0)
+			(at 233.68 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12627,7 +12622,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "C5")
+					(reference "C3")
 					(unit 1)
 				)
 			)
@@ -12644,7 +12639,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1d53437d-8dcb-482e-a19f-ad140133ddd6")
-		(property "Reference" "SW9"
+		(property "Reference" "SW41"
 			(at 187.96 128.27 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12706,7 +12701,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "SW9")
+					(reference "SW41")
 					(unit 1)
 				)
 			)
@@ -12723,7 +12718,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1e18e99a-e696-4506-b965-181cce6520a0")
-		(property "Reference" "SW56"
+		(property "Reference" "SW54"
 			(at 213.36 219.71 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12785,7 +12780,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "SW56")
+					(reference "SW54")
 					(unit 1)
 				)
 			)
@@ -12802,7 +12797,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "21d361b3-f4ec-43b9-ab30-169eced4de03")
-		(property "Reference" "D28"
+		(property "Reference" "D62"
 			(at 238.76 171.45 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12886,7 +12881,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "D28")
+					(reference "D62")
 					(unit 1)
 				)
 			)
@@ -12903,7 +12898,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "24b604a5-036a-4bb5-bd9b-8d860df32a35")
-		(property "Reference" "SW5"
+		(property "Reference" "SW21"
 			(at 135.89 128.27 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12965,7 +12960,86 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "SW5")
+					(reference "SW21")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 318.77 163.83 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "255bea6a-c2c9-467e-81c9-0679a8174692")
+		(property "Reference" "R7"
+			(at 315.214 165.1 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10k"
+			(at 315.214 162.56 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical"
+			(at 320.548 163.83 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 318.77 163.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 318.77 163.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "191884ff-89a8-4119-bb33-acabe387e51c")
+		)
+		(pin "2"
+			(uuid "44070d8b-e6b3-4568-b9eb-b42d6afdd5d6")
+		)
+		(instances
+			(project "Caon-Handwired-Prototype"
+				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
+					(reference "R7")
 					(unit 1)
 				)
 			)
@@ -12982,7 +13056,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "26e3864f-1dd9-4c37-8ac9-82abc1f96a46")
-		(property "Reference" "SW28"
+		(property "Reference" "SW62"
 			(at 238.76 158.75 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13044,7 +13118,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "SW28")
+					(reference "SW62")
 					(unit 1)
 				)
 			)
@@ -13061,7 +13135,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "28502253-af15-47a4-8bbb-14339ffcfc43")
-		(property "Reference" "D34"
+		(property "Reference" "D18"
 			(at 123.19 200.66 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13145,7 +13219,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "D34")
+					(reference "D18")
 					(unit 1)
 				)
 			)
@@ -13162,7 +13236,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2ab8bfa2-82e9-4a7c-bb03-6212b3ccaeee")
-		(property "Reference" "D68"
+		(property "Reference" "D45"
 			(at 187.96 260.35 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13246,7 +13320,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "D68")
+					(reference "D45")
 					(unit 1)
 				)
 			)
@@ -13263,7 +13337,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2af65920-548d-48d3-bca0-c0513a1b7376")
-		(property "Reference" "D60"
+		(property "Reference" "D5"
 			(at 83.82 260.35 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13347,7 +13421,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "D60")
+					(reference "D5")
 					(unit 1)
 				)
 			)
@@ -13364,7 +13438,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2dc5ce20-f5aa-4e5f-93a6-e8fb23248323")
-		(property "Reference" "D11"
+		(property "Reference" "D51"
 			(at 213.36 140.97 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13448,7 +13522,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "D11")
+					(reference "D51")
 					(unit 1)
 				)
 			)
@@ -13465,7 +13539,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2e3b90a2-d326-4146-974b-78ed691329d8")
-		(property "Reference" "SW74"
+		(property "Reference" "SW72"
 			(at 265.43 247.65 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13527,7 +13601,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "SW74")
+					(reference "SW72")
 					(unit 1)
 				)
 			)
@@ -13544,7 +13618,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2e42af0f-de05-437c-806f-d31daeb61807")
-		(property "Reference" "SW61"
+		(property "Reference" "SW10"
 			(at 96.52 247.65 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13606,7 +13680,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "SW61")
+					(reference "SW10")
 					(unit 1)
 				)
 			)
@@ -13623,7 +13697,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "317e4ac0-8c30-4b41-9b72-7415df6d5328")
-		(property "Reference" "SW10"
+		(property "Reference" "SW46"
 			(at 200.66 128.27 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13685,7 +13759,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "SW10")
+					(reference "SW46")
 					(unit 1)
 				)
 			)
@@ -13702,7 +13776,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "32a2a13a-dd6f-453f-8d2d-137728605cc0")
-		(property "Reference" "#PWR01"
+		(property "Reference" "#PWR05"
 			(at 137.16 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -13762,7 +13836,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "#PWR01")
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)
@@ -13779,7 +13853,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3361aa4d-1664-438e-a787-2c02e9827912")
-		(property "Reference" "SW29"
+		(property "Reference" "SW67"
 			(at 251.46 158.75 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13841,7 +13915,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "SW29")
+					(reference "SW67")
 					(unit 1)
 				)
 			)
@@ -13858,7 +13932,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "33c9de10-5e4b-4fd4-b348-92b420a6f19d")
-		(property "Reference" "SW24"
+		(property "Reference" "SW42"
 			(at 187.96 158.75 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13920,7 +13994,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "SW24")
+					(reference "SW42")
 					(unit 1)
 				)
 			)
@@ -13937,7 +14011,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "34e072df-5181-45cc-91cd-3e416ae6d299")
-		(property "Reference" "SW7"
+		(property "Reference" "SW31"
 			(at 161.29 128.27 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13999,7 +14073,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "SW7")
+					(reference "SW31")
 					(unit 1)
 				)
 			)
@@ -14016,7 +14090,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "359c835c-d6f1-4e4d-b076-535ab9785eed")
-		(property "Reference" "D20"
+		(property "Reference" "D22"
 			(at 135.89 171.45 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14100,7 +14174,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "D20")
+					(reference "D22")
 					(unit 1)
 				)
 			)
@@ -14117,7 +14191,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "36970f2a-2804-4711-8d3e-7d8127f7306a")
-		(property "Reference" "D25"
+		(property "Reference" "D47"
 			(at 200.66 171.45 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14201,7 +14275,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "D25")
+					(reference "D47")
 					(unit 1)
 				)
 			)
@@ -14218,7 +14292,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "37346c3e-e2ab-406d-9ad8-39d3d0168797")
-		(property "Reference" "D70"
+		(property "Reference" "D55"
 			(at 213.36 260.35 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14302,7 +14376,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "D70")
+					(reference "D55")
 					(unit 1)
 				)
 			)
@@ -14319,7 +14393,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "39c8427c-7b73-4c79-a2c9-695e047437c4")
-		(property "Reference" "SW15"
+		(property "Reference" "SW71"
 			(at 265.43 128.27 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14381,7 +14455,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "SW15")
+					(reference "SW71")
 					(unit 1)
 				)
 			)
@@ -14398,7 +14472,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3ac4cc35-1602-4553-ba68-9c23a5e22ff6")
-		(property "Reference" "D64"
+		(property "Reference" "D25"
 			(at 135.89 260.35 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14482,7 +14556,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "D64")
+					(reference "D25")
 					(unit 1)
 				)
 			)
@@ -14499,7 +14573,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3afa6803-b3b4-47e4-9939-59b5fcbaaba3")
-		(property "Reference" "SW46"
+		(property "Reference" "SW4"
 			(at 83.82 219.71 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14561,7 +14635,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "SW46")
+					(reference "SW4")
 					(unit 1)
 				)
 			)
@@ -14578,7 +14652,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3cc989f1-8f6e-400c-ae26-a122864a4d05")
-		(property "Reference" "S_D14"
+		(property "Reference" "S_D12"
 			(at 224.79 63.5 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14662,88 +14736,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "S_D14")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 283.21 76.2 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "3cdffa6a-a5c1-450c-bf7c-999597867824")
-		(property "Reference" "C1"
-			(at 285.75 74.93 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "10uf"
-			(at 285.75 77.47 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 283.21 76.2 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 283.21 76.2 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 283.21 76.2 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "dc41a3d8-1efa-4e3b-8e6f-5ee24e0928cf")
-		)
-		(pin "2"
-			(uuid "8256514e-57ec-4129-a78d-c0eb6dee57f7")
-		)
-		(instances
-			(project "Caon-Handwired-Prototype"
-				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "C1")
+					(reference "S_D12")
 					(unit 1)
 				)
 			)
@@ -14760,7 +14753,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3e20472b-0b92-4080-9062-4bb84df20cf0")
-		(property "Reference" "SW22"
+		(property "Reference" "SW32"
 			(at 161.29 158.75 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14822,7 +14815,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "SW22")
+					(reference "SW32")
 					(unit 1)
 				)
 			)
@@ -14839,7 +14832,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3f546daf-58e0-466a-a99d-1122d764e264")
-		(property "Reference" "SW59"
+		(property "Reference" "SW69"
 			(at 251.46 219.71 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14901,7 +14894,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "SW59")
+					(reference "SW69")
 					(unit 1)
 				)
 			)
@@ -14918,7 +14911,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3f696d05-895c-40db-bc04-36cf55f5864f")
-		(property "Reference" "D52"
+		(property "Reference" "D34"
 			(at 161.29 232.41 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15002,7 +14995,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "D52")
+					(reference "D34")
 					(unit 1)
 				)
 			)
@@ -15019,7 +15012,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4097ad8b-f135-48a4-b6a8-e651b9840596")
-		(property "Reference" "D9"
+		(property "Reference" "D41"
 			(at 187.96 140.97 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15103,7 +15096,84 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "D9")
+					(reference "D41")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:VCC")
+		(at 162.56 72.39 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "40ad168a-8280-4c39-9a90-b3dcd06aa7f1")
+		(property "Reference" "#PWR07"
+			(at 162.56 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 162.56 68.58 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 162.56 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 162.56 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VCC\""
+			(at 162.56 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "2f3e9036-e7e7-4d18-816a-bbf4f6b38df3")
+		)
+		(instances
+			(project "Caon-Handwired-Prototype"
+				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
+					(reference "#PWR07")
 					(unit 1)
 				)
 			)
@@ -15120,7 +15190,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "410c1ce1-24e2-436a-89cd-b6075282bacc")
-		(property "Reference" "SW69"
+		(property "Reference" "SW50"
 			(at 200.66 247.65 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15182,7 +15252,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "SW69")
+					(reference "SW50")
 					(unit 1)
 				)
 			)
@@ -15199,7 +15269,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "44a07572-b97f-4970-bb6d-f020cc333b57")
-		(property "Reference" "#PWR017"
+		(property "Reference" "#PWR013"
 			(at 295.91 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -15259,7 +15329,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "#PWR017")
+					(reference "#PWR013")
 					(unit 1)
 				)
 			)
@@ -15276,7 +15346,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "478379c2-c924-4df3-bb63-c81709ebcda3")
-		(property "Reference" "D74"
+		(property "Reference" "D72"
 			(at 265.43 260.35 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15360,7 +15430,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "D74")
+					(reference "D72")
 					(unit 1)
 				)
 			)
@@ -15478,7 +15548,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "49f86d81-2283-4172-9bb4-c8ef89bc64c2")
-		(property "Reference" "D13"
+		(property "Reference" "D61"
 			(at 238.76 140.97 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15562,7 +15632,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "D13")
+					(reference "D61")
 					(unit 1)
 				)
 			)
@@ -15579,7 +15649,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4a6877ca-f6fe-4bf1-b090-522531bb4847")
-		(property "Reference" "SW19"
+		(property "Reference" "SW17"
 			(at 123.19 158.75 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15641,7 +15711,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "SW19")
+					(reference "SW17")
 					(unit 1)
 				)
 			)
@@ -15658,7 +15728,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4ad0fd8d-267f-4e7f-ab6c-66f7e186bd18")
-		(property "Reference" "SW16"
+		(property "Reference" "SW2"
 			(at 83.82 158.75 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15720,7 +15790,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "SW16")
+					(reference "SW2")
 					(unit 1)
 				)
 			)
@@ -15737,7 +15807,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4b20f22d-b068-471d-b5eb-ee95e196b779")
-		(property "Reference" "D5"
+		(property "Reference" "D21"
 			(at 137.16 140.97 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15821,7 +15891,84 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "D5")
+					(reference "D21")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 175.26 82.55 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "4b7ffbf1-7c4d-45d5-9151-82f7565e723a")
+		(property "Reference" "#PWR08"
+			(at 175.26 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 175.26 86.36 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 175.26 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 175.26 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 175.26 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "37f94dc9-d9dc-4e69-b268-00177b585ec2")
+		)
+		(instances
+			(project "Caon-Handwired-Prototype"
+				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
+					(reference "#PWR08")
 					(unit 1)
 				)
 			)
@@ -15838,7 +15985,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "50344b75-7ad1-4c07-b8b9-22f28ea56682")
-		(property "Reference" "D43"
+		(property "Reference" "D63"
 			(at 238.76 200.66 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15922,7 +16069,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "D43")
+					(reference "D63")
 					(unit 1)
 				)
 			)
@@ -15930,7 +16077,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 289.56 66.04 90)
+		(at 271.78 55.88 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -15939,8 +16086,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "51ea1fce-de1d-470d-a2f2-bf3ae6325dd7")
-		(property "Reference" "OLD_R4"
-			(at 289.56 68.58 90)
+		(property "Reference" "R1"
+			(at 271.78 59.182 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15950,7 +16097,7 @@
 			)
 		)
 		(property "Value" "100Ω"
-			(at 289.56 71.12 90)
+			(at 271.78 61.722 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15960,7 +16107,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical"
-			(at 289.56 67.818 90)
+			(at 271.78 57.658 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15971,7 +16118,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 289.56 66.04 0)
+			(at 271.78 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15982,7 +16129,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 289.56 66.04 0)
+			(at 271.78 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16001,7 +16148,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "OLD_R4")
+					(reference "R1")
 					(unit 1)
 				)
 			)
@@ -16018,7 +16165,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "520eeb25-044e-4f85-9a97-ba012279f5f6")
-		(property "Reference" "D29"
+		(property "Reference" "D67"
 			(at 251.46 171.45 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16102,84 +16249,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "D29")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 175.26 81.28 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "529c510b-8457-4ce8-92c3-32403a9e6b2e")
-		(property "Reference" "#PWR014"
-			(at 175.26 87.63 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 175.26 85.09 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 175.26 81.28 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 175.26 81.28 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 175.26 81.28 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "63e539b0-0a15-4d08-8d62-9609f2037513")
-		)
-		(instances
-			(project "Caon-Handwired-Prototype"
-				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "#PWR014")
+					(reference "D67")
 					(unit 1)
 				)
 			)
@@ -16196,7 +16266,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "52f5a1ce-30cc-4a07-8185-cca1e9038bf9")
-		(property "Reference" "SW72"
+		(property "Reference" "SW65"
 			(at 238.76 247.65 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16258,7 +16328,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "SW72")
+					(reference "SW65")
 					(unit 1)
 				)
 			)
@@ -16275,7 +16345,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "56455aa6-e581-4de0-b226-6835d13d2dc5")
-		(property "Reference" "D32"
+		(property "Reference" "D8"
 			(at 96.52 200.66 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16359,7 +16429,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "D32")
+					(reference "D8")
 					(unit 1)
 				)
 			)
@@ -16376,7 +16446,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "56d8c01e-d182-4072-bf32-987fa501a9fb")
-		(property "Reference" "#PWR016"
+		(property "Reference" "#PWR021"
 			(at 330.2 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -16436,7 +16506,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "#PWR016")
+					(reference "#PWR021")
 					(unit 1)
 				)
 			)
@@ -16453,7 +16523,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "57104f08-b16e-4cf7-9c8f-8b7a4b134f72")
-		(property "Reference" "SW58"
+		(property "Reference" "SW64"
 			(at 238.76 219.71 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16515,7 +16585,86 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "SW58")
+					(reference "SW64")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 304.8 48.26 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "58264895-6677-483a-86bf-6fcaffe8190a")
+		(property "Reference" "R4"
+			(at 301.244 49.53 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "4.7k"
+			(at 301.244 46.99 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical"
+			(at 306.578 48.26 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 304.8 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 304.8 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "09577f1c-afd5-492c-9dae-58937393eeb4")
+		)
+		(pin "2"
+			(uuid "5c2e0bf7-78ac-45ed-8ad4-3f2ea4a59f9b")
+		)
+		(instances
+			(project "Caon-Handwired-Prototype"
+				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
+					(reference "R4")
 					(unit 1)
 				)
 			)
@@ -16532,7 +16681,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5900da7c-1cec-4d02-bd76-3e735eac39a0")
-		(property "Reference" "SW66"
+		(property "Reference" "SW35"
 			(at 161.29 247.65 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16594,7 +16743,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "SW66")
+					(reference "SW35")
 					(unit 1)
 				)
 			)
@@ -16611,7 +16760,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "593a57d5-1293-452a-9183-c286b8c77ca9")
-		(property "Reference" "D47"
+		(property "Reference" "D9"
 			(at 96.52 232.41 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16695,15 +16844,15 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "D47")
+					(reference "D9")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 287.02 46.99 90)
+		(lib_id "Device:C_Small")
+		(at 175.26 77.47 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -16711,29 +16860,31 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "5a48aa5b-6b5b-4f1a-8d16-566d8ccdcb29")
-		(property "Reference" "OLD_R1"
-			(at 287.02 41.91 90)
+		(uuid "5b18c78f-8992-4328-a14f-b17b88cdcb94")
+		(property "Reference" "C2"
+			(at 177.8 76.2 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-		(property "Value" "4.7k"
-			(at 287.02 44.45 90)
+		(property "Value" "0.1uf"
+			(at 177.8 78.74 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical"
-			(at 287.02 48.768 90)
+		(property "Footprint" ""
+			(at 175.26 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16744,7 +16895,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 287.02 46.99 0)
+			(at 175.26 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16754,8 +16905,8 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
-			(at 287.02 46.99 0)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 175.26 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16766,15 +16917,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "725530b3-2927-4384-9037-1753227ae159")
+			(uuid "4b76820d-c895-40da-977d-71a899606544")
 		)
 		(pin "2"
-			(uuid "431ec3a7-a727-4146-92a3-f2c20026bc50")
+			(uuid "82af8124-d463-4516-a581-57eef5deab32")
 		)
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "OLD_R1")
+					(reference "C2")
 					(unit 1)
 				)
 			)
@@ -16791,7 +16942,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5c88ccf6-a427-4598-8df6-4453830e89b3")
-		(property "Reference" "D14"
+		(property "Reference" "D66"
 			(at 251.46 140.97 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16875,7 +17026,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "D14")
+					(reference "D66")
 					(unit 1)
 				)
 			)
@@ -16892,7 +17043,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5d8e9f7b-a064-4005-8c43-103094103980")
-		(property "Reference" "SW41"
+		(property "Reference" "SW53"
 			(at 213.36 187.96 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16954,7 +17105,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "SW41")
+					(reference "SW53")
 					(unit 1)
 				)
 			)
@@ -16971,7 +17122,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5db60c95-5e18-4629-a69d-4e4f971d544b")
-		(property "Reference" "S_D11"
+		(property "Reference" "S_D3"
 			(at 154.94 60.96 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17055,7 +17206,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "S_D11")
+					(reference "S_D3")
 					(unit 1)
 				)
 			)
@@ -17152,7 +17303,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5f3f6d06-5fb2-4697-8172-a8fe11d1e623")
-		(property "Reference" "S_D9"
+		(property "Reference" "S_D7"
 			(at 162.56 58.42 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17236,7 +17387,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "S_D9")
+					(reference "S_D7")
 					(unit 1)
 				)
 			)
@@ -17253,7 +17404,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5f8456c2-6134-4e4b-a761-5f9324fcaf1c")
-		(property "Reference" "D49"
+		(property "Reference" "D19"
 			(at 123.19 232.41 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17337,7 +17488,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "D49")
+					(reference "D19")
 					(unit 1)
 				)
 			)
@@ -17354,7 +17505,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "61077766-286e-4101-9222-32f144f99ca9")
-		(property "Reference" "SW48"
+		(property "Reference" "SW14"
 			(at 110.49 219.71 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17416,7 +17567,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "SW48")
+					(reference "SW14")
 					(unit 1)
 				)
 			)
@@ -17433,7 +17584,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6245f407-cc44-4518-bc56-2cd3cb80c5f4")
-		(property "Reference" "D45"
+		(property "Reference" "D74"
 			(at 270.51 203.2 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17517,7 +17668,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "D45")
+					(reference "D74")
 					(unit 1)
 				)
 			)
@@ -17534,7 +17685,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6377312b-a412-4be1-b869-9620d6d3d3f2")
-		(property "Reference" "SW8"
+		(property "Reference" "SW36"
 			(at 175.26 128.27 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17596,7 +17747,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "SW8")
+					(reference "SW36")
 					(unit 1)
 				)
 			)
@@ -17613,7 +17764,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "65df7e90-302b-49a0-a9aa-3270ccffaf24")
-		(property "Reference" "#PWR019"
+		(property "Reference" "#PWR014"
 			(at 297.18 212.09 0)
 			(hide yes)
 			(show_name no)
@@ -17673,7 +17824,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "#PWR019")
+					(reference "#PWR014")
 					(unit 1)
 				)
 			)
@@ -17690,7 +17841,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "66d9aef1-0f37-41be-b0d7-cf9776958f65")
-		(property "Reference" "SW32"
+		(property "Reference" "SW8"
 			(at 96.52 187.96 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17752,84 +17903,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "SW32")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:VCC")
-		(at 165.1 74.93 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "67616f53-62de-402e-a430-6ed71b4680a7")
-		(property "Reference" "#PWR07"
-			(at 165.1 78.74 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 165.1 71.12 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 165.1 74.93 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 165.1 74.93 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 165.1 74.93 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "5b107d75-8f67-4e29-9eb0-f6d725587572")
-		)
-		(instances
-			(project "Caon-Handwired-Prototype"
-				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "#PWR07")
+					(reference "SW8")
 					(unit 1)
 				)
 			)
@@ -17846,7 +17920,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "67f78331-0413-4d5a-a29b-535a56a8da58")
-		(property "Reference" "#PWR05"
+		(property "Reference" "#PWR04"
 			(at 111.76 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -17906,7 +17980,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "#PWR05")
+					(reference "#PWR04")
 					(unit 1)
 				)
 			)
@@ -17923,7 +17997,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6984f544-08bb-4d85-8bdc-51b3a4fb87c9")
-		(property "Reference" "D10"
+		(property "Reference" "D46"
 			(at 200.66 140.97 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18007,7 +18081,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "D10")
+					(reference "D46")
 					(unit 1)
 				)
 			)
@@ -18024,7 +18098,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "69ba8df9-05a3-4970-84d9-1bf6974dd6d6")
-		(property "Reference" "SW70"
+		(property "Reference" "SW55"
 			(at 213.36 247.65 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18086,7 +18160,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "SW70")
+					(reference "SW55")
 					(unit 1)
 				)
 			)
@@ -18103,7 +18177,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6bdb4148-8f0a-472b-9008-fb6c5f11144e")
-		(property "Reference" "SW36"
+		(property "Reference" "SW28"
 			(at 148.59 187.96 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18165,7 +18239,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "SW36")
+					(reference "SW28")
 					(unit 1)
 				)
 			)
@@ -18182,7 +18256,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6c231f60-b3fc-4f93-97b7-229709388211")
-		(property "Reference" "D2"
+		(property "Reference" "D6"
 			(at 97.79 140.97 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18266,7 +18340,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "D2")
+					(reference "D6")
 					(unit 1)
 				)
 			)
@@ -18283,7 +18357,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6da2d41a-d432-437c-89b7-50beec281acc")
-		(property "Reference" "D63"
+		(property "Reference" "D20"
 			(at 123.19 260.35 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18367,7 +18441,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "D63")
+					(reference "D20")
 					(unit 1)
 				)
 			)
@@ -18384,7 +18458,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "715ae135-7f89-447f-9602-33c18d818123")
-		(property "Reference" "D41"
+		(property "Reference" "D53"
 			(at 213.36 200.66 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18468,7 +18542,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "D41")
+					(reference "D53")
 					(unit 1)
 				)
 			)
@@ -18485,7 +18559,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "72299ae3-00d1-4ed6-b5b8-04c1bd22c187")
-		(property "Reference" "S_D12"
+		(property "Reference" "S_D15"
 			(at 232.41 60.96 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18569,7 +18643,84 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "S_D12")
+					(reference "S_D15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:VCC")
+		(at 320.04 71.12 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "755930af-3ada-4153-8d66-30b9be5c6b27")
+		(property "Reference" "#PWR020"
+			(at 320.04 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 320.04 67.056 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 320.04 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 320.04 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VCC\""
+			(at 320.04 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "c3d335c1-b69f-4358-960b-a10cccbffad4")
+		)
+		(instances
+			(project "Caon-Handwired-Prototype"
+				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
+					(reference "#PWR020")
 					(unit 1)
 				)
 			)
@@ -18586,7 +18737,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "794e642b-1d49-4710-b187-0505896b761d")
-		(property "Reference" "SW40"
+		(property "Reference" "SW48"
 			(at 200.66 187.96 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18648,7 +18799,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "SW40")
+					(reference "SW48")
 					(unit 1)
 				)
 			)
@@ -18665,7 +18816,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7af84b87-caf7-413f-a876-c1fe77b62a15")
-		(property "Reference" "D65"
+		(property "Reference" "D30"
 			(at 148.59 260.35 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18749,7 +18900,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "D65")
+					(reference "D30")
 					(unit 1)
 				)
 			)
@@ -18766,7 +18917,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7b768098-ebcd-44ab-9a5f-9ebc18e1d92f")
-		(property "Reference" "SW43"
+		(property "Reference" "SW63"
 			(at 238.76 187.96 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18828,7 +18979,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "SW43")
+					(reference "SW63")
 					(unit 1)
 				)
 			)
@@ -18845,7 +18996,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7c541cc0-6e53-4364-8858-d14498e1eeaa")
-		(property "Reference" "D6"
+		(property "Reference" "D26"
 			(at 149.86 140.97 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18929,7 +19080,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "D6")
+					(reference "D26")
 					(unit 1)
 				)
 			)
@@ -18946,7 +19097,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7c6b33b5-891a-4de0-8cab-9c020af85688")
-		(property "Reference" "D40"
+		(property "Reference" "D48"
 			(at 200.66 200.66 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19030,7 +19181,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "D40")
+					(reference "D48")
 					(unit 1)
 				)
 			)
@@ -19047,7 +19198,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7cb665fe-797f-4f4d-9546-9e2689a413d9")
-		(property "Reference" "SW21"
+		(property "Reference" "SW27"
 			(at 148.59 158.75 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19109,7 +19260,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "SW21")
+					(reference "SW27")
 					(unit 1)
 				)
 			)
@@ -19126,7 +19277,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7cb91b4f-57e7-422c-bed3-1c86fadf084a")
-		(property "Reference" "SW18"
+		(property "Reference" "SW12"
 			(at 110.49 158.75 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19188,7 +19339,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "SW18")
+					(reference "SW12")
 					(unit 1)
 				)
 			)
@@ -19196,7 +19347,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 303.53 60.96 90)
+		(at 279.4 53.34 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -19205,8 +19356,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "82d06812-0098-4133-8a86-253fc01aa708")
-		(property "Reference" "OLD_R3"
-			(at 303.53 55.88 90)
+		(property "Reference" "R2"
+			(at 279.4 48.26 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19216,7 +19367,7 @@
 			)
 		)
 		(property "Value" "100Ω"
-			(at 303.53 58.42 90)
+			(at 279.4 50.8 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19226,7 +19377,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical"
-			(at 303.53 62.738 90)
+			(at 279.4 55.118 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19237,7 +19388,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 303.53 60.96 0)
+			(at 279.4 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19248,7 +19399,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 303.53 60.96 0)
+			(at 279.4 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19267,7 +19418,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "OLD_R3")
+					(reference "R2")
 					(unit 1)
 				)
 			)
@@ -19284,7 +19435,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "83a59629-09f3-473f-a264-335c335963a7")
-		(property "Reference" "C6"
+		(property "Reference" "C4"
 			(at 248.92 76.2 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19348,7 +19499,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "C6")
+					(reference "C4")
 					(unit 1)
 				)
 			)
@@ -19444,7 +19595,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "846e9135-c548-47aa-8a43-920f96080120")
-		(property "Reference" "SW73"
+		(property "Reference" "SW70"
 			(at 251.46 247.65 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19506,7 +19657,84 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "SW73")
+					(reference "SW70")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:VCC")
+		(at 302.26 63.5 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "84bc9d3b-e7e0-4cae-9ff0-ffa837fa0c17")
+		(property "Reference" "#PWR015"
+			(at 302.26 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 302.26 59.436 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 302.26 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 302.26 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VCC\""
+			(at 302.26 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "4d30a582-5b5d-4e3f-8ca6-c7ffe908c548")
+		)
+		(instances
+			(project "Caon-Handwired-Prototype"
+				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
+					(reference "#PWR015")
 					(unit 1)
 				)
 			)
@@ -19523,7 +19751,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "860d0070-435e-4732-a4c9-60f0434ce897")
-		(property "Reference" "S_D3"
+		(property "Reference" "S_D1"
 			(at 154.94 50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19607,7 +19835,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "S_D3")
+					(reference "S_D1")
 					(unit 1)
 				)
 			)
@@ -19624,7 +19852,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8634dd08-b6f8-43cf-9c9b-aaa8fe0d21ec")
-		(property "Reference" "D22"
+		(property "Reference" "D32"
 			(at 161.29 171.45 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19708,7 +19936,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "D22")
+					(reference "D32")
 					(unit 1)
 				)
 			)
@@ -19725,7 +19953,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "887051fa-e072-457a-ad60-182fd9d8d5a5")
-		(property "Reference" "D51"
+		(property "Reference" "D29"
 			(at 148.59 232.41 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19809,7 +20037,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "D51")
+					(reference "D29")
 					(unit 1)
 				)
 			)
@@ -19826,7 +20054,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "888370ce-9435-44d8-bd08-7a07b1d15c80")
-		(property "Reference" "SW13"
+		(property "Reference" "SW61"
 			(at 238.76 128.27 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19888,7 +20116,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "SW13")
+					(reference "SW61")
 					(unit 1)
 				)
 			)
@@ -19905,7 +20133,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8c6a44e1-0ba4-4567-93b0-5a625d2cbfa9")
-		(property "Reference" "D66"
+		(property "Reference" "D35"
 			(at 161.29 260.35 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19989,7 +20217,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "D66")
+					(reference "D35")
 					(unit 1)
 				)
 			)
@@ -20006,7 +20234,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8d182218-cd36-4621-b420-cb3bc8e5afab")
-		(property "Reference" "SW44"
+		(property "Reference" "SW68"
 			(at 251.46 187.96 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20068,7 +20296,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "SW44")
+					(reference "SW68")
 					(unit 1)
 				)
 			)
@@ -20085,7 +20313,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8d879c32-5f28-4138-83c3-0a441cfac7b9")
-		(property "Reference" "SW2"
+		(property "Reference" "SW6"
 			(at 96.52 128.27 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20147,7 +20375,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "SW2")
+					(reference "SW6")
 					(unit 1)
 				)
 			)
@@ -20164,7 +20392,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8df16175-8d0c-4f50-8452-4675af3bf6cb")
-		(property "Reference" "D67"
+		(property "Reference" "D40"
 			(at 175.26 260.35 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20248,7 +20476,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "D67")
+					(reference "D40")
 					(unit 1)
 				)
 			)
@@ -20265,7 +20493,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8f151542-6a32-4f10-8652-f46290fbfd2f")
-		(property "Reference" "SW26"
+		(property "Reference" "SW52"
 			(at 213.36 158.75 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20327,7 +20555,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "SW26")
+					(reference "SW52")
 					(unit 1)
 				)
 			)
@@ -20344,7 +20572,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "90f61281-365c-46dc-a170-42645946d40f")
-		(property "Reference" "D30"
+		(property "Reference" "D73"
 			(at 270.51 172.72 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20428,7 +20656,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "D30")
+					(reference "D73")
 					(unit 1)
 				)
 			)
@@ -20445,7 +20673,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "92c04522-d4ad-451f-80ce-5dd4791df4ee")
-		(property "Reference" "D48"
+		(property "Reference" "D14"
 			(at 110.49 232.41 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20529,15 +20757,15 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "D48")
+					(reference "D14")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "ScottoKeebs:OLED_128x32")
-		(at 320.04 71.12 0)
+		(lib_id "power:GND")
+		(at 331.47 81.28 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -20545,31 +20773,30 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "92fde2c8-e889-4c16-9a28-b0048e86506a")
-		(property "Reference" "J1"
-			(at 321.31 62.23 0)
+		(uuid "92ca0876-a8cf-4cc4-8313-aa77a244dd35")
+		(property "Reference" "#PWR022"
+			(at 331.47 87.63 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Value" "OLED_128x32"
-			(at 321.31 64.77 0)
+		(property "Value" "GND"
+			(at 331.47 85.09 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:OLED_128x32"
-			(at 320.04 62.23 0)
+		(property "Footprint" ""
+			(at 331.47 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20580,7 +20807,85 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 320.04 69.85 0)
+			(at 331.47 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 331.47 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "e3220bd5-ce8e-4fd6-8e0a-dcaf442c92f9")
+		)
+		(instances
+			(project "Caon-Handwired-Prototype"
+				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
+					(reference "#PWR022")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:OLED_128x32")
+		(at 312.42 57.15 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "92fde2c8-e889-4c16-9a28-b0048e86506a")
+		(property "Reference" "J1"
+			(at 313.69 48.26 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "OLED_128x32"
+			(at 313.69 50.8 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Components:OLED_128x32"
+			(at 312.42 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 312.42 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20591,7 +20896,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 320.04 71.12 0)
+			(at 312.42 57.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20633,7 +20938,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "943ab067-9ead-43c2-b19f-6e2b28d3a76b")
-		(property "Reference" "SW4"
+		(property "Reference" "SW16"
 			(at 123.19 128.27 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20695,7 +21000,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "SW4")
+					(reference "SW16")
 					(unit 1)
 				)
 			)
@@ -20712,7 +21017,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "948c9834-fdeb-44f3-a383-9f13b87bcbaa")
-		(property "Reference" "D35"
+		(property "Reference" "D23"
 			(at 135.89 200.66 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20796,7 +21101,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "D35")
+					(reference "D23")
 					(unit 1)
 				)
 			)
@@ -20813,7 +21118,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "94c36925-4db1-40fb-83c1-bab9dfa6ff59")
-		(property "Reference" "SW3"
+		(property "Reference" "SW11"
 			(at 110.49 128.27 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20875,7 +21180,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "SW3")
+					(reference "SW11")
 					(unit 1)
 				)
 			)
@@ -20892,7 +21197,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "973e9091-4c87-4417-8bd2-349fed061ab3")
-		(property "Reference" "D46"
+		(property "Reference" "D4"
 			(at 83.82 232.41 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20976,86 +21281,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "D46")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 298.45 53.34 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "97427d36-0cfe-4e34-b95a-27dca1d1ba1a")
-		(property "Reference" "OLD_R2"
-			(at 298.45 48.26 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "4.7k"
-			(at 298.45 50.8 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical"
-			(at 298.45 55.118 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 298.45 53.34 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 298.45 53.34 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "36f30713-9082-4ee4-b839-4e7e431fa7b0")
-		)
-		(pin "2"
-			(uuid "d5cd140b-cd23-494a-a91b-03d1c1d70ef7")
-		)
-		(instances
-			(project "Caon-Handwired-Prototype"
-				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "OLD_R2")
+					(reference "D4")
 					(unit 1)
 				)
 			)
@@ -21072,7 +21298,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "976d5165-9365-47b4-9f17-1f0674d63dbc")
-		(property "Reference" "D23"
+		(property "Reference" "D37"
 			(at 175.26 171.45 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21156,7 +21382,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "D23")
+					(reference "D37")
 					(unit 1)
 				)
 			)
@@ -21174,7 +21400,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "991bb004-394e-4b67-8317-9a8df0e0d8ca")
-		(property "Reference" "U1"
+		(property "Reference" "U2"
 			(at 139.3541 39.37 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21280,7 +21506,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "U1")
+					(reference "U2")
 					(unit 1)
 				)
 			)
@@ -21297,7 +21523,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9cdf7e2e-083b-40f9-8c87-dc727fdd9ae5")
-		(property "Reference" "D36"
+		(property "Reference" "D28"
 			(at 148.59 200.66 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21381,7 +21607,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "D36")
+					(reference "D28")
 					(unit 1)
 				)
 			)
@@ -21398,7 +21624,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9d9decfb-ca4e-44a4-800f-7d1b1eaaad88")
-		(property "Reference" "D44"
+		(property "Reference" "D68"
 			(at 251.46 200.66 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21482,7 +21708,165 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "D44")
+					(reference "D68")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 307.34 194.31 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "9e9436ef-a023-4f36-9c9b-ea63e41d7a13")
+		(property "Reference" "R6"
+			(at 303.784 195.58 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10k"
+			(at 303.784 193.04 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical"
+			(at 309.118 194.31 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 307.34 194.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 307.34 194.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "6f980d8e-f4f2-4e65-866e-de5a4ba5bd35")
+		)
+		(pin "2"
+			(uuid "39467a26-da8c-448b-bea5-9bb6498c515c")
+		)
+		(instances
+			(project "Caon-Handwired-Prototype"
+				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
+					(reference "R6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 307.34 163.83 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "9f4bf4e3-4adf-4987-8781-4a632e73d039")
+		(property "Reference" "R5"
+			(at 303.784 165.1 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10k"
+			(at 303.784 162.56 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical"
+			(at 309.118 163.83 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 307.34 163.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 307.34 163.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "3499e3ad-1867-4807-9220-803d122b9075")
+		)
+		(pin "2"
+			(uuid "2c31db8b-0d72-49dd-a1ec-bab0fb0a30fa")
+		)
+		(instances
+			(project "Caon-Handwired-Prototype"
+				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
+					(reference "R5")
 					(unit 1)
 				)
 			)
@@ -21499,7 +21883,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9f77fc6a-5ab5-417a-ad2a-a2195e267338")
-		(property "Reference" "SW31"
+		(property "Reference" "SW3"
 			(at 83.82 187.96 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21561,7 +21945,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "SW31")
+					(reference "SW3")
 					(unit 1)
 				)
 			)
@@ -21578,7 +21962,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9f9bbb3e-d0ee-4908-a437-4afb16690650")
-		(property "Reference" "SW17"
+		(property "Reference" "SW7"
 			(at 96.52 158.75 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21640,7 +22024,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "SW17")
+					(reference "SW7")
 					(unit 1)
 				)
 			)
@@ -21658,7 +22042,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a07aa962-11aa-4d59-a603-858e11fa2eb3")
-		(property "Reference" "U2"
+		(property "Reference" "U3"
 			(at 209.2041 39.37 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21764,7 +22148,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "U2")
+					(reference "U3")
 					(unit 1)
 				)
 			)
@@ -21872,8 +22256,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 306.07 181.61 90)
+		(lib_id "power:VCC")
+		(at 318.77 185.42 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -21881,9 +22265,10 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "a5e4ffde-ba79-4a6b-9a7c-09a6ef70611f")
-		(property "Reference" "ENC_R1"
-			(at 306.07 176.53 90)
+		(uuid "a51160ac-1934-4bfb-9850-33a85b39e9ef")
+		(property "Reference" "#PWR019"
+			(at 318.77 189.23 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -21892,8 +22277,8 @@
 				)
 			)
 		)
-		(property "Value" "10k"
-			(at 306.07 179.07 90)
+		(property "Value" "+3V3"
+			(at 318.77 180.34 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -21902,8 +22287,8 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical"
-			(at 306.07 183.388 90)
+		(property "Footprint" ""
+			(at 318.77 185.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21914,7 +22299,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 306.07 181.61 0)
+			(at 318.77 185.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21924,8 +22309,8 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
-			(at 306.07 181.61 0)
+		(property "Description" "Power symbol creates a global label with name \"VCC\""
+			(at 318.77 185.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21936,15 +22321,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "9175f4ef-4266-4e09-b293-c752f0ab0373")
-		)
-		(pin "2"
-			(uuid "7f73c4a9-deb6-47f9-883b-d9688ba7fcdd")
+			(uuid "79425bac-53eb-4d6c-bd34-94d2267cdd47")
 		)
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "ENC_R1")
+					(reference "#PWR019")
 					(unit 1)
 				)
 			)
@@ -21961,7 +22343,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a8dd5ebc-88b2-41f3-85d3-f8e415951e66")
-		(property "Reference" "#PWR06"
+		(property "Reference" "#PWR01"
 			(at 49.53 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -22021,7 +22403,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "#PWR06")
+					(reference "#PWR01")
 					(unit 1)
 				)
 			)
@@ -22038,7 +22420,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a91e1ac3-33f6-4d20-a05c-6cee646dcd67")
-		(property "Reference" "S_D8"
+		(property "Reference" "S_D14"
 			(at 232.41 55.88 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22122,7 +22504,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "S_D8")
+					(reference "S_D14")
 					(unit 1)
 				)
 			)
@@ -22139,7 +22521,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "aa24b5bf-bd53-4c87-a707-814eadee503c")
-		(property "Reference" "SW35"
+		(property "Reference" "SW23"
 			(at 135.89 187.96 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22201,7 +22583,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "SW35")
+					(reference "SW23")
 					(unit 1)
 				)
 			)
@@ -22209,7 +22591,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 246.38 81.28 0)
+		(at 246.38 82.55 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -22218,8 +22600,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ab183ede-6122-459d-aa96-57cad786c77d")
-		(property "Reference" "#PWR015"
-			(at 246.38 87.63 0)
+		(property "Reference" "#PWR012"
+			(at 246.38 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22230,7 +22612,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 246.38 85.09 0)
+			(at 246.38 86.36 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22240,7 +22622,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 246.38 81.28 0)
+			(at 246.38 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22251,7 +22633,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 246.38 81.28 0)
+			(at 246.38 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22262,7 +22644,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 246.38 81.28 0)
+			(at 246.38 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22278,7 +22660,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "#PWR015")
+					(reference "#PWR012")
 					(unit 1)
 				)
 			)
@@ -22295,7 +22677,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ad18c79d-6c51-417f-96cf-feeaa6c0d595")
-		(property "Reference" "S_D1"
+		(property "Reference" "S_D5"
 			(at 162.56 48.26 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22379,86 +22761,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "S_D1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 306.07 189.23 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "ade7decb-a6db-4fec-b690-b9a3d81e1a03")
-		(property "Reference" "ENC_R2"
-			(at 306.07 184.15 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "10k"
-			(at 306.07 186.69 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical"
-			(at 306.07 191.008 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 306.07 189.23 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 306.07 189.23 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "d1f5bfd5-c923-48ac-b712-7d9a7dd074c7")
-		)
-		(pin "2"
-			(uuid "5bfb7092-f770-4d22-9330-4aadf2cf6ec0")
-		)
-		(instances
-			(project "Caon-Handwired-Prototype"
-				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "ENC_R2")
+					(reference "S_D5")
 					(unit 1)
 				)
 			)
@@ -22475,7 +22778,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "af689839-43a1-467a-b724-c0c75367a7f0")
-		(property "Reference" "S_D2"
+		(property "Reference" "S_D9"
 			(at 224.79 48.26 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22560,7 +22863,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "S_D2")
+					(reference "S_D9")
 					(unit 1)
 				)
 			)
@@ -22568,7 +22871,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 236.22 74.93 0)
+		(at 233.68 72.39 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -22577,8 +22880,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b030d5d9-99df-44d5-88e8-8d0ebb2baad6")
-		(property "Reference" "#PWR08"
-			(at 236.22 78.74 0)
+		(property "Reference" "#PWR011"
+			(at 233.68 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22589,7 +22892,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 236.22 71.12 0)
+			(at 233.68 68.58 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22599,7 +22902,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 236.22 74.93 0)
+			(at 233.68 72.39 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22610,7 +22913,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 236.22 74.93 0)
+			(at 233.68 72.39 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22621,7 +22924,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 236.22 74.93 0)
+			(at 233.68 72.39 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22637,7 +22940,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "#PWR08")
+					(reference "#PWR011")
 					(unit 1)
 				)
 			)
@@ -22654,7 +22957,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b13a29cf-176e-4b99-8c4b-bac32bd6158c")
-		(property "Reference" "SW34"
+		(property "Reference" "SW18"
 			(at 123.19 187.96 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22716,84 +23019,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "SW34")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 283.21 78.74 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "b3124a1a-81d5-477a-9794-cb06b1fdd010")
-		(property "Reference" "#PWR011"
-			(at 283.21 85.09 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 283.21 82.55 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 283.21 78.74 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 283.21 78.74 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 283.21 78.74 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "ce253b8b-9a41-44b7-a6b7-06d9d6c8e410")
-		)
-		(instances
-			(project "Caon-Handwired-Prototype"
-				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "#PWR011")
+					(reference "SW18")
 					(unit 1)
 				)
 			)
@@ -22810,7 +23036,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b39ae5b9-a4b6-4044-9062-1f6e873ac482")
-		(property "Reference" "D18"
+		(property "Reference" "D12"
 			(at 110.49 171.45 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22894,7 +23120,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "D18")
+					(reference "D12")
 					(unit 1)
 				)
 			)
@@ -22911,7 +23137,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b46c4e1a-0088-43a2-9549-cf28fc41e0e5")
-		(property "Reference" "D27"
+		(property "Reference" "D57"
 			(at 226.06 171.45 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22995,7 +23221,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "D27")
+					(reference "D57")
 					(unit 1)
 				)
 			)
@@ -23012,7 +23238,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b9f525e3-3d38-4fd2-8d9c-e8dae52726e1")
-		(property "Reference" "SW47"
+		(property "Reference" "SW9"
 			(at 96.52 219.71 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23074,7 +23300,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "SW47")
+					(reference "SW9")
 					(unit 1)
 				)
 			)
@@ -23091,7 +23317,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "bb200022-05c8-499c-a88b-c7c7a53c717d")
-		(property "Reference" "D12"
+		(property "Reference" "D56"
 			(at 226.06 140.97 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23175,7 +23401,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "D12")
+					(reference "D56")
 					(unit 1)
 				)
 			)
@@ -23192,7 +23418,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "bd6db987-637e-4b52-a29e-dab0e7fcaf35")
-		(property "Reference" "SW23"
+		(property "Reference" "SW37"
 			(at 175.26 158.75 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23254,7 +23480,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "SW23")
+					(reference "SW37")
 					(unit 1)
 				)
 			)
@@ -23271,7 +23497,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "bf7f0d6f-0c9e-44a6-90d6-c5c71b8a4431")
-		(property "Reference" "SW6"
+		(property "Reference" "SW26"
 			(at 148.59 128.27 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23333,7 +23559,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "SW6")
+					(reference "SW26")
 					(unit 1)
 				)
 			)
@@ -23350,7 +23576,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c1fda933-b2b6-47c8-a69a-8636fde4f8e7")
-		(property "Reference" "S_D15"
+		(property "Reference" "S_D4"
 			(at 154.94 66.04 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23434,88 +23660,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "S_D15")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 175.26 77.47 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "c3113ebc-7430-46a1-b8a2-95cc29a53ee0")
-		(property "Reference" "C4"
-			(at 177.8 76.2 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "0.1uf"
-			(at 177.8 78.74 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 175.26 77.47 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 175.26 77.47 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 175.26 77.47 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "82834e94-b331-4ee6-b87b-f110df6df9c1")
-		)
-		(pin "2"
-			(uuid "3e104836-542b-4a2d-9313-82e603d5b56e")
-		)
-		(instances
-			(project "Caon-Handwired-Prototype"
-				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "C4")
+					(reference "S_D4")
 					(unit 1)
 				)
 			)
@@ -23532,7 +23677,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c39510cb-9d5c-4111-89a7-b6374a75a811")
-		(property "Reference" "SW52"
+		(property "Reference" "SW34"
 			(at 161.29 219.71 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23594,7 +23739,84 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "SW52")
+					(reference "SW34")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:VCC")
+		(at 304.8 41.91 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "c3f0e0e2-43cf-4a7b-b648-07f799117f5a")
+		(property "Reference" "#PWR016"
+			(at 304.8 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 304.8 37.846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 304.8 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 304.8 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VCC\""
+			(at 304.8 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "133748c3-41f5-45d9-8421-368f2744e624")
+		)
+		(instances
+			(project "Caon-Handwired-Prototype"
+				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
+					(reference "#PWR016")
 					(unit 1)
 				)
 			)
@@ -23611,7 +23833,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c4ba56a1-4770-4922-802f-2154b732c719")
-		(property "Reference" "D54"
+		(property "Reference" "D44"
 			(at 187.96 232.41 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23695,7 +23917,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "D54")
+					(reference "D44")
 					(unit 1)
 				)
 			)
@@ -23712,7 +23934,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c61e76d7-80ef-4f33-8a97-23d5cd0ae75c")
-		(property "Reference" "SW30"
+		(property "Reference" "SW73"
 			(at 287.02 158.75 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23786,7 +24008,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "SW30")
+					(reference "SW73")
 					(unit 1)
 				)
 			)
@@ -23803,7 +24025,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c70004b4-6a21-475f-916e-eedae5456d69")
-		(property "Reference" "D56"
+		(property "Reference" "D54"
 			(at 213.36 232.41 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23887,7 +24109,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "D56")
+					(reference "D54")
 					(unit 1)
 				)
 			)
@@ -23904,7 +24126,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c8b54bc7-8f48-4cb2-9dcd-24d6293a8cbd")
-		(property "Reference" "D26"
+		(property "Reference" "D52"
 			(at 213.36 171.45 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23988,7 +24210,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "D26")
+					(reference "D52")
 					(unit 1)
 				)
 			)
@@ -23996,7 +24218,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 316.23 181.61 0)
+		(at 318.77 154.94 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -24006,7 +24228,7 @@
 		(dnp no)
 		(uuid "c8cf373c-8e73-4630-a451-762d70c24df9")
 		(property "Reference" "#PWR018"
-			(at 316.23 185.42 0)
+			(at 318.77 158.75 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24017,7 +24239,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 316.23 176.53 0)
+			(at 318.77 149.86 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -24027,7 +24249,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 316.23 181.61 0)
+			(at 318.77 154.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24038,7 +24260,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 316.23 181.61 0)
+			(at 318.77 154.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24049,7 +24271,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 316.23 181.61 0)
+			(at 318.77 154.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24082,7 +24304,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c8e6fc69-fb88-49cb-ba8e-9ad5b33fa45d")
-		(property "Reference" "SW60"
+		(property "Reference" "SW5"
 			(at 83.82 247.65 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24144,7 +24366,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "SW60")
+					(reference "SW5")
 					(unit 1)
 				)
 			)
@@ -24161,7 +24383,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c9c0605b-313b-4a06-8a0b-3dec285da422")
-		(property "Reference" "D33"
+		(property "Reference" "D13"
 			(at 110.49 200.66 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24245,7 +24467,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "D33")
+					(reference "D13")
 					(unit 1)
 				)
 			)
@@ -24262,7 +24484,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "cabc696b-e5ad-4038-82e6-ff1a03d48c4c")
-		(property "Reference" "SW55"
+		(property "Reference" "SW49"
 			(at 200.66 219.71 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24324,84 +24546,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "SW55")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 294.64 78.74 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "cb5c7913-5d0c-4621-9a87-697536e161f9")
-		(property "Reference" "#PWR012"
-			(at 294.64 85.09 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 294.64 82.55 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 294.64 78.74 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 294.64 78.74 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 294.64 78.74 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "794a45fc-53f3-4055-936d-13a38e8d0e60")
-		)
-		(instances
-			(project "Caon-Handwired-Prototype"
-				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "#PWR012")
+					(reference "SW49")
 					(unit 1)
 				)
 			)
@@ -24418,7 +24563,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "cbb54087-a3fd-40ff-bc18-5625993390b6")
-		(property "Reference" "D17"
+		(property "Reference" "D7"
 			(at 96.52 171.45 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24502,7 +24647,88 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "D17")
+					(reference "D7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 320.04 76.2 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "cd5f7884-55e5-4816-8e1e-eb937130a5ce")
+		(property "Reference" "C5"
+			(at 322.58 74.93 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10uf"
+			(at 322.58 77.47 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 320.04 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 320.04 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 320.04 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "595a6fa3-5a67-4ea6-b82d-8da33ac1237d")
+		)
+		(pin "2"
+			(uuid "f44ca104-f417-43df-b2b0-6ab4542a97fa")
+		)
+		(instances
+			(project "Caon-Handwired-Prototype"
+				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
+					(reference "C5")
 					(unit 1)
 				)
 			)
@@ -24519,7 +24745,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "cdc8dc03-91b2-4a81-9e1e-9f39fd964b9f")
-		(property "Reference" "SW51"
+		(property "Reference" "SW29"
 			(at 148.59 219.71 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24581,7 +24807,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "SW51")
+					(reference "SW29")
 					(unit 1)
 				)
 			)
@@ -24675,7 +24901,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d0f87b3f-8e34-4967-8755-ee62bbabc065")
-		(property "Reference" "SW67"
+		(property "Reference" "SW40"
 			(at 175.26 247.65 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24737,7 +24963,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "SW67")
+					(reference "SW40")
 					(unit 1)
 				)
 			)
@@ -24754,7 +24980,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d14369ad-ab2b-48d8-912b-53fa9f775a1b")
-		(property "Reference" "D59"
+		(property "Reference" "D69"
 			(at 251.46 232.41 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24838,7 +25064,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "D59")
+					(reference "D69")
 					(unit 1)
 				)
 			)
@@ -24855,7 +25081,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d27bc39b-2af4-4a14-844c-bdfc24d28701")
-		(property "Reference" "D72"
+		(property "Reference" "D65"
 			(at 238.76 260.35 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24939,7 +25165,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "D72")
+					(reference "D65")
 					(unit 1)
 				)
 			)
@@ -24956,7 +25182,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d32d4d9e-cfd1-4cbe-8b8f-159f11e16e8e")
-		(property "Reference" "SW53"
+		(property "Reference" "SW39"
 			(at 175.26 219.71 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25018,7 +25244,86 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "SW53")
+					(reference "SW39")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 318.77 194.31 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "d35ad01b-a553-4104-9e6e-54d85779ade7")
+		(property "Reference" "R8"
+			(at 315.214 195.58 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10k"
+			(at 315.214 193.04 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical"
+			(at 320.548 194.31 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 318.77 194.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 318.77 194.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "f446b4fb-3d0b-4e3e-9cc1-4c2363e2aaa7")
+		)
+		(pin "2"
+			(uuid "435e3a86-450b-41fc-bc69-f4a24b7ee016")
+		)
+		(instances
+			(project "Caon-Handwired-Prototype"
+				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
+					(reference "R8")
 					(unit 1)
 				)
 			)
@@ -25035,7 +25340,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d402c9e2-2dd4-4c99-bbc1-15d02e924d4b")
-		(property "Reference" "SW39"
+		(property "Reference" "SW43"
 			(at 187.96 187.96 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25097,7 +25402,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "SW39")
+					(reference "SW43")
 					(unit 1)
 				)
 			)
@@ -25114,7 +25419,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d47aeb08-624e-49d9-b650-ebd18131dc17")
-		(property "Reference" "SW54"
+		(property "Reference" "SW44"
 			(at 187.96 219.71 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25176,7 +25481,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "SW54")
+					(reference "SW44")
 					(unit 1)
 				)
 			)
@@ -25193,7 +25498,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d5f2b597-c432-4c4e-927f-f4c859515a68")
-		(property "Reference" "D55"
+		(property "Reference" "D49"
 			(at 200.66 232.41 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25277,7 +25582,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "D55")
+					(reference "D49")
 					(unit 1)
 				)
 			)
@@ -25294,7 +25599,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d64dff9e-484a-4301-a853-fc04b2a11c2e")
-		(property "Reference" "D71"
+		(property "Reference" "D60"
 			(at 226.06 260.35 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25378,7 +25683,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "D71")
+					(reference "D60")
 					(unit 1)
 				)
 			)
@@ -25395,7 +25700,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d68c85c1-acce-48ff-b198-e15c713f7a55")
-		(property "Reference" "SW65"
+		(property "Reference" "SW30"
 			(at 148.59 247.65 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25457,84 +25762,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "SW65")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:VCC")
-		(at 316.23 212.09 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "d7b19ee0-120f-440e-8fc4-426ccc7f8f57")
-		(property "Reference" "#PWR020"
-			(at 316.23 215.9 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 316.23 207.01 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 316.23 212.09 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 316.23 212.09 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 316.23 212.09 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "a0697e20-66e6-46ce-9ba2-ce5c8973e796")
-		)
-		(instances
-			(project "Caon-Handwired-Prototype"
-				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "#PWR020")
+					(reference "SW30")
 					(unit 1)
 				)
 			)
@@ -25551,7 +25779,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d85bdcdc-015e-435a-a78b-cd1bdb481410")
-		(property "Reference" "D8"
+		(property "Reference" "D36"
 			(at 175.26 140.97 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25635,7 +25863,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "D8")
+					(reference "D36")
 					(unit 1)
 				)
 			)
@@ -25652,7 +25880,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d8a747c6-96e6-4bdb-b6cc-67eb8b3873d7")
-		(property "Reference" "SW45"
+		(property "Reference" "SW74"
 			(at 287.02 189.23 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25726,7 +25954,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "SW45")
+					(reference "SW74")
 					(unit 1)
 				)
 			)
@@ -25743,7 +25971,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d9d82de3-7846-4c31-be58-f22a0f5964db")
-		(property "Reference" "D31"
+		(property "Reference" "D3"
 			(at 83.82 200.66 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25827,7 +26055,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "D31")
+					(reference "D3")
 					(unit 1)
 				)
 			)
@@ -25844,7 +26072,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "dc66cb22-4b4f-44ab-9a99-99aaea02e374")
-		(property "Reference" "S_D13"
+		(property "Reference" "S_D8"
 			(at 162.56 63.5 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25928,7 +26156,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "S_D13")
+					(reference "S_D8")
 					(unit 1)
 				)
 			)
@@ -25936,7 +26164,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 317.5 78.74 0)
+		(at 308.61 62.23 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -25945,8 +26173,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e0d226d4-e560-481d-a354-2776af46d07d")
-		(property "Reference" "#PWR013"
-			(at 317.5 85.09 0)
+		(property "Reference" "#PWR017"
+			(at 308.61 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25957,7 +26185,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 317.5 82.55 0)
+			(at 308.61 66.04 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -25967,7 +26195,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 317.5 78.74 0)
+			(at 308.61 62.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25978,7 +26206,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 317.5 78.74 0)
+			(at 308.61 62.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25989,7 +26217,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 317.5 78.74 0)
+			(at 308.61 62.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26005,7 +26233,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "#PWR013")
+					(reference "#PWR017")
 					(unit 1)
 				)
 			)
@@ -26022,7 +26250,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e5b1869b-dabf-4787-83cc-ef7a09a3add9")
-		(property "Reference" "SW64"
+		(property "Reference" "SW25"
 			(at 135.89 247.65 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26084,7 +26312,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "SW64")
+					(reference "SW25")
 					(unit 1)
 				)
 			)
@@ -26101,7 +26329,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e5e92410-7fef-4d0b-91ca-4d153e740d84")
-		(property "Reference" "S_D10"
+		(property "Reference" "S_D11"
 			(at 224.79 58.42 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26185,7 +26413,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "S_D10")
+					(reference "S_D11")
 					(unit 1)
 				)
 			)
@@ -26202,7 +26430,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e6192efe-87b9-4361-96ad-88155baa08ec")
-		(property "Reference" "D39"
+		(property "Reference" "D43"
 			(at 187.96 200.66 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26286,7 +26514,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "D39")
+					(reference "D43")
 					(unit 1)
 				)
 			)
@@ -26303,7 +26531,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e67b3c93-50ec-4f52-b0b2-17382fddfbdf")
-		(property "Reference" "SW11"
+		(property "Reference" "SW51"
 			(at 213.36 128.27 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26365,7 +26593,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "SW11")
+					(reference "SW51")
 					(unit 1)
 				)
 			)
@@ -26382,7 +26610,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e7376af7-7d18-43a3-a72e-2e568040034c")
-		(property "Reference" "#PWR021"
+		(property "Reference" "#PWR02"
 			(at 101.6 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -26442,7 +26670,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "#PWR021")
+					(reference "#PWR02")
 					(unit 1)
 				)
 			)
@@ -26522,83 +26750,6 @@
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
 					(reference "SW1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:VCC")
-		(at 269.24 44.45 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "e90afad4-aaf2-41b9-a932-dec5fb017826")
-		(property "Reference" "#PWR04"
-			(at 269.24 48.26 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 269.24 39.37 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 269.24 44.45 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 269.24 44.45 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 269.24 44.45 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "13336c5a-edb7-4628-a5c8-d357633c2964")
-		)
-		(instances
-			(project "Caon-Handwired-Prototype"
-				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "#PWR04")
 					(unit 1)
 				)
 			)
@@ -26692,7 +26843,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e9a011b0-72ce-4e8b-ac40-6cfe6d5d055d")
-		(property "Reference" "SW14"
+		(property "Reference" "SW66"
 			(at 251.46 128.27 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26754,7 +26905,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "SW14")
+					(reference "SW66")
 					(unit 1)
 				)
 			)
@@ -26771,7 +26922,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ea041cc4-e775-48dd-96ff-a698473323f3")
-		(property "Reference" "D21"
+		(property "Reference" "D27"
 			(at 148.59 171.45 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26855,7 +27006,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "D21")
+					(reference "D27")
 					(unit 1)
 				)
 			)
@@ -26872,7 +27023,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ea77ba7f-009e-4842-88dc-d29331665037")
-		(property "Reference" "D42"
+		(property "Reference" "D58"
 			(at 226.06 200.66 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26956,7 +27107,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "D42")
+					(reference "D58")
 					(unit 1)
 				)
 			)
@@ -26973,7 +27124,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "eba0ae15-7f3b-44b1-879e-86f3776e9c76")
-		(property "Reference" "#PWR02"
+		(property "Reference" "#PWR09"
 			(at 207.01 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -27033,7 +27184,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "#PWR02")
+					(reference "#PWR09")
 					(unit 1)
 				)
 			)
@@ -27050,7 +27201,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ec480dd3-c707-4f2a-8a1d-e6e74ebcefcd")
-		(property "Reference" "SW25"
+		(property "Reference" "SW47"
 			(at 200.66 158.75 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27112,7 +27263,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "SW25")
+					(reference "SW47")
 					(unit 1)
 				)
 			)
@@ -27129,7 +27280,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ec73cdac-943a-4910-b861-1638fe5bb000")
-		(property "Reference" "S_D4"
+		(property "Reference" "S_D13"
 			(at 232.41 50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27213,7 +27364,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "S_D4")
+					(reference "S_D13")
 					(unit 1)
 				)
 			)
@@ -27230,7 +27381,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ee7deefd-d72c-4447-bfb1-ea8881c09ea4")
-		(property "Reference" "D58"
+		(property "Reference" "D64"
 			(at 238.76 232.41 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27314,7 +27465,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "D58")
+					(reference "D64")
 					(unit 1)
 				)
 			)
@@ -27331,7 +27482,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ee825ada-d5d2-487e-a1fc-84b4f2412bb5")
-		(property "Reference" "D24"
+		(property "Reference" "D42"
 			(at 187.96 171.45 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27415,7 +27566,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "D24")
+					(reference "D42")
 					(unit 1)
 				)
 			)
@@ -27432,7 +27583,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "efe59599-14ed-4181-96e5-48b31f79ceec")
-		(property "Reference" "SW27"
+		(property "Reference" "SW57"
 			(at 226.06 158.75 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27494,7 +27645,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "SW27")
+					(reference "SW57")
 					(unit 1)
 				)
 			)
@@ -27511,7 +27662,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f0454312-b029-49e3-b57d-a09e9a3b5717")
-		(property "Reference" "SW71"
+		(property "Reference" "SW60"
 			(at 226.06 247.65 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27573,7 +27724,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "SW71")
+					(reference "SW60")
 					(unit 1)
 				)
 			)
@@ -27590,7 +27741,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f0cfac0e-1067-42d2-bef4-9e06c35ccc38")
-		(property "Reference" "D69"
+		(property "Reference" "D50"
 			(at 200.66 260.35 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27674,7 +27825,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "D69")
+					(reference "D50")
 					(unit 1)
 				)
 			)
@@ -27691,7 +27842,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f174898b-ca9d-4d28-92eb-a5ad22b93741")
-		(property "Reference" "D62"
+		(property "Reference" "D15"
 			(at 110.49 260.35 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27775,7 +27926,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "D62")
+					(reference "D15")
 					(unit 1)
 				)
 			)
@@ -27792,7 +27943,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f223fd36-0e2d-49e3-93ac-ca9e080cc9bb")
-		(property "Reference" "SW57"
+		(property "Reference" "SW59"
 			(at 226.06 219.71 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27854,7 +28005,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "SW57")
+					(reference "SW59")
 					(unit 1)
 				)
 			)
@@ -27871,7 +28022,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f3118a78-e508-4422-8bb0-e9b1f59abc41")
-		(property "Reference" "D61"
+		(property "Reference" "D10"
 			(at 96.52 260.35 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27955,7 +28106,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "D61")
+					(reference "D10")
 					(unit 1)
 				)
 			)
@@ -27972,7 +28123,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f4e506f2-12eb-4a42-920e-34bf983a098f")
-		(property "Reference" "SW68"
+		(property "Reference" "SW45"
 			(at 187.96 247.65 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28034,7 +28185,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "SW68")
+					(reference "SW45")
 					(unit 1)
 				)
 			)
@@ -28051,7 +28202,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f4ebd556-fb67-4ad5-ae71-ff6abda70db1")
-		(property "Reference" "SW62"
+		(property "Reference" "SW15"
 			(at 110.49 247.65 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28113,7 +28264,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "SW62")
+					(reference "SW15")
 					(unit 1)
 				)
 			)
@@ -28130,7 +28281,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f56839b8-6d55-4521-b66b-328b91c67a3f")
-		(property "Reference" "SW33"
+		(property "Reference" "SW13"
 			(at 110.49 187.96 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28192,7 +28343,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "SW33")
+					(reference "SW13")
 					(unit 1)
 				)
 			)
@@ -28209,7 +28360,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f60e82ba-06c4-4ca5-bddc-76c919603f26")
-		(property "Reference" "SW37"
+		(property "Reference" "SW33"
 			(at 161.29 187.96 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28271,7 +28422,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "SW37")
+					(reference "SW33")
 					(unit 1)
 				)
 			)
@@ -28288,7 +28439,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f946dc5b-9d35-478d-94f5-d93cf3ecdcb0")
-		(property "Reference" "#PWR09"
+		(property "Reference" "#PWR06"
 			(at 137.16 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -28348,7 +28499,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "#PWR09")
+					(reference "#PWR06")
 					(unit 1)
 				)
 			)
@@ -28365,7 +28516,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "fc2c21ab-0a10-417b-a752-30c4e5d8f0ab")
-		(property "Reference" "D3"
+		(property "Reference" "D11"
 			(at 111.76 140.97 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28449,7 +28600,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "D3")
+					(reference "D11")
 					(unit 1)
 				)
 			)
@@ -28466,7 +28617,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "fcfe654d-f71f-4b9e-b7b8-98922c6ef062")
-		(property "Reference" "D15"
+		(property "Reference" "D71"
 			(at 265.43 140.97 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28550,7 +28701,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "D15")
+					(reference "D71")
 					(unit 1)
 				)
 			)
@@ -28567,7 +28718,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "fef5f208-f059-4476-902d-8de68704b05d")
-		(property "Reference" "SW49"
+		(property "Reference" "SW19"
 			(at 123.19 219.71 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28629,7 +28780,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "SW49")
+					(reference "SW19")
 					(unit 1)
 				)
 			)
