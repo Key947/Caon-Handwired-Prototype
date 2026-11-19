@@ -3036,17 +3036,6 @@
 		)
 		(uuid "45c8b630-122b-427b-97c9-d75a83588c16")
 	)
-	(text "*107 Unused MISO"
-		(exclude_from_sim no)
-		(at 78.74 82.55 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "48077d32-91d5-4a03-9b21-a9c408dd5c6d")
-	)
 	(text "Switch and Encoder Matrix"
 		(exclude_from_sim no)
 		(at 44.45 88.9 0)
@@ -10986,7 +10975,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 290.322 163.83 90)
 			(hide yes)
 			(show_name no)
@@ -11029,168 +11018,6 @@
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
 					(reference "R3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 321.31 209.55 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "05eb4d80-b511-448e-a783-9429bb002f24")
-		(property "Reference" "C10"
-			(at 323.596 208.788 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "10uf"
-			(at 323.596 210.566 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 321.31 209.55 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 321.31 209.55 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 321.31 209.55 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "2370b4ab-8192-4c21-b7c8-45c0ce93a838")
-		)
-		(pin "2"
-			(uuid "924229cf-5aa5-4451-8244-c708b54ac605")
-		)
-		(instances
-			(project "Caon-Handwired-Prototype"
-				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "C10")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 312.42 209.55 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "05f7a0e8-22b4-4169-8bb3-c737cd057e81")
-		(property "Reference" "C9"
-			(at 314.706 208.788 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "10uf"
-			(at 314.706 210.566 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 312.42 209.55 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 312.42 209.55 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 312.42 209.55 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "87d6344d-51fe-4075-ad76-304498905315")
-		)
-		(pin "2"
-			(uuid "f035ae4c-9591-4b4c-bfff-f70fd98dba25")
-		)
-		(instances
-			(project "Caon-Handwired-Prototype"
-				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "C9")
 					(unit 1)
 				)
 			)
@@ -11330,7 +11157,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 226.06 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -11400,7 +11227,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10uf"
+		(property "Value" "10nf"
 			(at 314.706 180.086 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11411,7 +11238,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 312.42 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -11670,7 +11497,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 123.19 251.46 0)
 			(hide yes)
 			(show_name no)
@@ -11749,7 +11576,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 135.89 162.56 0)
 			(hide yes)
 			(show_name no)
@@ -11922,7 +11749,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10uf"
+		(property "Value" "1uf"
 			(at 166.116 77.216 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11933,7 +11760,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
 			(at 163.83 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -12014,7 +11841,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 327.66 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -12357,7 +12184,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 135.89 223.52 0)
 			(hide yes)
 			(show_name no)
@@ -12436,7 +12263,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 226.06 191.77 0)
 			(hide yes)
 			(show_name no)
@@ -12618,7 +12445,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 187.96 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -12800,7 +12627,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 213.36 223.52 0)
 			(hide yes)
 			(show_name no)
@@ -13085,7 +12912,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 135.89 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -13164,7 +12991,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 238.76 162.56 0)
 			(hide yes)
 			(show_name no)
@@ -13207,6 +13034,87 @@
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
 					(reference "SW28")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 321.31 179.07 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "286188af-cb01-4025-83c9-5048c48a60f5")
+		(property "Reference" "C8"
+			(at 323.596 178.308 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10nf"
+			(at 323.596 180.086 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+			(at 321.31 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 321.31 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 321.31 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "f2be9d44-1e24-41fe-a1dc-0f0e0071dfaa")
+		)
+		(pin "2"
+			(uuid "cfec012a-0461-48e6-b408-619d3649779e")
+		)
+		(instances
+			(project "Caon-Handwired-Prototype"
+				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
+					(reference "C8")
 					(unit 1)
 				)
 			)
@@ -13526,7 +13434,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 265.43 251.46 0)
 			(hide yes)
 			(show_name no)
@@ -13605,7 +13513,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 96.52 251.46 0)
 			(hide yes)
 			(show_name no)
@@ -13684,7 +13592,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 200.66 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -13763,7 +13671,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 251.46 162.56 0)
 			(hide yes)
 			(show_name no)
@@ -13842,7 +13750,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 187.96 162.56 0)
 			(hide yes)
 			(show_name no)
@@ -13921,7 +13829,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 161.29 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -14000,7 +13908,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 265.43 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -14079,7 +13987,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 83.82 223.52 0)
 			(hide yes)
 			(show_name no)
@@ -14158,7 +14066,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 161.29 162.56 0)
 			(hide yes)
 			(show_name no)
@@ -14342,7 +14250,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 295.148 60.96 90)
 			(hide yes)
 			(show_name no)
@@ -14421,7 +14329,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 251.46 223.52 0)
 			(hide yes)
 			(show_name no)
@@ -14783,7 +14691,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 200.66 251.46 0)
 			(hide yes)
 			(show_name no)
@@ -14864,7 +14772,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 175.26 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -14945,7 +14853,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 296.672 163.83 90)
 			(hide yes)
 			(show_name no)
@@ -15127,7 +15035,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 123.19 162.56 0)
 			(hide yes)
 			(show_name no)
@@ -15283,7 +15191,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 83.82 162.56 0)
 			(hide yes)
 			(show_name no)
@@ -15671,7 +15579,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 238.76 251.46 0)
 			(hide yes)
 			(show_name no)
@@ -15853,7 +15761,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 238.76 223.52 0)
 			(hide yes)
 			(show_name no)
@@ -15932,7 +15840,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 161.29 251.46 0)
 			(hide yes)
 			(show_name no)
@@ -16294,7 +16202,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 213.36 191.77 0)
 			(hide yes)
 			(show_name no)
@@ -16453,7 +16361,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 110.49 223.52 0)
 			(hide yes)
 			(show_name no)
@@ -16532,7 +16440,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 175.26 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -16684,6 +16592,87 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_Small")
+		(at 312.42 209.55 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "6622cec2-c247-4e13-a634-3e7cd6d29df3")
+		(property "Reference" "C9"
+			(at 314.706 208.788 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10nf"
+			(at 314.706 210.566 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+			(at 312.42 209.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 312.42 209.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 312.42 209.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "77a02c4a-ee1d-484f-ac69-4c6dcf84fbb9")
+		)
+		(pin "2"
+			(uuid "4574c927-3591-4ca8-915f-2a3ef251ca47")
+		)
+		(instances
+			(project "Caon-Handwired-Prototype"
+				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
+					(reference "C9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Switch:SW_Push_45deg")
 		(at 96.52 191.77 0)
 		(unit 1)
@@ -16714,7 +16703,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 96.52 191.77 0)
 			(hide yes)
 			(show_name no)
@@ -16793,7 +16782,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 213.36 251.46 0)
 			(hide yes)
 			(show_name no)
@@ -16872,7 +16861,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 148.59 191.77 0)
 			(hide yes)
 			(show_name no)
@@ -17018,6 +17007,87 @@
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
 					(reference "D34")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 321.31 209.55 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "7119749a-03eb-4375-be52-a4df8a036a94")
+		(property "Reference" "C10"
+			(at 323.596 208.788 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10nf"
+			(at 323.596 210.566 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+			(at 321.31 209.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 321.31 209.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 321.31 209.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "eac157e5-f792-4130-a3d0-f6b73f8db060")
+		)
+		(pin "2"
+			(uuid "fb1b9194-f6fe-41f7-86c4-56205f9b1f87")
+		)
+		(instances
+			(project "Caon-Handwired-Prototype"
+				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
+					(reference "C10")
 					(unit 1)
 				)
 			)
@@ -17440,7 +17510,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 306.07 170.688 90)
 			(hide yes)
 			(show_name no)
@@ -17519,7 +17589,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 200.66 191.77 0)
 			(hide yes)
 			(show_name no)
@@ -17701,7 +17771,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 238.76 191.77 0)
 			(hide yes)
 			(show_name no)
@@ -17780,7 +17850,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 148.59 162.56 0)
 			(hide yes)
 			(show_name no)
@@ -17859,7 +17929,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 110.49 162.56 0)
 			(hide yes)
 			(show_name no)
@@ -18144,7 +18214,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 175.26 191.77 0)
 			(hide yes)
 			(show_name no)
@@ -18223,7 +18293,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 251.46 251.46 0)
 			(hide yes)
 			(show_name no)
@@ -18405,7 +18475,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 238.76 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -18531,87 +18601,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Small")
-		(at 321.31 179.07 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "8ab8c8f9-a517-4062-a9ed-87c88df793d7")
-		(property "Reference" "C8"
-			(at 323.596 178.308 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "10uf"
-			(at 323.596 180.086 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 321.31 179.07 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 321.31 179.07 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 321.31 179.07 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "2eeb8b43-8205-4529-8344-a69100062a6c")
-		)
-		(pin "2"
-			(uuid "8a596ec4-adc3-4b52-b774-ac46cb44e841")
-		)
-		(instances
-			(project "Caon-Handwired-Prototype"
-				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "C8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Switch:SW_Push_45deg")
 		(at 251.46 191.77 0)
 		(unit 1)
@@ -18642,7 +18631,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 251.46 191.77 0)
 			(hide yes)
 			(show_name no)
@@ -18721,7 +18710,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 96.52 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -18800,7 +18789,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 213.36 162.56 0)
 			(hide yes)
 			(show_name no)
@@ -19120,7 +19109,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 123.19 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -19199,7 +19188,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 110.49 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -19486,7 +19475,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 301.498 60.96 90)
 			(hide yes)
 			(show_name no)
@@ -19556,7 +19545,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10uf"
+		(property "Value" "1uf"
 			(at 237.236 77.216 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19567,7 +19556,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
 			(at 234.95 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -19649,7 +19638,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
+		(property "Footprint" "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm"
 			(at 137.16 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -20079,7 +20068,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 83.82 191.77 0)
 			(hide yes)
 			(show_name no)
@@ -20158,7 +20147,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 96.52 162.56 0)
 			(hide yes)
 			(show_name no)
@@ -20240,7 +20229,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
+		(property "Footprint" "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm"
 			(at 207.01 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -20927,7 +20916,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 135.89 191.77 0)
 			(hide yes)
 			(show_name no)
@@ -21366,7 +21355,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 123.19 191.77 0)
 			(hide yes)
 			(show_name no)
@@ -21445,7 +21434,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 306.07 206.248 90)
 			(hide yes)
 			(show_name no)
@@ -21728,7 +21717,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 96.52 223.52 0)
 			(hide yes)
 			(show_name no)
@@ -22167,7 +22156,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 175.26 162.56 0)
 			(hide yes)
 			(show_name no)
@@ -22323,7 +22312,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 148.59 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -22711,7 +22700,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 161.29 223.52 0)
 			(hide yes)
 			(show_name no)
@@ -22895,7 +22884,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 246.38 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -23168,7 +23157,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 83.82 251.46 0)
 			(hide yes)
 			(show_name no)
@@ -23350,7 +23339,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 200.66 223.52 0)
 			(hide yes)
 			(show_name no)
@@ -23600,7 +23589,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10uf"
+		(property "Value" "1uf"
 			(at 318.516 64.516 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23611,7 +23600,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
 			(at 316.23 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -23690,7 +23679,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 148.59 223.52 0)
 			(hide yes)
 			(show_name no)
@@ -23870,7 +23859,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 175.26 251.46 0)
 			(hide yes)
 			(show_name no)
@@ -23949,7 +23938,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 175.26 223.52 0)
 			(hide yes)
 			(show_name no)
@@ -24028,7 +24017,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 187.96 191.77 0)
 			(hide yes)
 			(show_name no)
@@ -24107,7 +24096,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 187.96 223.52 0)
 			(hide yes)
 			(show_name no)
@@ -24366,7 +24355,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 148.59 251.46 0)
 			(hide yes)
 			(show_name no)
@@ -24447,7 +24436,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 290.322 194.31 90)
 			(hide yes)
 			(show_name no)
@@ -25003,7 +24992,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 306.07 201.168 90)
 			(hide yes)
 			(show_name no)
@@ -25365,7 +25354,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 135.89 251.46 0)
 			(hide yes)
 			(show_name no)
@@ -25444,7 +25433,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 213.36 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -25780,7 +25769,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 83.82 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -25962,7 +25951,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 251.46 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -26247,7 +26236,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 200.66 162.56 0)
 			(hide yes)
 			(show_name no)
@@ -26326,7 +26315,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 226.06 162.56 0)
 			(hide yes)
 			(show_name no)
@@ -26508,7 +26497,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 226.06 251.46 0)
 			(hide yes)
 			(show_name no)
@@ -26690,7 +26679,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 226.06 223.52 0)
 			(hide yes)
 			(show_name no)
@@ -26769,7 +26758,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 306.07 175.768 90)
 			(hide yes)
 			(show_name no)
@@ -26848,7 +26837,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 187.96 251.46 0)
 			(hide yes)
 			(show_name no)
@@ -26927,7 +26916,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 110.49 251.46 0)
 			(hide yes)
 			(show_name no)
@@ -27109,7 +27098,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 110.49 191.77 0)
 			(hide yes)
 			(show_name no)
@@ -27291,7 +27280,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 161.29 191.77 0)
 			(hide yes)
 			(show_name no)
@@ -27372,7 +27361,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 296.672 194.31 90)
 			(hide yes)
 			(show_name no)
@@ -27940,7 +27929,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 123.19 223.52 0)
 			(hide yes)
 			(show_name no)
