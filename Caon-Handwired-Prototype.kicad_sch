@@ -391,6 +391,146 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Connector:Conn_01x01_Pin"
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "J"
+				(at 0 2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Conn_01x01_Pin"
+				(at 0 -2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Generic connector, single row, 01x01, script generated"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "connector"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "Connector*:*_1x??_*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "Conn_01x01_Pin_1_1"
+				(rectangle
+					(start 0.8636 0.127)
+					(end 0 -0.127)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 0) (xy 0.8636 0)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at 5.08 0 180)
+					(length 3.81)
+					(name "Pin_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Device:C_Small"
 			(pin_numbers
 				(hide yes)
@@ -2726,6 +2866,18 @@
 		)
 		(uuid "ebec7781-edbf-49b6-8ce1-75f2616b1a2d")
 	)
+	(rectangle
+		(start 340.36 33.02)
+		(end 425.45 87.63)
+		(stroke
+			(width 0.508)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "ecc3cb1a-0b7e-46e9-ba6a-9398ab78d3aa")
+	)
 	(text "`~"
 		(exclude_from_sim no)
 		(at 213.36 245.11 0)
@@ -2765,6 +2917,17 @@
 			)
 		)
 		(uuid "0f2306a9-be6d-44a4-9f92-995e8f56cd4b")
+	)
+	(text "Jumpers"
+		(exclude_from_sim no)
+		(at 341.376 34.036 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+			(justify left top)
+		)
+		(uuid "105e7717-8ec3-410c-b04a-935ca4c12fc7")
 	)
 	(text "F3"
 		(exclude_from_sim no)
@@ -9543,30 +9706,6 @@
 			)
 		)
 	)
-	(global_label "CS"
-		(shape input)
-		(at 215.9 78.74 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "1d5b195b-4ea0-47a3-ac8c-da261ed67a1d")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 210.4353 78.74 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
 	(global_label "R1"
 		(shape output)
 		(at 69.85 173.99 180)
@@ -9604,30 +9743,6 @@
 		(uuid "26d8dbf2-be5d-4466-bb48-b244385005f4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 227.7147 62.23 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "CS"
-		(shape output)
-		(at 223.52 78.74 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "2767f375-aa42-4807-a78b-7b583cedbc65")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 228.9847 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9700,6 +9815,30 @@
 		(uuid "2b05eec8-ae33-4f88-98cd-84c8c5abf209")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 333.8504 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "QH'"
+		(shape input)
+		(at 350.52 64.77 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "2c1eaef2-0edd-47f1-bb6d-a9f7c4d90fe6")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 356.771 64.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9927,30 +10066,6 @@
 			)
 		)
 	)
-	(global_label "CS"
-		(shape input)
-		(at 146.05 78.74 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "46c8b789-39aa-44d5-abff-7eab06fa8c55")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 140.5853 78.74 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
 	(global_label "C13"
 		(shape input)
 		(at 247.65 116.84 180)
@@ -9999,6 +10114,30 @@
 			)
 		)
 	)
+	(global_label "C14"
+		(shape output)
+		(at 350.52 77.47 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "5767e788-bffd-4ffe-bbba-946c157afb0b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 357.1942 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
 	(global_label "C5"
 		(shape input)
 		(at 144.78 116.84 180)
@@ -10020,6 +10159,30 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+			)
+		)
+	)
+	(global_label "CS"
+		(shape input)
+		(at 350.52 69.85 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "6eff1742-1429-47be-969d-ea2c9741c2f5")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 355.9847 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 	)
@@ -10092,6 +10255,30 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+			)
+		)
+	)
+	(global_label "QH'"
+		(shape input)
+		(at 350.52 62.23 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "73e1c64f-8700-429a-9cfa-275fb17f26fa")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 356.771 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 	)
@@ -10188,6 +10375,30 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+			)
+		)
+	)
+	(global_label "CS"
+		(shape input)
+		(at 350.52 67.31 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "87fb24ac-e09b-48fe-ad89-ba51461718f1")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 355.9847 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 	)
@@ -10455,6 +10666,30 @@
 			)
 		)
 	)
+	(global_label "MOSI"
+		(shape input)
+		(at 350.52 72.39 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c8e68c24-bfe3-4589-8be5-84d7d24e1706")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 358.1014 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
 	(global_label "CS"
 		(shape output)
 		(at 59.69 57.15 180)
@@ -10476,30 +10711,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-			)
-		)
-	)
-	(global_label "CS"
-		(shape output)
-		(at 153.67 78.74 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "cb75f7c1-f0f4-4a75-8f17-995dacafbf07")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 159.1347 78.74 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
 			)
 		)
 	)
@@ -10740,6 +10951,30 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+			)
+		)
+	)
+	(global_label "MOSI"
+		(shape input)
+		(at 350.52 74.93 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e653d578-8227-43a1-8627-e756e661e98f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 358.1014 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 	)
@@ -11049,7 +11284,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "02919959-fa30-4b1a-ba56-b9fa0463b55e")
-		(property "Reference" "R5"
+		(property "Reference" "R3"
 			(at 293.878 162.814 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11113,7 +11348,84 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "R5")
+					(reference "R3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:VCC")
+		(at 350.52 55.88 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "07e37fad-af73-476a-92b6-979616db491d")
+		(property "Reference" "#PWR013"
+			(at 350.52 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 350.52 52.578 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 350.52 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 350.52 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VCC\""
+			(at 350.52 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "a769007a-6215-4277-b044-c9397702bb60")
+		)
+		(instances
+			(project "Caon-Handwired-Prototype"
+				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
+					(reference "#PWR013")
 					(unit 1)
 				)
 			)
@@ -11454,6 +11766,85 @@
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
 					(reference "#PWR02")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x01_Pin")
+		(at 345.44 62.23 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "0dba5baf-1925-4a6b-99b2-60cb87ad934f")
+		(property "Reference" "J7"
+			(at 344.424 62.23 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Conn_01x01_Pin"
+			(at 343.916 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_1x01_P1.00mm_Vertical"
+			(at 345.44 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 345.44 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 345.44 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "721711fe-0c7f-4df0-8e92-445d8e0fe989")
+		)
+		(instances
+			(project "Caon-Handwired-Prototype"
+				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
+					(reference "J7")
 					(unit 1)
 				)
 			)
@@ -12089,6 +12480,164 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:Conn_01x01_Pin")
+		(at 345.44 49.53 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "15122ffc-f626-4486-a544-e584215dbb7a")
+		(property "Reference" "J4"
+			(at 344.678 49.53 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Conn_01x01_Pin"
+			(at 343.916 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_1x01_P1.00mm_Vertical"
+			(at 345.44 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 345.44 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 345.44 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "2da77ac6-0cc7-46b7-bc9c-1a676f8da8a9")
+		)
+		(instances
+			(project "Caon-Handwired-Prototype"
+				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
+					(reference "J4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x01_Pin")
+		(at 345.44 74.93 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "1756eaa0-825f-47e0-b30b-1229f9392eda")
+		(property "Reference" "J13"
+			(at 344.424 74.93 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Conn_01x01_Pin"
+			(at 343.916 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_1x01_P1.00mm_Vertical"
+			(at 345.44 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 345.44 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 345.44 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "9966f5a0-91ee-478c-89aa-9750b465d6bd")
+		)
+		(instances
+			(project "Caon-Handwired-Prototype"
+				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
+					(reference "J13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "PCM_marbastlib-promicroish:SuperMini_nRF52840")
 		(at 78.74 60.96 0)
 		(unit 1)
@@ -12505,6 +13054,85 @@
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
 					(reference "D67")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x01_Pin")
+		(at 345.44 67.31 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "1c701276-7142-4c46-9f89-76d9aa031b76")
+		(property "Reference" "J10"
+			(at 344.424 67.31 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Conn_01x01_Pin"
+			(at 343.916 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_1x01_P1.00mm_Vertical"
+			(at 345.44 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 345.44 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 345.44 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "8bd2a2cd-a4d4-47b5-9463-e50496e76899")
+		)
+		(instances
+			(project "Caon-Handwired-Prototype"
+				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
+					(reference "J10")
 					(unit 1)
 				)
 			)
@@ -12978,6 +13606,85 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:Conn_01x01_Pin")
+		(at 345.44 72.39 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "241c20d5-8928-492c-868b-cff626e0c709")
+		(property "Reference" "J12"
+			(at 344.424 72.39 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Conn_01x01_Pin"
+			(at 343.916 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_1x01_P1.00mm_Vertical"
+			(at 345.44 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 345.44 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 345.44 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "36a53e68-5b8f-466f-b8e6-977edf7376b0")
+		)
+		(instances
+			(project "Caon-Handwired-Prototype"
+				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
+					(reference "J12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Switch:SW_Push_45deg")
 		(at 135.89 132.08 0)
 		(unit 1)
@@ -13423,6 +14130,85 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:Conn_01x01_Pin")
+		(at 345.44 77.47 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "2adad817-c8be-47cc-8778-9d52d6e90bc3")
+		(property "Reference" "J14"
+			(at 344.424 77.47 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Conn_01x01_Pin"
+			(at 343.916 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_1x01_P1.00mm_Vertical"
+			(at 345.44 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 345.44 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 345.44 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "244452b5-effc-44b1-a58d-42265dadf12b")
+		)
+		(instances
+			(project "Caon-Handwired-Prototype"
+				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
+					(reference "J14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:VCC")
 		(at 234.95 71.12 0)
 		(unit 1)
@@ -13433,7 +14219,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2e2a0aae-085a-40af-8d2d-7556f77f3eed")
-		(property "Reference" "#PWR012"
+		(property "Reference" "#PWR018"
 			(at 234.95 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -13493,7 +14279,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "#PWR012")
+					(reference "#PWR018")
 					(unit 1)
 				)
 			)
@@ -14587,7 +15373,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4076784f-5d7e-4163-bb0b-3bc599909682")
-		(property "Reference" "#PWR013"
+		(property "Reference" "#PWR019"
 			(at 137.16 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -14647,7 +15433,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "#PWR013")
+					(reference "#PWR019")
 					(unit 1)
 				)
 			)
@@ -14927,7 +15713,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "470d1a78-da26-4022-8e97-acdefcbb0edc")
-		(property "Reference" "R6"
+		(property "Reference" "R4"
 			(at 300.228 162.814 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14991,7 +15777,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "R6")
+					(reference "R4")
 					(unit 1)
 				)
 			)
@@ -15190,7 +15976,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4a83a57f-c068-4a34-a557-517629f208f7")
-		(property "Reference" "#PWR019"
+		(property "Reference" "#PWR025"
 			(at 292.1 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -15250,7 +16036,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "#PWR019")
+					(reference "#PWR025")
 					(unit 1)
 				)
 			)
@@ -15336,8 +16122,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 149.86 78.74 90)
+		(lib_id "Connector:Conn_01x01_Pin")
+		(at 345.44 64.77 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -15345,29 +16131,32 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "4fb64736-b86c-42fd-be9f-7cf4c47e1acd")
-		(property "Reference" "R3"
-			(at 149.86 74.93 90)
+		(uuid "4dc0c967-5d5a-4f32-be7d-da739512415d")
+		(property "Reference" "J9"
+			(at 344.424 64.77 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.016 1.016)
 				)
+				(justify right)
 			)
 		)
-		(property "Value" "0Ω"
-			(at 149.86 76.708 90)
+		(property "Value" "Conn_01x01_Pin"
+			(at 343.916 66.04 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.016 1.016)
 				)
+				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
-			(at 149.86 80.518 90)
+		(property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_1x01_P1.00mm_Vertical"
+			(at 345.44 64.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15378,7 +16167,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 149.86 78.74 0)
+			(at 345.44 64.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15388,8 +16177,8 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
-			(at 149.86 78.74 0)
+		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 345.44 64.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15400,15 +16189,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "3749bd2e-9a1f-4e17-b5ed-666f99df5734")
-		)
-		(pin "2"
-			(uuid "810ee8db-b1a5-4ba1-843f-0c982a7d48b1")
+			(uuid "113be428-dab9-4840-a25c-105a0e935710")
 		)
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "R3")
+					(reference "J9")
 					(unit 1)
 				)
 			)
@@ -16280,7 +17066,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5bd4d412-b184-41c5-8464-9e3214c8a618")
-		(property "Reference" "#PWR06"
+		(property "Reference" "#PWR010"
 			(at 49.53 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -16340,7 +17126,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "#PWR06")
+					(reference "#PWR010")
 					(unit 1)
 				)
 			)
@@ -16420,6 +17206,85 @@
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
 					(reference "SW41")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x01_Pin")
+		(at 345.44 55.88 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "5dc8022a-c551-480d-88e4-e6b8594bb38f")
+		(property "Reference" "J6"
+			(at 344.678 55.88 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Conn_01x01_Pin"
+			(at 343.916 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_1x01_P1.00mm_Vertical"
+			(at 345.44 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 345.44 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 345.44 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "bc92b5fc-0db4-43e6-8d80-bb88678e4d98")
+		)
+		(instances
+			(project "Caon-Handwired-Prototype"
+				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
+					(reference "J6")
 					(unit 1)
 				)
 			)
@@ -16927,6 +17792,85 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:Conn_01x01_Pin")
+		(at 358.14 53.34 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "68e44065-976a-422c-a601-6d9a0604bcdc")
+		(property "Reference" "J5"
+			(at 357.378 53.34 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Conn_01x01_Pin"
+			(at 356.616 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_1x01_P1.00mm_Vertical"
+			(at 358.14 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 358.14 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 358.14 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "4fddeeda-bcb1-4262-9613-67a76e6ee186")
+		)
+		(instances
+			(project "Caon-Handwired-Prototype"
+				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
+					(reference "J5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Switch:SW_Push_45deg")
 		(at 213.36 251.46 0)
 		(unit 1)
@@ -17188,6 +18132,85 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:Conn_01x01_Pin")
+		(at 358.14 46.99 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "7096e9eb-c6fb-4e76-a1f8-1830b7be01ef")
+		(property "Reference" "J3"
+			(at 357.378 46.99 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Conn_01x01_Pin"
+			(at 356.616 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_1x01_P1.00mm_Vertical"
+			(at 358.14 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 358.14 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 358.14 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "2681a1d9-3141-4035-9959-2624b0dd6999")
+		)
+		(instances
+			(project "Caon-Handwired-Prototype"
+				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
+					(reference "J3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 321.31 209.55 0)
 		(unit 1)
@@ -17382,7 +18405,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "755930af-3ada-4153-8d66-30b9be5c6b27")
-		(property "Reference" "#PWR09"
+		(property "Reference" "#PWR015"
 			(at 316.23 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -17442,7 +18465,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "#PWR09")
+					(reference "#PWR015")
 					(unit 1)
 				)
 			)
@@ -17665,7 +18688,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "75cd0bb7-da0d-4567-bc2b-04f298ca7eba")
-		(property "Reference" "R7"
+		(property "Reference" "R5"
 			(at 306.07 165.1 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17727,7 +18750,86 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "R7")
+					(reference "R5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x01_Pin")
+		(at 345.44 43.18 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "77c8bddd-fa04-4374-884b-969c51398ce0")
+		(property "Reference" "J2"
+			(at 344.678 43.18 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Conn_01x01_Pin"
+			(at 343.916 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_1x01_P1.00mm_Vertical"
+			(at 345.44 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 345.44 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 345.44 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "04ee9f91-6a4b-44d0-aea9-05ec7a262710")
+		)
+		(instances
+			(project "Caon-Handwired-Prototype"
+				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
+					(reference "J2")
 					(unit 1)
 				)
 			)
@@ -18709,7 +19811,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "88b0ff31-b641-4bc7-8fee-692705a74738")
-		(property "Reference" "#PWR05"
+		(property "Reference" "#PWR09"
 			(at 109.22 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -18769,7 +19871,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "#PWR05")
+					(reference "#PWR09")
 					(unit 1)
 				)
 			)
@@ -19023,7 +20125,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "92ca0876-a8cf-4cc4-8313-aa77a244dd35")
-		(property "Reference" "#PWR010"
+		(property "Reference" "#PWR016"
 			(at 327.66 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -19083,7 +20185,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "#PWR010")
+					(reference "#PWR016")
 					(unit 1)
 				)
 			)
@@ -19100,7 +20202,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "92fde2c8-e889-4c16-9a28-b0048e86506a")
-		(property "Reference" "J1"
+		(property "Reference" "J8"
 			(at 276.86 73.66 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19170,7 +20272,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "J1")
+					(reference "J8")
 					(unit 1)
 				)
 			)
@@ -19187,7 +20289,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "935f536b-f718-4ca7-99f2-67cc90d6b61b")
-		(property "Reference" "#PWR021"
+		(property "Reference" "#PWR027"
 			(at 298.45 191.77 0)
 			(hide yes)
 			(show_name no)
@@ -19247,7 +20349,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "#PWR021")
+					(reference "#PWR027")
 					(unit 1)
 				)
 			)
@@ -19904,6 +21006,85 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:Conn_01x01_Pin")
+		(at 345.44 69.85 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "9bdace17-d228-468d-b569-2c9b606f04a0")
+		(property "Reference" "J11"
+			(at 344.424 69.85 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Conn_01x01_Pin"
+			(at 343.916 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_1x01_P1.00mm_Vertical"
+			(at 345.44 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 345.44 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 345.44 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "a8543e0c-70e7-492e-867e-f3e806b888ec")
+		)
+		(instances
+			(project "Caon-Handwired-Prototype"
+				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
+					(reference "J11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Diode:1N4148W")
 		(at 177.8 168.91 90)
 		(unit 1)
@@ -20505,7 +21686,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a16185d4-7cee-4c4e-b97d-3302979e50c0")
-		(property "Reference" "#PWR023"
+		(property "Reference" "#PWR029"
 			(at 321.31 220.98 0)
 			(hide yes)
 			(show_name no)
@@ -20565,7 +21746,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "#PWR023")
+					(reference "#PWR029")
 					(unit 1)
 				)
 			)
@@ -20994,7 +22175,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a9944961-07c1-4988-a7f4-8ee24075b8b1")
-		(property "Reference" "#PWR017"
+		(property "Reference" "#PWR023"
 			(at 330.2 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -21054,7 +22235,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "#PWR017")
+					(reference "#PWR023")
 					(unit 1)
 				)
 			)
@@ -21150,7 +22331,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ac990686-e308-4275-afa8-84c525b93a16")
-		(property "Reference" "#PWR018"
+		(property "Reference" "#PWR024"
 			(at 298.45 161.29 0)
 			(hide yes)
 			(show_name no)
@@ -21210,7 +22391,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "#PWR018")
+					(reference "#PWR024")
 					(unit 1)
 				)
 			)
@@ -21227,7 +22408,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "acab099b-3b27-4b36-87ab-0f049190e475")
-		(property "Reference" "#PWR014"
+		(property "Reference" "#PWR020"
 			(at 207.01 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -21287,7 +22468,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "#PWR014")
+					(reference "#PWR020")
 					(unit 1)
 				)
 			)
@@ -21589,7 +22770,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b3999fd5-60d6-4649-826e-23ea13241df3")
-		(property "Reference" "R12"
+		(property "Reference" "R10"
 			(at 306.07 206.756 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21651,7 +22832,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "R12")
+					(reference "R10")
 					(unit 1)
 				)
 			)
@@ -22054,7 +23235,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "bbc9dff5-b941-4938-84ff-e121ffe146c8")
-		(property "Reference" "#PWR016"
+		(property "Reference" "#PWR022"
 			(at 246.38 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -22114,7 +23295,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "#PWR016")
+					(reference "#PWR022")
 					(unit 1)
 				)
 			)
@@ -22131,7 +23312,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "bbe37aca-0a9d-4908-964e-ceae1b542bfd")
-		(property "Reference" "#PWR07"
+		(property "Reference" "#PWR012"
 			(at 302.26 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -22191,7 +23372,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "#PWR07")
+					(reference "#PWR012")
 					(unit 1)
 				)
 			)
@@ -22381,6 +23562,83 @@
 	)
 	(symbol
 		(lib_id "power:GND")
+		(at 363.22 46.99 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "be8a4943-de36-42a7-9dc8-c43f0a59f53e")
+		(property "Reference" "#PWR06"
+			(at 363.22 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 363.22 50.8 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 363.22 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 363.22 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 363.22 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "1c99ce53-442c-41c2-a766-2aea93c8a21d")
+		)
+		(instances
+			(project "Caon-Handwired-Prototype"
+				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
+					(reference "#PWR06")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
 		(at 321.31 184.15 0)
 		(unit 1)
 		(body_style 1)
@@ -22390,7 +23648,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "bec3f850-2eaa-4db7-86a4-bbe6299f4bdd")
-		(property "Reference" "#PWR020"
+		(property "Reference" "#PWR026"
 			(at 321.31 190.5 0)
 			(hide yes)
 			(show_name no)
@@ -22450,7 +23708,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "#PWR020")
+					(reference "#PWR026")
 					(unit 1)
 				)
 			)
@@ -23484,6 +24742,83 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 363.22 53.34 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "c93762b8-2c2b-404b-a2c3-40e9c9ba2fd1")
+		(property "Reference" "#PWR011"
+			(at 363.22 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 363.22 57.15 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 363.22 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 363.22 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 363.22 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "ea6c5b03-6bba-4b3b-b21b-d56fa6cb0098")
+		)
+		(instances
+			(project "Caon-Handwired-Prototype"
+				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
+					(reference "#PWR011")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Switch:SW_Push_45deg")
 		(at 200.66 223.52 0)
 		(unit 1)
@@ -23573,7 +24908,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "cc296fb7-4d19-45a1-b45d-9db4ddf9e218")
-		(property "Reference" "#PWR022"
+		(property "Reference" "#PWR028"
 			(at 292.1 212.09 0)
 			(hide yes)
 			(show_name no)
@@ -23633,7 +24968,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "#PWR022")
+					(reference "#PWR028")
 					(unit 1)
 				)
 			)
@@ -24500,6 +25835,83 @@
 		)
 	)
 	(symbol
+		(lib_id "power:VCC")
+		(at 350.52 49.53 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "d64dd351-8855-4af2-9c32-ff2ea18a80f0")
+		(property "Reference" "#PWR08"
+			(at 350.52 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 350.52 46.228 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 350.52 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 350.52 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VCC\""
+			(at 350.52 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "47862c24-9eaa-4209-a576-cda8d03e6bc4")
+		)
+		(instances
+			(project "Caon-Handwired-Prototype"
+				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
+					(reference "#PWR08")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Switch:SW_Push_45deg")
 		(at 148.59 251.46 0)
 		(unit 1)
@@ -24589,7 +26001,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d6920035-855d-4b7d-badf-59afa257d0d7")
-		(property "Reference" "R9"
+		(property "Reference" "R7"
 			(at 293.878 193.294 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24653,7 +26065,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "R9")
+					(reference "R7")
 					(unit 1)
 				)
 			)
@@ -25070,7 +26482,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ddd44a22-d778-44e6-ae59-1d9f4f916a08")
-		(property "Reference" "#PWR08"
+		(property "Reference" "#PWR014"
 			(at 283.21 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -25130,7 +26542,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "#PWR08")
+					(reference "#PWR014")
 					(unit 1)
 				)
 			)
@@ -25147,7 +26559,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "dee9d3f1-20de-4764-9850-b06a227efb3f")
-		(property "Reference" "R11"
+		(property "Reference" "R9"
 			(at 306.07 195.58 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25209,7 +26621,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "R11")
+					(reference "R9")
 					(unit 1)
 				)
 			)
@@ -25329,7 +26741,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e42609d1-9235-4033-8eb3-bcc4ac016592")
-		(property "Reference" "#PWR011"
+		(property "Reference" "#PWR017"
 			(at 163.83 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -25389,7 +26801,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "#PWR011")
+					(reference "#PWR017")
 					(unit 1)
 				)
 			)
@@ -25667,7 +27079,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e7050333-d9c2-4d02-9340-14f0bd803aaf")
-		(property "Reference" "#PWR015"
+		(property "Reference" "#PWR021"
 			(at 175.26 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -25727,7 +27139,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "#PWR015")
+					(reference "#PWR021")
 					(unit 1)
 				)
 			)
@@ -26460,6 +27872,85 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:Conn_01x01_Pin")
+		(at 358.14 40.64 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "ef63b059-5e02-424b-b7ae-d4ccd68677a3")
+		(property "Reference" "J1"
+			(at 357.378 40.64 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Conn_01x01_Pin"
+			(at 356.616 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_1x01_P1.00mm_Vertical"
+			(at 358.14 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 358.14 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 358.14 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "96b7b8f2-99cb-4ff2-8794-4373f491b41f")
+		)
+		(instances
+			(project "Caon-Handwired-Prototype"
+				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
+					(reference "J1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Switch:SW_Push_45deg")
 		(at 226.06 162.56 0)
 		(unit 1)
@@ -26913,7 +28404,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f2d6ad21-0296-41ec-85d4-3b1af38f275a")
-		(property "Reference" "R8"
+		(property "Reference" "R6"
 			(at 306.07 176.276 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26975,7 +28466,84 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "R8")
+					(reference "R6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:VCC")
+		(at 350.52 43.18 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "f2e302d8-fd34-4e46-8bd4-12039ed90c28")
+		(property "Reference" "#PWR05"
+			(at 350.52 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 350.52 39.878 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 350.52 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 350.52 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VCC\""
+			(at 350.52 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "8f3d22c2-5c37-4ceb-a324-5dab498b9bfe")
+		)
+		(instances
+			(project "Caon-Handwired-Prototype"
+				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)
@@ -27514,7 +29082,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f91bd186-6a51-405e-86ea-7fbf6e4efe40")
-		(property "Reference" "R10"
+		(property "Reference" "R8"
 			(at 300.228 193.294 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27578,86 +29146,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "R10")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 219.71 78.74 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "f97b9206-e475-4931-a79d-eb16ed67752b")
-		(property "Reference" "R4"
-			(at 219.71 74.93 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-			)
-		)
-		(property "Value" "0Ω"
-			(at 219.71 76.708 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
-			(at 219.71 80.518 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 219.71 78.74 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 219.71 78.74 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "f145b037-fa8e-4644-8c5b-fec9ccff3dc4")
-		)
-		(pin "2"
-			(uuid "72a1a0c5-2870-4f67-918c-f4963e389041")
-		)
-		(instances
-			(project "Caon-Handwired-Prototype"
-				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "R4")
+					(reference "R8")
 					(unit 1)
 				)
 			)
@@ -27777,7 +29266,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "fa944913-6c1a-4ad0-90f9-e285d159bae3")
-		(property "Reference" "#PWR04"
+		(property "Reference" "#PWR07"
 			(at 105.41 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -27837,7 +29326,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "#PWR04")
+					(reference "#PWR07")
 					(unit 1)
 				)
 			)
@@ -28044,6 +29533,83 @@
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
 					(reference "D12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 363.22 40.64 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "fbb683ac-0f61-4145-9ac1-4964a6c8d035")
+		(property "Reference" "#PWR04"
+			(at 363.22 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 363.22 44.45 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 363.22 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 363.22 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 363.22 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "52afb263-17ef-4d3b-bdc9-fae8c1e67f8b")
+		)
+		(instances
+			(project "Caon-Handwired-Prototype"
+				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
+					(reference "#PWR04")
 					(unit 1)
 				)
 			)
