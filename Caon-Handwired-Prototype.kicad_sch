@@ -9543,6 +9543,30 @@
 			)
 		)
 	)
+	(global_label "CS"
+		(shape input)
+		(at 215.9 78.74 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "1d5b195b-4ea0-47a3-ac8c-da261ed67a1d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 210.4353 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(global_label "R1"
 		(shape output)
 		(at 69.85 173.99 180)
@@ -9580,6 +9604,30 @@
 		(uuid "26d8dbf2-be5d-4466-bb48-b244385005f4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 227.7147 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "CS"
+		(shape output)
+		(at 223.52 78.74 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "2767f375-aa42-4807-a78b-7b583cedbc65")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 228.9847 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9876,6 +9924,30 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+	)
+	(global_label "CS"
+		(shape input)
+		(at 146.05 78.74 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "46c8b789-39aa-44d5-abff-7eab06fa8c55")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 140.5853 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 	)
@@ -10404,6 +10476,30 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+			)
+		)
+	)
+	(global_label "CS"
+		(shape output)
+		(at 153.67 78.74 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "cb75f7c1-f0f4-4a75-8f17-995dacafbf07")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 159.1347 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 	)
@@ -10953,7 +11049,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "02919959-fa30-4b1a-ba56-b9fa0463b55e")
-		(property "Reference" "R3"
+		(property "Reference" "R5"
 			(at 293.878 162.814 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11017,7 +11113,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "R3")
+					(reference "R5")
 					(unit 1)
 				)
 			)
@@ -11760,7 +11856,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 163.83 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -11841,7 +11937,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 327.66 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -14772,7 +14868,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 175.26 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -14831,7 +14927,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "470d1a78-da26-4022-8e97-acdefcbb0edc")
-		(property "Reference" "R4"
+		(property "Reference" "R6"
 			(at 300.228 162.814 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14895,7 +14991,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "R4")
+					(reference "R6")
 					(unit 1)
 				)
 			)
@@ -15234,6 +15330,85 @@
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
 					(reference "SW16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 149.86 78.74 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "4fb64736-b86c-42fd-be9f-7cf4c47e1acd")
+		(property "Reference" "R3"
+			(at 149.86 74.93 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+			)
+		)
+		(property "Value" "0Ω"
+			(at 149.86 76.708 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+			(at 149.86 80.518 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 149.86 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 149.86 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "3749bd2e-9a1f-4e17-b5ed-666f99df5734")
+		)
+		(pin "2"
+			(uuid "810ee8db-b1a5-4ba1-843f-0c982a7d48b1")
+		)
+		(instances
+			(project "Caon-Handwired-Prototype"
+				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
+					(reference "R3")
 					(unit 1)
 				)
 			)
@@ -16282,7 +16457,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate"
+		(property "Footprint" "Button_Switch_SMD:SW_Push_SPST_NO_Alps_SKRK"
 			(at 322.58 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -17490,7 +17665,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "75cd0bb7-da0d-4567-bc2b-04f298ca7eba")
-		(property "Reference" "R5"
+		(property "Reference" "R7"
 			(at 306.07 165.1 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17552,7 +17727,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "R5")
+					(reference "R7")
 					(unit 1)
 				)
 			)
@@ -19556,7 +19731,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 234.95 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -21414,7 +21589,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b3999fd5-60d6-4649-826e-23ea13241df3")
-		(property "Reference" "R10"
+		(property "Reference" "R12"
 			(at 306.07 206.756 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21476,7 +21651,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "R10")
+					(reference "R12")
 					(unit 1)
 				)
 			)
@@ -22884,7 +23059,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 246.38 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -23600,7 +23775,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 316.23 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -24414,7 +24589,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d6920035-855d-4b7d-badf-59afa257d0d7")
-		(property "Reference" "R7"
+		(property "Reference" "R9"
 			(at 293.878 193.294 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24478,7 +24653,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "R7")
+					(reference "R9")
 					(unit 1)
 				)
 			)
@@ -24972,7 +25147,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "dee9d3f1-20de-4764-9850-b06a227efb3f")
-		(property "Reference" "R9"
+		(property "Reference" "R11"
 			(at 306.07 195.58 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25034,7 +25209,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "R9")
+					(reference "R11")
 					(unit 1)
 				)
 			)
@@ -26738,7 +26913,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f2d6ad21-0296-41ec-85d4-3b1af38f275a")
-		(property "Reference" "R6"
+		(property "Reference" "R8"
 			(at 306.07 176.276 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26800,7 +26975,7 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "R6")
+					(reference "R8")
 					(unit 1)
 				)
 			)
@@ -27339,7 +27514,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f91bd186-6a51-405e-86ea-7fbf6e4efe40")
-		(property "Reference" "R8"
+		(property "Reference" "R10"
 			(at 300.228 193.294 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27403,7 +27578,86 @@
 		(instances
 			(project "Caon-Handwired-Prototype"
 				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
-					(reference "R8")
+					(reference "R10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 219.71 78.74 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "f97b9206-e475-4931-a79d-eb16ed67752b")
+		(property "Reference" "R4"
+			(at 219.71 74.93 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+			)
+		)
+		(property "Value" "0Ω"
+			(at 219.71 76.708 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+			(at 219.71 80.518 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 219.71 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 219.71 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "f145b037-fa8e-4644-8c5b-fec9ccff3dc4")
+		)
+		(pin "2"
+			(uuid "72a1a0c5-2870-4f67-918c-f4963e389041")
+		)
+		(instances
+			(project "Caon-Handwired-Prototype"
+				(path "/8df2f29a-df03-4271-980f-9b5acafffeb5"
+					(reference "R4")
 					(unit 1)
 				)
 			)
